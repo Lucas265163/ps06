@@ -1,0 +1,3611 @@
+,Time,State,Site,Gender,Population,Death
+1,2009,Alabama, Breast, Female,2448159,645
+2,2009,Alabama, Larynx, Female,2448159,0
+3,2009,Alabama, Larynx, Male,2309779,67
+4,2009,Alabama, Liver, Female,2448159,79
+5,2009,Alabama, Liver, Male,2309779,195
+6,2009,Alabama, Myeloma, Female,2448159,92
+7,2009,Alabama, Myeloma, Male,2309779,94
+8,2009,Alaska, Breast, Female,337002,72
+9,2009,Alaska, Breast, Male,361893,0
+10,2009,Alaska, Larynx, Female,337002,0
+11,2009,Alaska, Liver, Male,361893,20
+12,2009,Arizona, Breast, Female,3189908,716
+13,2009,Arizona, Larynx, Female,3189908,0
+14,2009,Arizona, Larynx, Male,3153246,60
+15,2009,Arizona, Liver, Female,3189908,94
+16,2009,Arizona, Liver, Male,3153246,212
+17,2009,Arizona, Myeloma, Female,3189908,78
+18,2009,Arizona, Myeloma, Male,3153246,106
+19,2009,Arkansas, Breast, Female,1475013,414
+20,2009,Arkansas, Larynx, Male,1421830,22
+21,2009,Arkansas, Liver, Female,1475013,66
+22,2009,Arkansas, Liver, Male,1421830,122
+23,2009,Arkansas, Myeloma, Female,1475013,49
+24,2009,Arkansas, Myeloma, Male,1421830,70
+25,2009,California, Breast, Female,18583075,4413
+26,2009,California, Breast, Male,18378154,26
+27,2009,California, Larynx, Female,18583075,63
+28,2009,California, Larynx, Male,18378154,246
+29,2009,California, Liver, Female,18583075,584
+30,2009,California, Liver, Male,18378154,1447
+31,2009,California, Myeloma, Female,18583075,459
+32,2009,California, Myeloma, Male,18378154,629
+33,2009,Colorado, Breast, Female,2480710,513
+34,2009,Colorado, Larynx, Male,2491485,18
+35,2009,Colorado, Liver, Female,2480710,35
+36,2009,Colorado, Liver, Male,2491485,155
+37,2009,Colorado, Myeloma, Female,2480710,67
+38,2009,Colorado, Myeloma, Male,2491485,66
+39,2009,Connecticut, Breast, Female,1828779,503
+40,2009,Connecticut, Larynx, Male,1733028,33
+41,2009,Connecticut, Liver, Female,1828779,31
+42,2009,Connecticut, Liver, Male,1733028,113
+43,2009,Connecticut, Myeloma, Female,1828779,61
+44,2009,Connecticut, Myeloma, Male,1733028,65
+45,2009,Delaware, Breast, Female,459795,114
+46,2009,Delaware, Breast, Male,431935,0
+47,2009,Delaware, Liver, Female,459795,0
+48,2009,Delaware, Liver, Male,431935,45
+49,2009,Delaware, Myeloma, Female,459795,0
+50,2009,Delaware, Myeloma, Male,431935,25
+51,2009,Florida, Breast, Female,9534289,2776
+52,2009,Florida, Breast, Male,9118355,29
+53,2009,Florida, Larynx, Female,9534289,50
+54,2009,Florida, Larynx, Male,9118355,229
+55,2009,Florida, Liver, Female,9534289,327
+56,2009,Florida, Liver, Male,9118355,798
+57,2009,Florida, Myeloma, Female,9534289,326
+58,2009,Florida, Myeloma, Male,9118355,379
+59,2009,Georgia, Breast, Female,4917756,1221
+60,2009,Georgia, Breast, Male,4703090,36
+61,2009,Georgia, Larynx, Female,4917756,0
+62,2009,Georgia, Larynx, Male,4703090,76
+63,2009,Georgia, Liver, Female,4917756,98
+64,2009,Georgia, Liver, Male,4703090,279
+65,2009,Georgia, Myeloma, Female,4917756,146
+66,2009,Georgia, Myeloma, Male,4703090,143
+67,2009,Hawaii, Breast, Female,673075,130
+68,2009,Hawaii, Breast, Male,673642,0
+69,2009,Hawaii, Larynx, Female,673075,0
+70,2009,Hawaii, Larynx, Male,673642,0
+71,2009,Hawaii, Liver, Female,673075,21
+72,2009,Hawaii, Liver, Male,673642,66
+73,2009,Hawaii, Myeloma, Female,673075,0
+74,2009,Hawaii, Myeloma, Male,673642,27
+75,2009,Idaho, Breast, Female,775398,185
+76,2009,Idaho, Breast, Male,779041,0
+77,2009,Idaho, Larynx, Female,775398,0
+78,2009,Idaho, Larynx, Male,779041,0
+79,2009,Idaho, Liver, Female,775398,0
+80,2009,Idaho, Liver, Male,779041,28
+81,2009,Idaho, Myeloma, Female,775398,26
+82,2009,Idaho, Myeloma, Male,779041,29
+83,2009,Illinois, Breast, Female,6520723,1719
+84,2009,Illinois, Breast, Male,6276055,0
+85,2009,Illinois, Larynx, Female,6520723,39
+86,2009,Illinois, Larynx, Male,6276055,143
+87,2009,Illinois, Liver, Female,6520723,142
+88,2009,Illinois, Liver, Male,6276055,397
+89,2009,Illinois, Myeloma, Female,6520723,202
+90,2009,Illinois, Myeloma, Male,6276055,241
+91,2009,Indiana, Breast, Female,3281477,892
+92,2009,Indiana, Breast, Male,3177848,0
+93,2009,Indiana, Larynx, Female,3281477,25
+94,2009,Indiana, Larynx, Male,3177848,51
+95,2009,Indiana, Liver, Female,3281477,79
+96,2009,Indiana, Liver, Male,3177848,170
+97,2009,Indiana, Myeloma, Female,3281477,116
+98,2009,Indiana, Myeloma, Male,3177848,141
+99,2009,Iowa, Breast, Female,1532739,432
+100,2009,Iowa, Larynx, Male,1500131,22
+101,2009,Iowa, Liver, Female,1532739,32
+102,2009,Iowa, Liver, Male,1500131,79
+103,2009,Iowa, Myeloma, Female,1532739,48
+104,2009,Iowa, Myeloma, Male,1500131,59
+105,2009,Kansas, Breast, Female,1428139,370
+106,2009,Kansas, Larynx, Male,1404565,16
+107,2009,Kansas, Liver, Female,1428139,35
+108,2009,Kansas, Liver, Male,1404565,80
+109,2009,Kansas, Myeloma, Female,1428139,58
+110,2009,Kansas, Myeloma, Male,1404565,66
+111,2009,Kentucky, Breast, Female,2193136,614
+112,2009,Kentucky, Larynx, Female,2193136,16
+113,2009,Kentucky, Larynx, Male,2123938,54
+114,2009,Kentucky, Liver, Female,2193136,59
+115,2009,Kentucky, Liver, Male,2123938,136
+116,2009,Kentucky, Myeloma, Female,2193136,73
+117,2009,Kentucky, Myeloma, Male,2123938,92
+118,2009,Louisiana, Breast, Female,2295199,661
+119,2009,Louisiana, Larynx, Female,2295199,21
+120,2009,Louisiana, Larynx, Male,2196449,53
+121,2009,Louisiana, Liver, Female,2295199,94
+122,2009,Louisiana, Liver, Male,2196449,227
+123,2009,Louisiana, Myeloma, Female,2295199,79
+124,2009,Louisiana, Myeloma, Male,2196449,82
+125,2009,Maine, Breast, Female,678694,195
+126,2009,Maine, Larynx, Male,650896,16
+127,2009,Maine, Liver, Female,678694,0
+128,2009,Maine, Liver, Male,650896,40
+129,2009,Maine, Myeloma, Female,678694,24
+130,2009,Maine, Myeloma, Male,650896,29
+131,2009,Maryland, Breast, Female,2960001,798
+132,2009,Maryland, Breast, Male,2770387,0
+133,2009,Maryland, Larynx, Female,2960001,22
+134,2009,Maryland, Larynx, Male,2770387,59
+135,2009,Maryland, Liver, Female,2960001,84
+136,2009,Maryland, Liver, Male,2770387,182
+137,2009,Maryland, Myeloma, Female,2960001,112
+138,2009,Maryland, Myeloma, Male,2770387,107
+139,2009,Massachusetts, Breast, Female,3365859,949
+140,2009,Massachusetts, Breast, Male,3151754,0
+141,2009,Massachusetts, Larynx, Female,3365859,0
+142,2009,Massachusetts, Larynx, Male,3151754,58
+143,2009,Massachusetts, Liver, Female,3365859,76
+144,2009,Massachusetts, Liver, Male,3151754,252
+145,2009,Massachusetts, Myeloma, Female,3365859,126
+146,2009,Massachusetts, Myeloma, Male,3151754,132
+147,2009,Michigan, Breast, Female,5044338,1418
+148,2009,Michigan, Breast, Male,4857253,16
+149,2009,Michigan, Larynx, Female,5044338,27
+150,2009,Michigan, Larynx, Male,4857253,98
+151,2009,Michigan, Liver, Female,5044338,133
+152,2009,Michigan, Liver, Male,4857253,287
+153,2009,Michigan, Myeloma, Female,5044338,193
+154,2009,Michigan, Myeloma, Male,4857253,226
+155,2009,Minnesota, Breast, Female,2659958,683
+156,2009,Minnesota, Larynx, Female,2659958,0
+157,2009,Minnesota, Larynx, Male,2621245,34
+158,2009,Minnesota, Liver, Female,2659958,43
+159,2009,Minnesota, Liver, Male,2621245,134
+160,2009,Minnesota, Myeloma, Female,2659958,85
+161,2009,Minnesota, Myeloma, Male,2621245,126
+162,2009,Mississippi, Breast, Female,1522000,424
+163,2009,Mississippi, Larynx, Male,1436774,37
+164,2009,Mississippi, Liver, Female,1522000,57
+165,2009,Mississippi, Liver, Male,1436774,114
+166,2009,Mississippi, Myeloma, Female,1522000,58
+167,2009,Mississippi, Myeloma, Male,1436774,56
+168,2009,Missouri, Breast, Female,3042021,861
+169,2009,Missouri, Larynx, Female,3042021,22
+170,2009,Missouri, Larynx, Male,2919067,80
+171,2009,Missouri, Liver, Female,3042021,80
+172,2009,Missouri, Liver, Male,2919067,229
+173,2009,Missouri, Myeloma, Female,3042021,97
+174,2009,Missouri, Myeloma, Male,2919067,130
+175,2009,Montana, Breast, Female,490122,146
+176,2009,Montana, Breast, Male,493860,0
+177,2009,Montana, Larynx, Female,490122,0
+178,2009,Montana, Liver, Female,490122,0
+179,2009,Montana, Liver, Male,493860,21
+180,2009,Montana, Myeloma, Female,490122,19
+181,2009,Montana, Myeloma, Male,493860,20
+182,2009,Nebraska, Breast, Female,913619,216
+183,2009,Nebraska, Larynx, Male,899064,0
+184,2009,Nebraska, Liver, Female,913619,23
+185,2009,Nebraska, Liver, Male,899064,54
+186,2009,Nebraska, Myeloma, Female,913619,25
+187,2009,Nebraska, Myeloma, Male,899064,37
+188,2009,Nevada, Breast, Female,1327618,333
+189,2009,Nevada, Larynx, Female,1327618,0
+190,2009,Nevada, Larynx, Male,1357047,17
+191,2009,Nevada, Liver, Female,1327618,27
+192,2009,Nevada, Liver, Male,1357047,100
+193,2009,Nevada, Myeloma, Female,1327618,28
+194,2009,Nevada, Myeloma, Male,1357047,32
+195,2009,New Hampshire, Breast, Female,666875,147
+196,2009,New Hampshire, Breast, Male,649227,0
+197,2009,New Hampshire, Larynx, Female,666875,0
+198,2009,New Hampshire, Larynx, Male,649227,18
+199,2009,New Hampshire, Liver, Female,666875,0
+200,2009,New Hampshire, Liver, Male,649227,27
+201,2009,New Hampshire, Myeloma, Female,666875,31
+202,2009,New Hampshire, Myeloma, Male,649227,33
+203,2009,New Jersey, Breast, Female,4493506,1348
+204,2009,New Jersey, Breast, Male,4262096,0
+205,2009,New Jersey, Larynx, Female,4493506,31
+206,2009,New Jersey, Larynx, Male,4262096,79
+207,2009,New Jersey, Liver, Female,4493506,117
+208,2009,New Jersey, Liver, Male,4262096,274
+209,2009,New Jersey, Myeloma, Female,4493506,129
+210,2009,New Jersey, Myeloma, Male,4262096,183
+211,2009,New Mexico, Breast, Female,1031238,262
+212,2009,New Mexico, Breast, Male,1005564,0
+213,2009,New Mexico, Larynx, Male,1005564,0
+214,2009,New Mexico, Liver, Female,1031238,26
+215,2009,New Mexico, Liver, Male,1005564,79
+216,2009,New Mexico, Myeloma, Female,1031238,18
+217,2009,New Mexico, Myeloma, Male,1005564,28
+218,2009,New York, Breast, Female,9966620,2691
+219,2009,New York, Breast, Male,9340446,27
+220,2009,New York, Larynx, Female,9966620,69
+221,2009,New York, Larynx, Male,9340446,196
+222,2009,New York, Liver, Female,9966620,256
+223,2009,New York, Liver, Male,9340446,703
+224,2009,New York, Myeloma, Female,9966620,302
+225,2009,New York, Myeloma, Male,9340446,354
+226,2009,North Carolina, Breast, Female,4846501,1183
+227,2009,North Carolina, Breast, Male,4603065,0
+228,2009,North Carolina, Larynx, Female,4846501,26
+229,2009,North Carolina, Larynx, Male,4603065,92
+230,2009,North Carolina, Liver, Female,4846501,99
+231,2009,North Carolina, Liver, Male,4603065,296
+232,2009,North Carolina, Myeloma, Female,4846501,181
+233,2009,North Carolina, Myeloma, Male,4603065,189
+234,2009,North Dakota, Breast, Female,329674,88
+235,2009,North Dakota, Breast, Male,335294,0
+236,2009,North Dakota, Larynx, Female,329674,0
+237,2009,North Dakota, Liver, Male,335294,0
+238,2009,North Dakota, Myeloma, Female,329674,0
+239,2009,North Dakota, Myeloma, Male,335294,20
+240,2009,Ohio, Breast, Female,5902018,1745
+241,2009,Ohio, Breast, Male,5626878,26
+242,2009,Ohio, Larynx, Female,5902018,34
+243,2009,Ohio, Larynx, Male,5626878,156
+244,2009,Ohio, Liver, Female,5902018,121
+245,2009,Ohio, Liver, Male,5626878,364
+246,2009,Ohio, Myeloma, Female,5902018,231
+247,2009,Ohio, Myeloma, Male,5626878,244
+248,2009,Oklahoma, Breast, Female,1878034,464
+249,2009,Oklahoma, Larynx, Female,1878034,0
+250,2009,Oklahoma, Larynx, Male,1839538,30
+251,2009,Oklahoma, Liver, Female,1878034,61
+252,2009,Oklahoma, Liver, Male,1839538,156
+253,2009,Oklahoma, Myeloma, Female,1878034,49
+254,2009,Oklahoma, Myeloma, Male,1839538,81
+255,2009,Oregon, Breast, Female,1923209,454
+256,2009,Oregon, Breast, Male,1885391,0
+257,2009,Oregon, Larynx, Male,1885391,29
+258,2009,Oregon, Liver, Female,1923209,48
+259,2009,Oregon, Liver, Male,1885391,165
+260,2009,Oregon, Myeloma, Female,1923209,66
+261,2009,Oregon, Myeloma, Male,1885391,74
+262,2009,Pennsylvania, Breast, Female,6497024,2123
+263,2009,Pennsylvania, Breast, Male,6169834,16
+264,2009,Pennsylvania, Larynx, Female,6497024,38
+265,2009,Pennsylvania, Larynx, Male,6169834,148
+266,2009,Pennsylvania, Liver, Female,6497024,166
+267,2009,Pennsylvania, Liver, Male,6169834,458
+268,2009,Pennsylvania, Myeloma, Female,6497024,211
+269,2009,Pennsylvania, Myeloma, Male,6169834,253
+270,2009,Puerto Rico, Breast, Female,1947361,443
+271,2009,Puerto Rico, Larynx, Male,1793049,36
+272,2009,Puerto Rico, Liver, Female,1947361,81
+273,2009,Puerto Rico, Liver, Male,1793049,192
+274,2009,Puerto Rico, Myeloma, Female,1947361,57
+275,2009,Puerto Rico, Myeloma, Male,1793049,63
+276,2009,Rhode Island, Breast, Female,544764,146
+277,2009,Rhode Island, Larynx, Female,544764,0
+278,2009,Rhode Island, Larynx, Male,508882,0
+279,2009,Rhode Island, Liver, Female,544764,19
+280,2009,Rhode Island, Liver, Male,508882,42
+281,2009,Rhode Island, Myeloma, Female,544764,0
+282,2009,Rhode Island, Myeloma, Male,508882,17
+283,2009,South Carolina, Breast, Female,2357030,618
+284,2009,South Carolina, Larynx, Female,2357030,0
+285,2009,South Carolina, Larynx, Male,2232842,47
+286,2009,South Carolina, Liver, Female,2357030,57
+287,2009,South Carolina, Liver, Male,2232842,191
+288,2009,South Carolina, Myeloma, Female,2357030,76
+289,2009,South Carolina, Myeloma, Male,2232842,99
+290,2009,South Dakota, Breast, Female,403198,96
+291,2009,South Dakota, Breast, Male,403869,0
+292,2009,South Dakota, Larynx, Female,403198,0
+293,2009,South Dakota, Liver, Male,403869,18
+294,2009,South Dakota, Myeloma, Female,403198,0
+295,2009,South Dakota, Myeloma, Male,403869,20
+296,2009,Tennessee, Breast, Female,3231769,893
+297,2009,Tennessee, Breast, Male,3074250,0
+298,2009,Tennessee, Larynx, Female,3231769,23
+299,2009,Tennessee, Larynx, Male,3074250,81
+300,2009,Tennessee, Liver, Female,3231769,104
+301,2009,Tennessee, Liver, Male,3074250,251
+302,2009,Tennessee, Myeloma, Female,3231769,108
+303,2009,Tennessee, Myeloma, Male,3074250,142
+304,2009,Texas, Breast, Female,12500150,2599
+305,2009,Texas, Breast, Male,12301611,0
+306,2009,Texas, Larynx, Female,12500150,44
+307,2009,Texas, Larynx, Male,12301611,205
+308,2009,Texas, Liver, Female,12500150,358
+309,2009,Texas, Liver, Male,12301611,1018
+310,2009,Texas, Myeloma, Female,12500150,266
+311,2009,Texas, Myeloma, Male,12301611,318
+312,2009,Utah, Breast, Female,1355509,227
+313,2009,Utah, Liver, Female,1355509,19
+314,2009,Utah, Liver, Male,1367912,41
+315,2009,Utah, Myeloma, Female,1355509,36
+316,2009,Utah, Myeloma, Male,1367912,29
+317,2009,Vermont, Breast, Female,317128,77
+318,2009,Vermont, Breast, Male,307689,0
+319,2009,Vermont, Larynx, Female,317128,0
+320,2009,Vermont, Liver, Male,307689,26
+321,2009,Vermont, Myeloma, Female,317128,0
+322,2009,Vermont, Myeloma, Male,307689,0
+323,2009,Virginia, Breast, Female,4037895,1095
+324,2009,Virginia, Breast, Male,3888042,0
+325,2009,Virginia, Larynx, Female,4037895,18
+326,2009,Virginia, Larynx, Male,3888042,67
+327,2009,Virginia, Liver, Female,4037895,76
+328,2009,Virginia, Liver, Male,3888042,291
+329,2009,Virginia, Myeloma, Female,4037895,158
+330,2009,Virginia, Myeloma, Male,3888042,173
+331,2009,Washington DC, Breast, Female,311828,98
+332,2009,Washington DC, Breast, Male,280400,0
+333,2009,Washington DC, Liver, Female,311828,0
+334,2009,Washington DC, Liver, Male,280400,28
+335,2009,Washington DC, Myeloma, Female,311828,16
+336,2009,Washington DC, Myeloma, Male,280400,16
+337,2009,Washington, Breast, Female,3343920,791
+338,2009,Washington, Larynx, Female,3343920,0
+339,2009,Washington, Larynx, Male,3323506,51
+340,2009,Washington, Liver, Female,3343920,89
+341,2009,Washington, Liver, Male,3323506,226
+342,2009,Washington, Myeloma, Female,3343920,93
+343,2009,Washington, Myeloma, Male,3323506,134
+344,2009,West Virginia, Breast, Female,937434,292
+345,2009,West Virginia, Larynx, Male,910341,28
+346,2009,West Virginia, Liver, Female,937434,32
+347,2009,West Virginia, Liver, Male,910341,43
+348,2009,West Virginia, Myeloma, Female,937434,38
+349,2009,West Virginia, Myeloma, Male,910341,51
+350,2009,Wisconsin, Breast, Female,2856103,758
+351,2009,Wisconsin, Larynx, Female,2856103,0
+352,2009,Wisconsin, Larynx, Male,2813161,42
+353,2009,Wisconsin, Liver, Female,2856103,60
+354,2009,Wisconsin, Liver, Male,2813161,151
+355,2009,Wisconsin, Myeloma, Female,2856103,100
+356,2009,Wisconsin, Myeloma, Male,2813161,141
+357,2009,Wyoming, Breast, Female,274046,68
+358,2009,Wyoming, Breast, Male,285805,0
+359,2009,Wyoming, Larynx, Female,274046,0
+360,2009,Wyoming, Liver, Male,285805,16
+361,2009,Wyoming, Myeloma, Female,274046,0
+362,2010,Alabama, Breast, Female,2462449,696
+363,2010,Alabama, Larynx, Female,2462449,0
+364,2010,Alabama, Larynx, Male,2322988,54
+365,2010,Alabama, Liver, Female,2462449,81
+366,2010,Alabama, Liver, Male,2322988,189
+367,2010,Alabama, Myeloma, Female,2462449,112
+368,2010,Alabama, Myeloma, Male,2322988,102
+369,2010,Alaska, Breast, Female,342316,59
+370,2010,Alaska, Breast, Male,371594,0
+371,2010,Alaska, Larynx, Female,342316,0
+372,2010,Alaska, Liver, Male,371594,0
+373,2010,Arizona, Breast, Female,3223250,733
+374,2010,Arizona, Larynx, Female,3223250,0
+375,2010,Arizona, Larynx, Male,3183922,52
+376,2010,Arizona, Liver, Female,3223250,104
+377,2010,Arizona, Liver, Male,3183922,212
+378,2010,Arizona, Myeloma, Female,3223250,90
+379,2010,Arizona, Myeloma, Male,3183922,115
+380,2010,Arkansas, Breast, Female,1487240,413
+381,2010,Arkansas, Larynx, Male,1434724,23
+382,2010,Arkansas, Liver, Female,1487240,61
+383,2010,Arkansas, Liver, Male,1434724,140
+384,2010,Arkansas, Myeloma, Female,1487240,45
+385,2010,Arkansas, Myeloma, Male,1434724,73
+386,2010,California, Breast, Female,18773564,4238
+387,2010,California, Breast, Male,18545938,27
+388,2010,California, Larynx, Female,18773564,56
+389,2010,California, Larynx, Male,18545938,243
+390,2010,California, Liver, Female,18773564,565
+391,2010,California, Liver, Male,18545938,1533
+392,2010,California, Myeloma, Female,18773564,525
+393,2010,California, Myeloma, Male,18545938,599
+394,2010,Colorado, Breast, Female,2517833,528
+395,2010,Colorado, Larynx, Male,2529516,23
+396,2010,Colorado, Liver, Female,2517833,42
+397,2010,Colorado, Liver, Male,2529516,126
+398,2010,Colorado, Myeloma, Female,2517833,59
+399,2010,Colorado, Myeloma, Male,2529516,77
+400,2010,Connecticut, Breast, Female,1836796,498
+401,2010,Connecticut, Larynx, Male,1742318,28
+402,2010,Connecticut, Liver, Female,1836796,31
+403,2010,Connecticut, Liver, Male,1742318,114
+404,2010,Connecticut, Myeloma, Female,1836796,66
+405,2010,Connecticut, Myeloma, Male,1742318,66
+406,2010,Delaware, Breast, Female,463943,130
+407,2010,Delaware, Breast, Male,435650,0
+408,2010,Delaware, Liver, Female,463943,0
+409,2010,Delaware, Liver, Male,435650,42
+410,2010,Delaware, Myeloma, Female,463943,16
+411,2010,Delaware, Myeloma, Male,435650,19
+412,2010,Florida, Breast, Female,9633581,2857
+413,2010,Florida, Breast, Male,9211956,37
+414,2010,Florida, Larynx, Female,9633581,48
+415,2010,Florida, Larynx, Male,9211956,264
+416,2010,Florida, Liver, Female,9633581,340
+417,2010,Florida, Liver, Male,9211956,815
+418,2010,Florida, Myeloma, Female,9633581,336
+419,2010,Florida, Myeloma, Male,9211956,424
+420,2010,Georgia, Breast, Female,4970696,1222
+421,2010,Georgia, Breast, Male,4741185,18
+422,2010,Georgia, Larynx, Female,4970696,26
+423,2010,Georgia, Larynx, Male,4741185,104
+424,2010,Georgia, Liver, Female,4970696,136
+425,2010,Georgia, Liver, Male,4741185,289
+426,2010,Georgia, Myeloma, Female,4970696,131
+427,2010,Georgia, Myeloma, Male,4741185,148
+428,2010,Hawaii, Breast, Female,680678,126
+429,2010,Hawaii, Breast, Male,683285,0
+430,2010,Hawaii, Larynx, Female,680678,0
+431,2010,Hawaii, Larynx, Male,683285,0
+432,2010,Hawaii, Liver, Female,680678,25
+433,2010,Hawaii, Liver, Male,683285,73
+434,2010,Hawaii, Myeloma, Female,680678,0
+435,2010,Hawaii, Myeloma, Male,683285,23
+436,2010,Idaho, Breast, Female,783947,185
+437,2010,Idaho, Breast, Male,786799,0
+438,2010,Idaho, Larynx, Female,783947,0
+439,2010,Idaho, Larynx, Male,786799,0
+440,2010,Idaho, Liver, Female,783947,0
+441,2010,Idaho, Liver, Male,786799,39
+442,2010,Idaho, Myeloma, Female,783947,23
+443,2010,Idaho, Myeloma, Male,786799,32
+444,2010,Illinois, Breast, Female,6543398,1740
+445,2010,Illinois, Breast, Male,6297105,0
+446,2010,Illinois, Larynx, Female,6543398,25
+447,2010,Illinois, Larynx, Male,6297105,112
+448,2010,Illinois, Liver, Female,6543398,166
+449,2010,Illinois, Liver, Male,6297105,419
+450,2010,Illinois, Myeloma, Female,6543398,201
+451,2010,Illinois, Myeloma, Male,6297105,245
+452,2010,Indiana, Breast, Female,3297330,888
+453,2010,Indiana, Breast, Male,3193102,0
+454,2010,Indiana, Larynx, Female,3297330,24
+455,2010,Indiana, Larynx, Male,3193102,76
+456,2010,Indiana, Liver, Female,3297330,60
+457,2010,Indiana, Liver, Male,3193102,197
+458,2010,Indiana, Myeloma, Female,3297330,108
+459,2010,Indiana, Myeloma, Male,3193102,143
+460,2010,Iowa, Breast, Female,1539815,392
+461,2010,Iowa, Larynx, Male,1510930,23
+462,2010,Iowa, Liver, Female,1539815,25
+463,2010,Iowa, Liver, Male,1510930,82
+464,2010,Iowa, Myeloma, Female,1539815,55
+465,2010,Iowa, Myeloma, Male,1510930,69
+466,2010,Kansas, Breast, Female,1440082,355
+467,2010,Kansas, Larynx, Male,1418108,0
+468,2010,Kansas, Liver, Female,1440082,27
+469,2010,Kansas, Liver, Male,1418108,87
+470,2010,Kansas, Myeloma, Female,1440082,53
+471,2010,Kansas, Myeloma, Male,1418108,64
+472,2010,Kentucky, Breast, Female,2208756,586
+473,2010,Kentucky, Larynx, Female,2208756,17
+474,2010,Kentucky, Larynx, Male,2139425,55
+475,2010,Kentucky, Liver, Female,2208756,60
+476,2010,Kentucky, Liver, Male,2139425,150
+477,2010,Kentucky, Myeloma, Female,2208756,82
+478,2010,Kentucky, Myeloma, Male,2139425,84
+479,2010,Louisiana, Breast, Female,2319869,648
+480,2010,Louisiana, Larynx, Female,2319869,0
+481,2010,Louisiana, Larynx, Male,2224663,47
+482,2010,Louisiana, Liver, Female,2319869,74
+483,2010,Louisiana, Liver, Male,2224663,224
+484,2010,Louisiana, Myeloma, Female,2319869,72
+485,2010,Louisiana, Myeloma, Male,2224663,98
+486,2010,Maine, Breast, Female,677938,195
+487,2010,Maine, Larynx, Male,649691,17
+488,2010,Maine, Liver, Female,677938,0
+489,2010,Maine, Liver, Male,649691,59
+490,2010,Maine, Myeloma, Female,677938,38
+491,2010,Maine, Myeloma, Male,649691,30
+492,2010,Maryland, Breast, Female,2988734,845
+493,2010,Maryland, Breast, Male,2799911,17
+494,2010,Maryland, Larynx, Female,2988734,0
+495,2010,Maryland, Larynx, Male,2799911,62
+496,2010,Maryland, Liver, Female,2988734,73
+497,2010,Maryland, Liver, Male,2799911,210
+498,2010,Maryland, Myeloma, Female,2988734,115
+499,2010,Maryland, Myeloma, Male,2799911,101
+500,2010,Massachusetts, Breast, Female,3390173,825
+501,2010,Massachusetts, Breast, Male,3176134,0
+502,2010,Massachusetts, Larynx, Female,3390173,22
+503,2010,Massachusetts, Larynx, Male,3176134,60
+504,2010,Massachusetts, Liver, Female,3390173,90
+505,2010,Massachusetts, Liver, Male,3176134,278
+506,2010,Massachusetts, Myeloma, Female,3390173,107
+507,2010,Massachusetts, Myeloma, Male,3176134,117
+508,2010,Michigan, Breast, Female,5032334,1492
+509,2010,Michigan, Breast, Male,4845176,21
+510,2010,Michigan, Larynx, Female,5032334,21
+511,2010,Michigan, Larynx, Male,4845176,114
+512,2010,Michigan, Liver, Female,5032334,145
+513,2010,Michigan, Liver, Male,4845176,360
+514,2010,Michigan, Myeloma, Female,5032334,189
+515,2010,Michigan, Myeloma, Male,4845176,217
+516,2010,Minnesota, Breast, Female,2675243,650
+517,2010,Minnesota, Larynx, Female,2675243,0
+518,2010,Minnesota, Larynx, Male,2635585,42
+519,2010,Minnesota, Liver, Female,2675243,57
+520,2010,Minnesota, Liver, Male,2635585,144
+521,2010,Minnesota, Myeloma, Female,2675243,67
+522,2010,Minnesota, Myeloma, Male,2635585,113
+523,2010,Mississippi, Breast, Female,1527339,432
+524,2010,Mississippi, Larynx, Male,1443209,28
+525,2010,Mississippi, Liver, Female,1527339,80
+526,2010,Mississippi, Liver, Male,1443209,127
+527,2010,Mississippi, Myeloma, Female,1527339,62
+528,2010,Mississippi, Myeloma, Male,1443209,54
+529,2010,Missouri, Breast, Female,3058803,884
+530,2010,Missouri, Larynx, Female,3058803,0
+531,2010,Missouri, Larynx, Male,2937171,55
+532,2010,Missouri, Liver, Female,3058803,74
+533,2010,Missouri, Liver, Male,2937171,218
+534,2010,Missouri, Myeloma, Female,3058803,96
+535,2010,Missouri, Myeloma, Male,2937171,139
+536,2010,Montana, Breast, Female,493463,134
+537,2010,Montana, Breast, Male,497234,0
+538,2010,Montana, Larynx, Female,493463,0
+539,2010,Montana, Liver, Female,493463,0
+540,2010,Montana, Liver, Male,497234,32
+541,2010,Montana, Myeloma, Female,493463,19
+542,2010,Montana, Myeloma, Male,497234,23
+543,2010,Nebraska, Breast, Female,921433,225
+544,2010,Nebraska, Larynx, Male,908109,0
+545,2010,Nebraska, Liver, Female,921433,17
+546,2010,Nebraska, Liver, Male,908109,50
+547,2010,Nebraska, Myeloma, Female,921433,38
+548,2010,Nebraska, Myeloma, Male,908109,32
+549,2010,Nevada, Breast, Female,1338295,331
+550,2010,Nevada, Larynx, Female,1338295,0
+551,2010,Nevada, Larynx, Male,1364110,19
+552,2010,Nevada, Liver, Female,1338295,43
+553,2010,Nevada, Liver, Male,1364110,96
+554,2010,Nevada, Myeloma, Female,1338295,32
+555,2010,Nevada, Myeloma, Male,1364110,39
+556,2010,New Hampshire, Breast, Female,667225,184
+557,2010,New Hampshire, Breast, Male,649537,0
+558,2010,New Hampshire, Larynx, Female,667225,0
+559,2010,New Hampshire, Larynx, Male,649537,0
+560,2010,New Hampshire, Liver, Female,667225,0
+561,2010,New Hampshire, Liver, Male,649537,36
+562,2010,New Hampshire, Myeloma, Female,667225,0
+563,2010,New Hampshire, Myeloma, Male,649537,18
+564,2010,New Jersey, Breast, Female,4515647,1322
+565,2010,New Jersey, Breast, Male,4283799,23
+566,2010,New Jersey, Larynx, Female,4515647,34
+567,2010,New Jersey, Larynx, Male,4283799,81
+568,2010,New Jersey, Liver, Female,4515647,131
+569,2010,New Jersey, Liver, Male,4283799,288
+570,2010,New Jersey, Myeloma, Female,4515647,128
+571,2010,New Jersey, Myeloma, Male,4283799,153
+572,2010,New Mexico, Breast, Female,1044263,266
+573,2010,New Mexico, Breast, Male,1020289,0
+574,2010,New Mexico, Larynx, Male,1020289,22
+575,2010,New Mexico, Liver, Female,1044263,24
+576,2010,New Mexico, Liver, Male,1020289,76
+577,2010,New Mexico, Myeloma, Female,1044263,28
+578,2010,New Mexico, Myeloma, Male,1020289,35
+579,2010,New York, Breast, Female,10010668,2700
+580,2010,New York, Breast, Male,9389210,34
+581,2010,New York, Larynx, Female,10010668,59
+582,2010,New York, Larynx, Male,9389210,198
+583,2010,New York, Liver, Female,10010668,276
+584,2010,New York, Liver, Male,9389210,713
+585,2010,New York, Myeloma, Female,10010668,357
+586,2010,New York, Myeloma, Male,9389210,358
+587,2010,North Carolina, Breast, Female,4904253,1334
+588,2010,North Carolina, Breast, Male,4670070,0
+589,2010,North Carolina, Larynx, Female,4904253,22
+590,2010,North Carolina, Larynx, Male,4670070,102
+591,2010,North Carolina, Liver, Female,4904253,86
+592,2010,North Carolina, Liver, Male,4670070,317
+593,2010,North Carolina, Myeloma, Female,4904253,171
+594,2010,North Carolina, Myeloma, Male,4670070,192
+595,2010,North Dakota, Breast, Female,333639,101
+596,2010,North Dakota, Breast, Male,341076,0
+597,2010,North Dakota, Larynx, Female,333639,0
+598,2010,North Dakota, Liver, Male,341076,0
+599,2010,North Dakota, Myeloma, Female,333639,0
+600,2010,North Dakota, Myeloma, Male,341076,0
+601,2010,Ohio, Breast, Female,5905238,1793
+602,2010,Ohio, Breast, Male,5634098,20
+603,2010,Ohio, Larynx, Female,5905238,35
+604,2010,Ohio, Larynx, Male,5634098,148
+605,2010,Ohio, Liver, Female,5905238,141
+606,2010,Ohio, Liver, Male,5634098,381
+607,2010,Ohio, Myeloma, Female,5905238,227
+608,2010,Ohio, Myeloma, Male,5634098,243
+609,2010,Oklahoma, Breast, Female,1899634,554
+610,2010,Oklahoma, Larynx, Female,1899634,0
+611,2010,Oklahoma, Larynx, Male,1860310,37
+612,2010,Oklahoma, Liver, Female,1899634,61
+613,2010,Oklahoma, Liver, Male,1860310,114
+614,2010,Oklahoma, Myeloma, Female,1899634,61
+615,2010,Oklahoma, Myeloma, Male,1860310,84
+616,2010,Oregon, Breast, Female,1938425,555
+617,2010,Oregon, Breast, Male,1899066,0
+618,2010,Oregon, Larynx, Male,1899066,28
+619,2010,Oregon, Liver, Female,1938425,39
+620,2010,Oregon, Liver, Male,1899066,149
+621,2010,Oregon, Myeloma, Female,1938425,61
+622,2010,Oregon, Myeloma, Male,1899066,81
+623,2010,Pennsylvania, Breast, Female,6515181,2090
+624,2010,Pennsylvania, Breast, Male,6195979,17
+625,2010,Pennsylvania, Larynx, Female,6515181,36
+626,2010,Pennsylvania, Larynx, Male,6195979,135
+627,2010,Pennsylvania, Liver, Female,6515181,180
+628,2010,Pennsylvania, Liver, Male,6195979,471
+629,2010,Pennsylvania, Myeloma, Female,6515181,299
+630,2010,Pennsylvania, Myeloma, Male,6195979,283
+631,2010,Puerto Rico, Breast, Female,1938743,412
+632,2010,Puerto Rico, Larynx, Male,1782782,34
+633,2010,Puerto Rico, Liver, Female,1938743,85
+634,2010,Puerto Rico, Liver, Male,1782782,165
+635,2010,Puerto Rico, Myeloma, Female,1938743,42
+636,2010,Puerto Rico, Myeloma, Male,1782782,65
+637,2010,Rhode Island, Breast, Female,544685,139
+638,2010,Rhode Island, Larynx, Female,544685,0
+639,2010,Rhode Island, Larynx, Male,509274,0
+640,2010,Rhode Island, Liver, Female,544685,0
+641,2010,Rhode Island, Liver, Male,509274,38
+642,2010,Rhode Island, Myeloma, Female,544685,25
+643,2010,Rhode Island, Myeloma, Male,509274,22
+644,2010,South Carolina, Breast, Female,2380818,643
+645,2010,South Carolina, Larynx, Female,2380818,20
+646,2010,South Carolina, Larynx, Male,2254831,65
+647,2010,South Carolina, Liver, Female,2380818,54
+648,2010,South Carolina, Liver, Male,2254831,166
+649,2010,South Carolina, Myeloma, Female,2380818,91
+650,2010,South Carolina, Myeloma, Male,2254831,88
+651,2010,South Dakota, Breast, Female,407732,103
+652,2010,South Dakota, Breast, Male,408434,0
+653,2010,South Dakota, Larynx, Female,407732,0
+654,2010,South Dakota, Liver, Male,408434,21
+655,2010,South Dakota, Myeloma, Female,407732,19
+656,2010,South Dakota, Myeloma, Male,408434,0
+657,2010,Tennessee, Breast, Female,3257465,876
+658,2010,Tennessee, Breast, Male,3097846,0
+659,2010,Tennessee, Larynx, Female,3257465,24
+660,2010,Tennessee, Larynx, Male,3097846,71
+661,2010,Tennessee, Liver, Female,3257465,86
+662,2010,Tennessee, Liver, Male,3097846,242
+663,2010,Tennessee, Myeloma, Female,3257465,109
+664,2010,Tennessee, Myeloma, Male,3097846,143
+665,2010,Texas, Breast, Female,12721701,2627
+666,2010,Texas, Breast, Male,12520270,24
+667,2010,Texas, Larynx, Female,12721701,40
+668,2010,Texas, Larynx, Male,12520270,220
+669,2010,Texas, Liver, Female,12721701,407
+670,2010,Texas, Liver, Male,12520270,1043
+671,2010,Texas, Myeloma, Female,12721701,337
+672,2010,Texas, Myeloma, Male,12520270,400
+673,2010,Utah, Breast, Female,1381236,257
+674,2010,Utah, Liver, Female,1381236,22
+675,2010,Utah, Liver, Male,1394096,47
+676,2010,Utah, Myeloma, Female,1381236,21
+677,2010,Utah, Myeloma, Male,1394096,38
+678,2010,Vermont, Breast, Female,317616,83
+679,2010,Vermont, Breast, Male,308263,0
+680,2010,Vermont, Larynx, Female,317616,0
+681,2010,Vermont, Liver, Male,308263,33
+682,2010,Vermont, Myeloma, Female,317616,0
+683,2010,Vermont, Myeloma, Male,308263,0
+684,2010,Virginia, Breast, Female,4085573,1034
+685,2010,Virginia, Breast, Male,3938126,0
+686,2010,Virginia, Larynx, Female,4085573,19
+687,2010,Virginia, Larynx, Male,3938126,72
+688,2010,Virginia, Liver, Female,4085573,90
+689,2010,Virginia, Liver, Male,3938126,249
+690,2010,Virginia, Myeloma, Female,4085573,137
+691,2010,Virginia, Myeloma, Male,3938126,153
+692,2010,Washington DC, Breast, Female,319273,100
+693,2010,Washington DC, Breast, Male,285953,0
+694,2010,Washington DC, Liver, Female,319273,0
+695,2010,Washington DC, Liver, Male,285953,39
+696,2010,Washington DC, Myeloma, Female,319273,0
+697,2010,Washington DC, Myeloma, Male,285953,16
+698,2010,Washington, Breast, Female,3384406,817
+699,2010,Washington, Larynx, Female,3384406,17
+700,2010,Washington, Larynx, Male,3358424,52
+701,2010,Washington, Liver, Female,3384406,83
+702,2010,Washington, Liver, Male,3358424,245
+703,2010,Washington, Myeloma, Female,3384406,102
+704,2010,Washington, Myeloma, Male,3358424,127
+705,2010,West Virginia, Breast, Female,939931,272
+706,2010,West Virginia, Larynx, Male,914308,23
+707,2010,West Virginia, Liver, Female,939931,19
+708,2010,West Virginia, Liver, Male,914308,70
+709,2010,West Virginia, Myeloma, Female,939931,37
+710,2010,West Virginia, Myeloma, Male,914308,32
+711,2010,Wisconsin, Breast, Female,2866299,767
+712,2010,Wisconsin, Larynx, Female,2866299,0
+713,2010,Wisconsin, Larynx, Male,2824176,57
+714,2010,Wisconsin, Liver, Female,2866299,75
+715,2010,Wisconsin, Liver, Male,2824176,177
+716,2010,Wisconsin, Myeloma, Female,2866299,115
+717,2010,Wisconsin, Myeloma, Male,2824176,123
+718,2010,Wyoming, Breast, Female,276702,72
+719,2010,Wyoming, Breast, Male,287785,0
+720,2010,Wyoming, Larynx, Female,276702,0
+721,2010,Wyoming, Liver, Male,287785,16
+722,2010,Wyoming, Myeloma, Female,276702,0
+723,2011,Alabama, Breast, Female,2470815,647
+724,2011,Alabama, Larynx, Female,2470815,17
+725,2011,Alabama, Larynx, Male,2328254,77
+726,2011,Alabama, Liver, Female,2470815,82
+727,2011,Alabama, Liver, Male,2328254,174
+728,2011,Alabama, Myeloma, Female,2470815,98
+729,2011,Alabama, Myeloma, Male,2328254,118
+730,2011,Alaska, Breast, Female,346327,57
+731,2011,Alaska, Breast, Male,375801,0
+732,2011,Alaska, Larynx, Female,346327,0
+733,2011,Alaska, Liver, Male,375801,30
+734,2011,Arizona, Breast, Female,3254919,752
+735,2011,Arizona, Larynx, Female,3254919,16
+736,2011,Arizona, Larynx, Male,3217724,43
+737,2011,Arizona, Liver, Female,3254919,109
+738,2011,Arizona, Liver, Male,3217724,266
+739,2011,Arizona, Myeloma, Female,3254919,84
+740,2011,Arizona, Myeloma, Male,3217724,130
+741,2011,Arkansas, Breast, Female,1496405,388
+742,2011,Arkansas, Larynx, Male,1444262,27
+743,2011,Arkansas, Liver, Female,1496405,51
+744,2011,Arkansas, Liver, Male,1444262,162
+745,2011,Arkansas, Myeloma, Female,1496405,56
+746,2011,Arkansas, Myeloma, Male,1444262,57
+747,2011,California, Breast, Female,18943047,4260
+748,2011,California, Breast, Male,18695322,37
+749,2011,California, Larynx, Female,18943047,54
+750,2011,California, Larynx, Male,18695322,233
+751,2011,California, Liver, Female,18943047,650
+752,2011,California, Liver, Male,18695322,1574
+753,2011,California, Myeloma, Female,18943047,508
+754,2011,California, Myeloma, Male,18695322,623
+755,2011,Colorado, Breast, Female,2554640,550
+756,2011,Colorado, Larynx, Male,2566468,26
+757,2011,Colorado, Liver, Female,2554640,48
+758,2011,Colorado, Liver, Male,2566468,176
+759,2011,Colorado, Myeloma, Female,2554640,54
+760,2011,Colorado, Myeloma, Male,2566468,88
+761,2011,Connecticut, Breast, Female,1840738,484
+762,2011,Connecticut, Larynx, Male,1747545,32
+763,2011,Connecticut, Liver, Female,1840738,38
+764,2011,Connecticut, Liver, Male,1747545,118
+765,2011,Connecticut, Myeloma, Female,1840738,53
+766,2011,Connecticut, Myeloma, Male,1747545,70
+767,2011,Delaware, Breast, Female,468129,128
+768,2011,Delaware, Breast, Male,439252,0
+769,2011,Delaware, Liver, Female,468129,16
+770,2011,Delaware, Liver, Male,439252,37
+771,2011,Delaware, Myeloma, Female,468129,22
+772,2011,Delaware, Myeloma, Male,439252,19
+773,2011,Florida, Breast, Female,9735378,2814
+774,2011,Florida, Breast, Male,9317859,53
+775,2011,Florida, Larynx, Female,9735378,68
+776,2011,Florida, Larynx, Male,9317859,241
+777,2011,Florida, Liver, Female,9735378,314
+778,2011,Florida, Liver, Male,9317859,895
+779,2011,Florida, Myeloma, Female,9735378,372
+780,2011,Florida, Myeloma, Male,9317859,472
+781,2011,Georgia, Breast, Female,5015863,1188
+782,2011,Georgia, Breast, Male,4786568,0
+783,2011,Georgia, Larynx, Female,5015863,25
+784,2011,Georgia, Larynx, Male,4786568,96
+785,2011,Georgia, Liver, Female,5015863,102
+786,2011,Georgia, Liver, Male,4786568,306
+787,2011,Georgia, Myeloma, Female,5015863,159
+788,2011,Georgia, Myeloma, Male,4786568,187
+789,2011,Hawaii, Breast, Female,688415,107
+790,2011,Hawaii, Breast, Male,690914,0
+791,2011,Hawaii, Larynx, Female,688415,0
+792,2011,Hawaii, Larynx, Male,690914,0
+793,2011,Hawaii, Liver, Female,688415,35
+794,2011,Hawaii, Liver, Male,690914,72
+795,2011,Hawaii, Myeloma, Female,688415,18
+796,2011,Hawaii, Myeloma, Male,690914,22
+797,2011,Idaho, Breast, Female,790779,193
+798,2011,Idaho, Breast, Male,793131,0
+799,2011,Idaho, Larynx, Female,790779,0
+800,2011,Idaho, Larynx, Male,793131,0
+801,2011,Idaho, Liver, Female,790779,18
+802,2011,Idaho, Liver, Male,793131,47
+803,2011,Idaho, Myeloma, Female,790779,0
+804,2011,Idaho, Myeloma, Male,793131,27
+805,2011,Illinois, Breast, Female,6555625,1815
+806,2011,Illinois, Breast, Male,6311829,0
+807,2011,Illinois, Larynx, Female,6555625,38
+808,2011,Illinois, Larynx, Male,6311829,124
+809,2011,Illinois, Liver, Female,6555625,157
+810,2011,Illinois, Liver, Male,6311829,435
+811,2011,Illinois, Myeloma, Female,6555625,229
+812,2011,Illinois, Myeloma, Male,6311829,227
+813,2011,Indiana, Breast, Female,3309931,879
+814,2011,Indiana, Breast, Male,3206597,0
+815,2011,Indiana, Larynx, Female,3309931,19
+816,2011,Indiana, Larynx, Male,3206597,58
+817,2011,Indiana, Liver, Female,3309931,100
+818,2011,Indiana, Liver, Male,3206597,181
+819,2011,Indiana, Myeloma, Female,3309931,121
+820,2011,Indiana, Myeloma, Male,3206597,145
+821,2011,Iowa, Breast, Female,1546331,408
+822,2011,Iowa, Larynx, Male,1520005,28
+823,2011,Iowa, Liver, Female,1546331,38
+824,2011,Iowa, Liver, Male,1520005,89
+825,2011,Iowa, Myeloma, Female,1546331,67
+826,2011,Iowa, Myeloma, Male,1520005,75
+827,2011,Kansas, Breast, Female,1445239,352
+828,2011,Kansas, Larynx, Male,1423986,18
+829,2011,Kansas, Liver, Female,1445239,35
+830,2011,Kansas, Liver, Male,1423986,90
+831,2011,Kansas, Myeloma, Female,1445239,46
+832,2011,Kansas, Myeloma, Male,1423986,58
+833,2011,Kentucky, Breast, Female,2220067,613
+834,2011,Kentucky, Larynx, Female,2220067,18
+835,2011,Kentucky, Larynx, Male,2149754,46
+836,2011,Kentucky, Liver, Female,2220067,60
+837,2011,Kentucky, Liver, Male,2149754,168
+838,2011,Kentucky, Myeloma, Female,2220067,81
+839,2011,Kentucky, Myeloma, Male,2149754,86
+840,2011,Louisiana, Breast, Female,2336217,658
+841,2011,Louisiana, Larynx, Female,2336217,0
+842,2011,Louisiana, Larynx, Male,2239408,58
+843,2011,Louisiana, Liver, Female,2336217,108
+844,2011,Louisiana, Liver, Male,2239408,259
+845,2011,Louisiana, Myeloma, Female,2336217,72
+846,2011,Louisiana, Myeloma, Male,2239408,108
+847,2011,Maine, Breast, Female,677913,163
+848,2011,Maine, Larynx, Male,650371,28
+849,2011,Maine, Liver, Female,677913,0
+850,2011,Maine, Liver, Male,650371,44
+851,2011,Maine, Myeloma, Female,677913,22
+852,2011,Maine, Myeloma, Male,650371,32
+853,2011,Maryland, Breast, Female,3013063,785
+854,2011,Maryland, Breast, Male,2826356,0
+855,2011,Maryland, Larynx, Female,3013063,16
+856,2011,Maryland, Larynx, Male,2826356,61
+857,2011,Maryland, Liver, Female,3013063,78
+858,2011,Maryland, Liver, Male,2826356,261
+859,2011,Maryland, Myeloma, Female,3013063,113
+860,2011,Maryland, Myeloma, Male,2826356,112
+861,2011,Massachusetts, Breast, Female,3412487,855
+862,2011,Massachusetts, Breast, Male,3201096,0
+863,2011,Massachusetts, Larynx, Female,3412487,24
+864,2011,Massachusetts, Larynx, Male,3201096,63
+865,2011,Massachusetts, Liver, Female,3412487,75
+866,2011,Massachusetts, Liver, Male,3201096,263
+867,2011,Massachusetts, Myeloma, Female,3412487,126
+868,2011,Massachusetts, Myeloma, Male,3201096,134
+869,2011,Michigan, Breast, Female,5034172,1431
+870,2011,Michigan, Breast, Male,4848240,23
+871,2011,Michigan, Larynx, Female,5034172,36
+872,2011,Michigan, Larynx, Male,4848240,116
+873,2011,Michigan, Liver, Female,5034172,148
+874,2011,Michigan, Liver, Male,4848240,363
+875,2011,Michigan, Myeloma, Female,5034172,197
+876,2011,Michigan, Myeloma, Male,4848240,236
+877,2011,Minnesota, Breast, Female,2691897,638
+878,2011,Minnesota, Larynx, Female,2691897,0
+879,2011,Minnesota, Larynx, Male,2654246,37
+880,2011,Minnesota, Liver, Female,2691897,57
+881,2011,Minnesota, Liver, Male,2654246,147
+882,2011,Minnesota, Myeloma, Female,2691897,97
+883,2011,Minnesota, Myeloma, Male,2654246,107
+884,2011,Mississippi, Breast, Female,1531388,401
+885,2011,Mississippi, Larynx, Male,1447343,33
+886,2011,Mississippi, Liver, Female,1531388,59
+887,2011,Mississippi, Liver, Male,1447343,159
+888,2011,Mississippi, Myeloma, Female,1531388,44
+889,2011,Mississippi, Myeloma, Male,1447343,60
+890,2011,Missouri, Breast, Female,3065302,898
+891,2011,Missouri, Larynx, Female,3065302,0
+892,2011,Missouri, Larynx, Male,2944973,52
+893,2011,Missouri, Liver, Female,3065302,93
+894,2011,Missouri, Liver, Male,2944973,247
+895,2011,Missouri, Myeloma, Female,3065302,121
+896,2011,Missouri, Myeloma, Male,2944973,110
+897,2011,Montana, Breast, Female,496927,134
+898,2011,Montana, Breast, Male,500389,0
+899,2011,Montana, Larynx, Female,496927,0
+900,2011,Montana, Liver, Female,496927,0
+901,2011,Montana, Liver, Male,500389,33
+902,2011,Montana, Myeloma, Female,496927,18
+903,2011,Montana, Myeloma, Male,500389,23
+904,2011,Nebraska, Breast, Female,926658,206
+905,2011,Nebraska, Larynx, Male,914014,0
+906,2011,Nebraska, Liver, Female,926658,17
+907,2011,Nebraska, Liver, Male,914014,65
+908,2011,Nebraska, Myeloma, Female,926658,32
+909,2011,Nebraska, Myeloma, Male,914014,34
+910,2011,Nevada, Breast, Female,1344989,346
+911,2011,Nevada, Larynx, Female,1344989,0
+912,2011,Nevada, Larynx, Male,1367741,24
+913,2011,Nevada, Liver, Female,1344989,42
+914,2011,Nevada, Liver, Male,1367741,99
+915,2011,Nevada, Myeloma, Female,1344989,38
+916,2011,Nevada, Myeloma, Male,1367741,52
+917,2011,New Hampshire, Breast, Female,668822,174
+918,2011,New Hampshire, Breast, Male,651380,0
+919,2011,New Hampshire, Larynx, Female,668822,0
+920,2011,New Hampshire, Larynx, Male,651380,0
+921,2011,New Hampshire, Liver, Female,668822,16
+922,2011,New Hampshire, Liver, Male,651380,49
+923,2011,New Hampshire, Myeloma, Female,668822,18
+924,2011,New Hampshire, Myeloma, Male,651380,45
+925,2011,New Jersey, Breast, Female,4527433,1396
+926,2011,New Jersey, Breast, Male,4300684,0
+927,2011,New Jersey, Larynx, Female,4527433,30
+928,2011,New Jersey, Larynx, Male,4300684,99
+929,2011,New Jersey, Liver, Female,4527433,92
+930,2011,New Jersey, Liver, Male,4300684,304
+931,2011,New Jersey, Myeloma, Female,4527433,174
+932,2011,New Jersey, Myeloma, Male,4300684,167
+933,2011,New Mexico, Breast, Female,1052267,249
+934,2011,New Mexico, Breast, Male,1028183,0
+935,2011,New Mexico, Larynx, Male,1028183,18
+936,2011,New Mexico, Liver, Female,1052267,34
+937,2011,New Mexico, Liver, Male,1028183,90
+938,2011,New Mexico, Myeloma, Female,1052267,24
+939,2011,New Mexico, Myeloma, Male,1028183,36
+940,2011,New York, Breast, Female,10056466,2699
+941,2011,New York, Breast, Male,9442775,27
+942,2011,New York, Larynx, Female,10056466,63
+943,2011,New York, Larynx, Male,9442775,185
+944,2011,New York, Liver, Female,10056466,287
+945,2011,New York, Liver, Male,9442775,689
+946,2011,New York, Myeloma, Female,10056466,336
+947,2011,New York, Myeloma, Male,9442775,325
+948,2011,North Carolina, Breast, Female,4951273,1315
+949,2011,North Carolina, Breast, Male,4706319,19
+950,2011,North Carolina, Larynx, Female,4951273,19
+951,2011,North Carolina, Larynx, Male,4706319,108
+952,2011,North Carolina, Liver, Female,4951273,103
+953,2011,North Carolina, Liver, Male,4706319,352
+954,2011,North Carolina, Myeloma, Female,4951273,182
+955,2011,North Carolina, Myeloma, Male,4706319,194
+956,2011,North Dakota, Breast, Female,338061,83
+957,2011,North Dakota, Breast, Male,347164,0
+958,2011,North Dakota, Larynx, Female,338061,0
+959,2011,North Dakota, Liver, Male,347164,0
+960,2011,North Dakota, Myeloma, Female,338061,0
+961,2011,North Dakota, Myeloma, Male,347164,18
+962,2011,Ohio, Breast, Female,5905480,1803
+963,2011,Ohio, Breast, Male,5639183,24
+964,2011,Ohio, Larynx, Female,5905480,45
+965,2011,Ohio, Larynx, Male,5639183,139
+966,2011,Ohio, Liver, Female,5905480,146
+967,2011,Ohio, Liver, Male,5639183,412
+968,2011,Ohio, Myeloma, Female,5905480,216
+969,2011,Ohio, Myeloma, Male,5639183,274
+970,2011,Oklahoma, Breast, Female,1913991,541
+971,2011,Oklahoma, Larynx, Female,1913991,0
+972,2011,Oklahoma, Larynx, Male,1874388,37
+973,2011,Oklahoma, Liver, Female,1913991,63
+974,2011,Oklahoma, Liver, Male,1874388,167
+975,2011,Oklahoma, Myeloma, Female,1913991,73
+976,2011,Oklahoma, Myeloma, Male,1874388,76
+977,2011,Oregon, Breast, Female,1956364,500
+978,2011,Oregon, Breast, Male,1915672,0
+979,2011,Oregon, Larynx, Male,1915672,28
+980,2011,Oregon, Liver, Female,1956364,46
+981,2011,Oregon, Liver, Male,1915672,164
+982,2011,Oregon, Myeloma, Female,1956364,63
+983,2011,Oregon, Myeloma, Male,1915672,96
+984,2011,Pennsylvania, Breast, Female,6528151,2057
+985,2011,Pennsylvania, Breast, Male,6217664,22
+986,2011,Pennsylvania, Larynx, Female,6528151,52
+987,2011,Pennsylvania, Larynx, Male,6217664,139
+988,2011,Pennsylvania, Liver, Female,6528151,179
+989,2011,Pennsylvania, Liver, Male,6217664,470
+990,2011,Pennsylvania, Myeloma, Female,6528151,273
+991,2011,Pennsylvania, Myeloma, Male,6217664,293
+992,2011,Puerto Rico, Breast, Female,1915291,432
+993,2011,Puerto Rico, Larynx, Male,1763441,41
+994,2011,Puerto Rico, Liver, Female,1915291,86
+995,2011,Puerto Rico, Liver, Male,1763441,195
+996,2011,Puerto Rico, Myeloma, Female,1915291,64
+997,2011,Puerto Rico, Myeloma, Male,1763441,76
+998,2011,Rhode Island, Breast, Female,543979,144
+999,2011,Rhode Island, Larynx, Female,543979,0
+1000,2011,Rhode Island, Larynx, Male,509670,0
+1001,2011,Rhode Island, Liver, Female,543979,18
+1002,2011,Rhode Island, Liver, Male,509670,42
+1003,2011,Rhode Island, Myeloma, Female,543979,24
+1004,2011,Rhode Island, Myeloma, Male,509670,18
+1005,2011,South Carolina, Breast, Female,2400816,717
+1006,2011,South Carolina, Larynx, Female,2400816,0
+1007,2011,South Carolina, Larynx, Male,2271178,64
+1008,2011,South Carolina, Liver, Female,2400816,69
+1009,2011,South Carolina, Liver, Male,2271178,183
+1010,2011,South Carolina, Myeloma, Female,2400816,83
+1011,2011,South Carolina, Myeloma, Male,2271178,93
+1012,2011,South Dakota, Breast, Female,410218,125
+1013,2011,South Dakota, Breast, Male,413361,0
+1014,2011,South Dakota, Larynx, Female,410218,0
+1015,2011,South Dakota, Liver, Male,413361,18
+1016,2011,South Dakota, Myeloma, Female,410218,22
+1017,2011,South Dakota, Myeloma, Male,413361,17
+1018,2011,Tennessee, Breast, Female,3280460,867
+1019,2011,Tennessee, Breast, Male,3118831,0
+1020,2011,Tennessee, Larynx, Female,3280460,19
+1021,2011,Tennessee, Larynx, Male,3118831,85
+1022,2011,Tennessee, Liver, Female,3280460,95
+1023,2011,Tennessee, Liver, Male,3118831,286
+1024,2011,Tennessee, Myeloma, Female,3280460,114
+1025,2011,Tennessee, Myeloma, Male,3118831,138
+1026,2011,Texas, Breast, Female,12925761,2630
+1027,2011,Texas, Breast, Male,12719868,22
+1028,2011,Texas, Larynx, Female,12925761,43
+1029,2011,Texas, Larynx, Male,12719868,226
+1030,2011,Texas, Liver, Female,12925761,458
+1031,2011,Texas, Liver, Male,12719868,1223
+1032,2011,Texas, Myeloma, Female,12925761,306
+1033,2011,Texas, Myeloma, Male,12719868,417
+1034,2011,Utah, Breast, Female,1400557,244
+1035,2011,Utah, Liver, Female,1400557,22
+1036,2011,Utah, Liver, Male,1413827,61
+1037,2011,Utah, Myeloma, Female,1400557,22
+1038,2011,Utah, Myeloma, Male,1413827,43
+1039,2011,Vermont, Breast, Female,317885,81
+1040,2011,Vermont, Breast, Male,309164,0
+1041,2011,Vermont, Larynx, Female,317885,0
+1042,2011,Vermont, Liver, Male,309164,17
+1043,2011,Vermont, Myeloma, Female,317885,0
+1044,2011,Vermont, Myeloma, Male,309164,0
+1045,2011,Virginia, Breast, Female,4123022,1084
+1046,2011,Virginia, Breast, Male,3978133,16
+1047,2011,Virginia, Larynx, Female,4123022,0
+1048,2011,Virginia, Larynx, Male,3978133,72
+1049,2011,Virginia, Liver, Female,4123022,92
+1050,2011,Virginia, Liver, Male,3978133,272
+1051,2011,Virginia, Myeloma, Female,4123022,142
+1052,2011,Virginia, Myeloma, Male,3978133,165
+1053,2011,Washington DC, Breast, Female,326399,89
+1054,2011,Washington DC, Breast, Male,293401,0
+1055,2011,Washington DC, Liver, Female,326399,0
+1056,2011,Washington DC, Liver, Male,293401,35
+1057,2011,Washington DC, Myeloma, Female,326399,0
+1058,2011,Washington DC, Myeloma, Male,293401,0
+1059,2011,Washington, Breast, Female,3424042,827
+1060,2011,Washington, Larynx, Female,3424042,0
+1061,2011,Washington, Larynx, Male,3402585,43
+1062,2011,Washington, Liver, Female,3424042,86
+1063,2011,Washington, Liver, Male,3402585,292
+1064,2011,Washington, Myeloma, Female,3424042,112
+1065,2011,Washington, Myeloma, Male,3402585,121
+1066,2011,West Virginia, Breast, Female,940339,303
+1067,2011,West Virginia, Larynx, Male,915962,21
+1068,2011,West Virginia, Liver, Female,940339,22
+1069,2011,West Virginia, Liver, Male,915962,64
+1070,2011,West Virginia, Myeloma, Female,940339,54
+1071,2011,West Virginia, Myeloma, Male,915962,40
+1072,2011,Wisconsin, Breast, Female,2873333,783
+1073,2011,Wisconsin, Larynx, Female,2873333,0
+1074,2011,Wisconsin, Larynx, Male,2831955,42
+1075,2011,Wisconsin, Liver, Female,2873333,50
+1076,2011,Wisconsin, Liver, Male,2831955,177
+1077,2011,Wisconsin, Myeloma, Female,2873333,95
+1078,2011,Wisconsin, Myeloma, Male,2831955,132
+1079,2011,Wyoming, Breast, Female,278036,70
+1080,2011,Wyoming, Breast, Male,289263,0
+1081,2011,Wyoming, Larynx, Female,278036,0
+1082,2011,Wyoming, Liver, Male,289263,0
+1083,2011,Wyoming, Myeloma, Female,278036,0
+1084,2012,Alabama, Breast, Female,2479878,691
+1085,2012,Alabama, Larynx, Female,2479878,20
+1086,2012,Alabama, Larynx, Male,2335710,56
+1087,2012,Alabama, Liver, Female,2479878,102
+1088,2012,Alabama, Liver, Male,2335710,220
+1089,2012,Alabama, Myeloma, Female,2479878,94
+1090,2012,Alabama, Myeloma, Male,2335710,116
+1091,2012,Alaska, Breast, Female,349613,58
+1092,2012,Alaska, Breast, Male,380830,0
+1093,2012,Alaska, Larynx, Female,349613,0
+1094,2012,Alaska, Liver, Male,380830,23
+1095,2012,Arizona, Breast, Female,3295980,750
+1096,2012,Arizona, Larynx, Female,3295980,0
+1097,2012,Arizona, Larynx, Male,3258998,41
+1098,2012,Arizona, Liver, Female,3295980,108
+1099,2012,Arizona, Liver, Male,3258998,283
+1100,2012,Arizona, Myeloma, Female,3295980,93
+1101,2012,Arizona, Myeloma, Male,3258998,124
+1102,2012,Arkansas, Breast, Female,1502043,444
+1103,2012,Arkansas, Larynx, Male,1450121,40
+1104,2012,Arkansas, Liver, Female,1502043,61
+1105,2012,Arkansas, Liver, Male,1450121,150
+1106,2012,Arkansas, Myeloma, Female,1502043,53
+1107,2012,Arkansas, Myeloma, Male,1450121,54
+1108,2012,California, Breast, Female,19100068,4479
+1109,2012,California, Breast, Male,18848732,29
+1110,2012,California, Larynx, Female,19100068,39
+1111,2012,California, Larynx, Male,18848732,258
+1112,2012,California, Liver, Female,19100068,700
+1113,2012,California, Liver, Male,18848732,1757
+1114,2012,California, Myeloma, Female,19100068,563
+1115,2012,California, Myeloma, Male,18848732,656
+1116,2012,Colorado, Breast, Female,2589445,579
+1117,2012,Colorado, Larynx, Male,2603202,29
+1118,2012,Colorado, Liver, Female,2589445,59
+1119,2012,Colorado, Liver, Male,2603202,169
+1120,2012,Colorado, Myeloma, Female,2589445,72
+1121,2012,Colorado, Myeloma, Male,2603202,77
+1122,2012,Connecticut, Breast, Female,1843309,479
+1123,2012,Connecticut, Larynx, Male,1751238,26
+1124,2012,Connecticut, Liver, Female,1843309,29
+1125,2012,Connecticut, Liver, Male,1751238,144
+1126,2012,Connecticut, Myeloma, Female,1843309,71
+1127,2012,Connecticut, Myeloma, Male,1751238,67
+1128,2012,Delaware, Breast, Female,471942,136
+1129,2012,Delaware, Breast, Male,443237,0
+1130,2012,Delaware, Liver, Female,471942,0
+1131,2012,Delaware, Liver, Male,443237,44
+1132,2012,Delaware, Myeloma, Female,471942,17
+1133,2012,Delaware, Myeloma, Male,443237,21
+1134,2012,Florida, Breast, Female,9862824,2848
+1135,2012,Florida, Breast, Male,9434998,24
+1136,2012,Florida, Larynx, Female,9862824,66
+1137,2012,Florida, Larynx, Male,9434998,246
+1138,2012,Florida, Liver, Female,9862824,299
+1139,2012,Florida, Liver, Male,9434998,900
+1140,2012,Florida, Myeloma, Female,9862824,395
+1141,2012,Florida, Myeloma, Male,9434998,458
+1142,2012,Georgia, Breast, Female,5067200,1175
+1143,2012,Georgia, Breast, Male,4834230,16
+1144,2012,Georgia, Larynx, Female,5067200,20
+1145,2012,Georgia, Larynx, Male,4834230,74
+1146,2012,Georgia, Liver, Female,5067200,143
+1147,2012,Georgia, Liver, Male,4834230,364
+1148,2012,Georgia, Myeloma, Female,5067200,168
+1149,2012,Georgia, Myeloma, Male,4834230,182
+1150,2012,Hawaii, Breast, Female,695435,138
+1151,2012,Hawaii, Breast, Male,699369,0
+1152,2012,Hawaii, Larynx, Female,695435,0
+1153,2012,Hawaii, Larynx, Male,699369,0
+1154,2012,Hawaii, Liver, Female,695435,39
+1155,2012,Hawaii, Liver, Male,699369,72
+1156,2012,Hawaii, Myeloma, Female,695435,20
+1157,2012,Hawaii, Myeloma, Male,699369,27
+1158,2012,Idaho, Breast, Female,796523,144
+1159,2012,Idaho, Breast, Male,798801,0
+1160,2012,Idaho, Larynx, Female,796523,0
+1161,2012,Idaho, Larynx, Male,798801,0
+1162,2012,Idaho, Liver, Female,796523,16
+1163,2012,Idaho, Liver, Male,798801,59
+1164,2012,Idaho, Myeloma, Female,796523,22
+1165,2012,Idaho, Myeloma, Male,798801,38
+1166,2012,Illinois, Breast, Female,6562466,1810
+1167,2012,Illinois, Breast, Male,6320044,17
+1168,2012,Illinois, Larynx, Female,6562466,35
+1169,2012,Illinois, Larynx, Male,6320044,130
+1170,2012,Illinois, Liver, Female,6562466,185
+1171,2012,Illinois, Liver, Male,6320044,422
+1172,2012,Illinois, Myeloma, Female,6562466,232
+1173,2012,Illinois, Myeloma, Male,6320044,248
+1174,2012,Indiana, Breast, Female,3318796,876
+1175,2012,Indiana, Breast, Male,3218907,0
+1176,2012,Indiana, Larynx, Female,3318796,0
+1177,2012,Indiana, Larynx, Male,3218907,77
+1178,2012,Indiana, Liver, Female,3318796,72
+1179,2012,Indiana, Liver, Male,3218907,250
+1180,2012,Indiana, Myeloma, Female,3318796,106
+1181,2012,Indiana, Myeloma, Male,3218907,140
+1182,2012,Iowa, Breast, Female,1550519,417
+1183,2012,Iowa, Larynx, Male,1525671,35
+1184,2012,Iowa, Liver, Female,1550519,29
+1185,2012,Iowa, Liver, Male,1525671,106
+1186,2012,Iowa, Myeloma, Female,1550519,52
+1187,2012,Iowa, Myeloma, Male,1525671,85
+1188,2012,Kansas, Breast, Female,1451420,397
+1189,2012,Kansas, Larynx, Male,1433837,21
+1190,2012,Kansas, Liver, Female,1451420,45
+1191,2012,Kansas, Liver, Male,1433837,103
+1192,2012,Kansas, Myeloma, Female,1451420,55
+1193,2012,Kansas, Myeloma, Male,1433837,67
+1194,2012,Kentucky, Breast, Female,2226736,646
+1195,2012,Kentucky, Larynx, Female,2226736,21
+1196,2012,Kentucky, Larynx, Male,2159610,65
+1197,2012,Kentucky, Liver, Female,2226736,63
+1198,2012,Kentucky, Liver, Male,2159610,184
+1199,2012,Kentucky, Myeloma, Female,2226736,68
+1200,2012,Kentucky, Myeloma, Male,2159610,101
+1201,2012,Louisiana, Breast, Female,2349672,660
+1202,2012,Louisiana, Larynx, Female,2349672,20
+1203,2012,Louisiana, Larynx, Male,2251300,42
+1204,2012,Louisiana, Liver, Female,2349672,98
+1205,2012,Louisiana, Liver, Male,2251300,247
+1206,2012,Louisiana, Myeloma, Female,2349672,86
+1207,2012,Louisiana, Myeloma, Male,2251300,89
+1208,2012,Maine, Breast, Female,677635,168
+1209,2012,Maine, Larynx, Male,650094,18
+1210,2012,Maine, Liver, Female,677635,20
+1211,2012,Maine, Liver, Male,650094,44
+1212,2012,Maine, Myeloma, Female,677635,24
+1213,2012,Maine, Myeloma, Male,650094,26
+1214,2012,Maryland, Breast, Female,3035384,857
+1215,2012,Maryland, Breast, Male,2851608,0
+1216,2012,Maryland, Larynx, Female,3035384,0
+1217,2012,Maryland, Larynx, Male,2851608,59
+1218,2012,Maryland, Liver, Female,3035384,90
+1219,2012,Maryland, Liver, Male,2851608,259
+1220,2012,Maryland, Myeloma, Female,3035384,130
+1221,2012,Maryland, Myeloma, Male,2851608,116
+1222,2012,Massachusetts, Breast, Female,3434761,860
+1223,2012,Massachusetts, Breast, Male,3228244,18
+1224,2012,Massachusetts, Larynx, Female,3434761,0
+1225,2012,Massachusetts, Larynx, Male,3228244,45
+1226,2012,Massachusetts, Liver, Female,3434761,84
+1227,2012,Massachusetts, Liver, Male,3228244,272
+1228,2012,Massachusetts, Myeloma, Female,3434761,140
+1229,2012,Massachusetts, Myeloma, Male,3228244,129
+1230,2012,Michigan, Breast, Female,5038285,1425
+1231,2012,Michigan, Breast, Male,4858860,21
+1232,2012,Michigan, Larynx, Female,5038285,27
+1233,2012,Michigan, Larynx, Male,4858860,108
+1234,2012,Michigan, Liver, Female,5038285,152
+1235,2012,Michigan, Liver, Male,4858860,386
+1236,2012,Michigan, Myeloma, Female,5038285,196
+1237,2012,Michigan, Myeloma, Male,4858860,220
+1238,2012,Minnesota, Breast, Female,2705768,604
+1239,2012,Minnesota, Larynx, Female,2705768,0
+1240,2012,Minnesota, Larynx, Male,2670875,34
+1241,2012,Minnesota, Liver, Female,2705768,69
+1242,2012,Minnesota, Liver, Male,2670875,161
+1243,2012,Minnesota, Myeloma, Female,2705768,79
+1244,2012,Minnesota, Myeloma, Male,2670875,125
+1245,2012,Mississippi, Breast, Female,1534085,455
+1246,2012,Mississippi, Larynx, Male,1449731,42
+1247,2012,Mississippi, Liver, Female,1534085,75
+1248,2012,Mississippi, Liver, Male,1449731,149
+1249,2012,Mississippi, Myeloma, Female,1534085,62
+1250,2012,Mississippi, Myeloma, Male,1449731,59
+1251,2012,Missouri, Breast, Female,3071666,861
+1252,2012,Missouri, Larynx, Female,3071666,16
+1253,2012,Missouri, Larynx, Male,2952701,58
+1254,2012,Missouri, Liver, Female,3071666,80
+1255,2012,Missouri, Liver, Male,2952701,269
+1256,2012,Missouri, Myeloma, Female,3071666,114
+1257,2012,Missouri, Myeloma, Male,2952701,169
+1258,2012,Montana, Breast, Female,499784,133
+1259,2012,Montana, Breast, Male,503999,0
+1260,2012,Montana, Larynx, Female,499784,0
+1261,2012,Montana, Liver, Female,499784,0
+1262,2012,Montana, Liver, Male,503999,37
+1263,2012,Montana, Myeloma, Female,499784,17
+1264,2012,Montana, Myeloma, Male,503999,23
+1265,2012,Nebraska, Breast, Female,932333,245
+1266,2012,Nebraska, Larynx, Male,920970,0
+1267,2012,Nebraska, Liver, Female,932333,0
+1268,2012,Nebraska, Liver, Male,920970,56
+1269,2012,Nebraska, Myeloma, Female,932333,31
+1270,2012,Nebraska, Myeloma, Male,920970,51
+1271,2012,Nevada, Breast, Female,1361288,328
+1272,2012,Nevada, Larynx, Female,1361288,0
+1273,2012,Nevada, Larynx, Male,1382708,33
+1274,2012,Nevada, Liver, Female,1361288,40
+1275,2012,Nevada, Liver, Male,1382708,79
+1276,2012,Nevada, Myeloma, Female,1361288,23
+1277,2012,Nevada, Myeloma, Male,1382708,44
+1278,2012,New Hampshire, Breast, Female,670688,164
+1279,2012,New Hampshire, Breast, Male,653544,0
+1280,2012,New Hampshire, Larynx, Female,670688,0
+1281,2012,New Hampshire, Larynx, Male,653544,0
+1282,2012,New Hampshire, Liver, Female,670688,0
+1283,2012,New Hampshire, Liver, Male,653544,57
+1284,2012,New Hampshire, Myeloma, Female,670688,23
+1285,2012,New Hampshire, Myeloma, Male,653544,23
+1286,2012,New Jersey, Breast, Female,4534238,1312
+1287,2012,New Jersey, Breast, Male,4310704,0
+1288,2012,New Jersey, Larynx, Female,4534238,25
+1289,2012,New Jersey, Larynx, Male,4310704,67
+1290,2012,New Jersey, Liver, Female,4534238,120
+1291,2012,New Jersey, Liver, Male,4310704,296
+1292,2012,New Jersey, Myeloma, Female,4534238,169
+1293,2012,New Jersey, Myeloma, Male,4310704,173
+1294,2012,New Mexico, Breast, Female,1054582,231
+1295,2012,New Mexico, Breast, Male,1032727,0
+1296,2012,New Mexico, Larynx, Male,1032727,18
+1297,2012,New Mexico, Liver, Female,1054582,38
+1298,2012,New Mexico, Liver, Male,1032727,108
+1299,2012,New Mexico, Myeloma, Female,1054582,38
+1300,2012,New Mexico, Myeloma, Male,1032727,38
+1301,2012,New York, Breast, Female,10087794,2632
+1302,2012,New York, Breast, Male,9485138,23
+1303,2012,New York, Larynx, Female,10087794,47
+1304,2012,New York, Larynx, Male,9485138,188
+1305,2012,New York, Liver, Female,10087794,298
+1306,2012,New York, Liver, Male,9485138,778
+1307,2012,New York, Myeloma, Female,10087794,355
+1308,2012,New York, Myeloma, Male,9485138,345
+1309,2012,North Carolina, Breast, Female,4999867,1287
+1310,2012,North Carolina, Breast, Male,4749609,0
+1311,2012,North Carolina, Larynx, Female,4999867,27
+1312,2012,North Carolina, Larynx, Male,4749609,85
+1313,2012,North Carolina, Liver, Female,4999867,108
+1314,2012,North Carolina, Liver, Male,4749609,346
+1315,2012,North Carolina, Myeloma, Female,4999867,196
+1316,2012,North Carolina, Myeloma, Male,4749609,192
+1317,2012,North Dakota, Breast, Female,344750,79
+1318,2012,North Dakota, Breast, Male,356426,0
+1319,2012,North Dakota, Larynx, Female,344750,0
+1320,2012,North Dakota, Liver, Male,356426,18
+1321,2012,North Dakota, Myeloma, Female,344750,0
+1322,2012,North Dakota, Myeloma, Male,356426,18
+1323,2012,Ohio, Breast, Female,5903118,1741
+1324,2012,Ohio, Breast, Male,5645805,16
+1325,2012,Ohio, Larynx, Female,5903118,41
+1326,2012,Ohio, Larynx, Male,5645805,144
+1327,2012,Ohio, Liver, Female,5903118,156
+1328,2012,Ohio, Liver, Male,5645805,444
+1329,2012,Ohio, Myeloma, Female,5903118,252
+1330,2012,Ohio, Myeloma, Male,5645805,253
+1331,2012,Oklahoma, Breast, Female,1927833,539
+1332,2012,Oklahoma, Larynx, Female,1927833,0
+1333,2012,Oklahoma, Larynx, Male,1890981,36
+1334,2012,Oklahoma, Liver, Female,1927833,74
+1335,2012,Oklahoma, Liver, Male,1890981,156
+1336,2012,Oklahoma, Myeloma, Female,1927833,61
+1337,2012,Oklahoma, Myeloma, Male,1890981,90
+1338,2012,Oregon, Breast, Female,1969416,510
+1339,2012,Oregon, Breast, Male,1929585,0
+1340,2012,Oregon, Larynx, Male,1929585,22
+1341,2012,Oregon, Liver, Female,1969416,57
+1342,2012,Oregon, Liver, Male,1929585,191
+1343,2012,Oregon, Myeloma, Female,1969416,71
+1344,2012,Oregon, Myeloma, Male,1929585,88
+1345,2012,Pennsylvania, Breast, Female,6532458,2029
+1346,2012,Pennsylvania, Breast, Male,6234660,18
+1347,2012,Pennsylvania, Larynx, Female,6532458,42
+1348,2012,Pennsylvania, Larynx, Male,6234660,138
+1349,2012,Pennsylvania, Liver, Female,6532458,202
+1350,2012,Pennsylvania, Liver, Male,6234660,548
+1351,2012,Pennsylvania, Myeloma, Female,6532458,250
+1352,2012,Pennsylvania, Myeloma, Male,6234660,273
+1353,2012,Puerto Rico, Breast, Female,1895416,438
+1354,2012,Puerto Rico, Larynx, Male,1739072,42
+1355,2012,Puerto Rico, Liver, Female,1895416,85
+1356,2012,Puerto Rico, Liver, Male,1739072,184
+1357,2012,Puerto Rico, Myeloma, Female,1895416,69
+1358,2012,Puerto Rico, Myeloma, Male,1739072,83
+1359,2012,Rhode Island, Breast, Female,544006,132
+1360,2012,Rhode Island, Larynx, Female,544006,0
+1361,2012,Rhode Island, Larynx, Male,510615,0
+1362,2012,Rhode Island, Liver, Female,544006,0
+1363,2012,Rhode Island, Liver, Male,510615,51
+1364,2012,Rhode Island, Myeloma, Female,544006,0
+1365,2012,Rhode Island, Myeloma, Male,510615,18
+1366,2012,South Carolina, Breast, Female,2424756,670
+1367,2012,South Carolina, Larynx, Female,2424756,0
+1368,2012,South Carolina, Larynx, Male,2292598,61
+1369,2012,South Carolina, Liver, Female,2424756,59
+1370,2012,South Carolina, Liver, Male,2292598,192
+1371,2012,South Carolina, Myeloma, Female,2424756,114
+1372,2012,South Carolina, Myeloma, Male,2292598,122
+1373,2012,South Dakota, Breast, Female,414496,107
+1374,2012,South Dakota, Breast, Male,419070,0
+1375,2012,South Dakota, Larynx, Female,414496,0
+1376,2012,South Dakota, Liver, Male,419070,26
+1377,2012,South Dakota, Myeloma, Female,414496,24
+1378,2012,South Dakota, Myeloma, Male,419070,18
+1379,2012,Tennessee, Breast, Female,3307196,920
+1380,2012,Tennessee, Breast, Male,3146702,0
+1381,2012,Tennessee, Larynx, Female,3307196,18
+1382,2012,Tennessee, Larynx, Male,3146702,77
+1383,2012,Tennessee, Liver, Female,3307196,101
+1384,2012,Tennessee, Liver, Male,3146702,302
+1385,2012,Tennessee, Myeloma, Female,3307196,114
+1386,2012,Tennessee, Myeloma, Male,3146702,154
+1387,2012,Texas, Breast, Female,13141682,2821
+1388,2012,Texas, Breast, Male,12942799,24
+1389,2012,Texas, Larynx, Female,13141682,56
+1390,2012,Texas, Larynx, Male,12942799,227
+1391,2012,Texas, Liver, Female,13141682,439
+1392,2012,Texas, Liver, Male,12942799,1201
+1393,2012,Texas, Myeloma, Female,13141682,324
+1394,2012,Texas, Myeloma, Male,12942799,423
+1395,2012,Utah, Breast, Female,1418993,249
+1396,2012,Utah, Liver, Female,1418993,23
+1397,2012,Utah, Liver, Male,1434382,51
+1398,2012,Utah, Myeloma, Female,1418993,42
+1399,2012,Utah, Myeloma, Male,1434382,47
+1400,2012,Vermont, Breast, Female,317361,85
+1401,2012,Vermont, Breast, Male,308729,0
+1402,2012,Vermont, Larynx, Female,317361,0
+1403,2012,Vermont, Liver, Male,308729,21
+1404,2012,Vermont, Myeloma, Female,317361,0
+1405,2012,Vermont, Myeloma, Male,308729,0
+1406,2012,Virginia, Breast, Female,4164006,1032
+1407,2012,Virginia, Breast, Male,4021074,0
+1408,2012,Virginia, Larynx, Female,4164006,16
+1409,2012,Virginia, Larynx, Male,4021074,73
+1410,2012,Virginia, Liver, Female,4164006,116
+1411,2012,Virginia, Liver, Male,4021074,289
+1412,2012,Virginia, Myeloma, Female,4164006,130
+1413,2012,Virginia, Myeloma, Male,4021074,169
+1414,2012,Washington DC, Breast, Female,334384,107
+1415,2012,Washington DC, Breast, Male,300540,0
+1416,2012,Washington DC, Liver, Female,334384,0
+1417,2012,Washington DC, Liver, Male,300540,41
+1418,2012,Washington DC, Myeloma, Female,334384,16
+1419,2012,Washington DC, Myeloma, Male,300540,0
+1420,2012,Washington, Breast, Female,3458254,731
+1421,2012,Washington, Larynx, Female,3458254,17
+1422,2012,Washington, Larynx, Male,3438804,54
+1423,2012,Washington, Liver, Female,3458254,87
+1424,2012,Washington, Liver, Male,3438804,294
+1425,2012,Washington, Myeloma, Female,3458254,114
+1426,2012,Washington, Myeloma, Male,3438804,154
+1427,2012,West Virginia, Breast, Female,939933,294
+1428,2012,West Virginia, Larynx, Male,916939,40
+1429,2012,West Virginia, Liver, Female,939933,21
+1430,2012,West Virginia, Liver, Male,916939,60
+1431,2012,West Virginia, Myeloma, Female,939933,31
+1432,2012,West Virginia, Myeloma, Male,916939,44
+1433,2012,Wisconsin, Breast, Female,2879905,763
+1434,2012,Wisconsin, Larynx, Female,2879905,0
+1435,2012,Wisconsin, Larynx, Male,2840055,43
+1436,2012,Wisconsin, Liver, Female,2879905,80
+1437,2012,Wisconsin, Liver, Male,2840055,179
+1438,2012,Wisconsin, Myeloma, Female,2879905,123
+1439,2012,Wisconsin, Myeloma, Male,2840055,138
+1440,2012,Wyoming, Breast, Female,282019,52
+1441,2012,Wyoming, Breast, Male,294286,0
+1442,2012,Wyoming, Larynx, Female,282019,0
+1443,2012,Wyoming, Liver, Male,294286,22
+1444,2012,Wyoming, Myeloma, Female,282019,0
+1445,2013,Alabama, Breast, Female,2487659,661
+1446,2013,Alabama, Larynx, Female,2487659,0
+1447,2013,Alabama, Larynx, Male,2342422,51
+1448,2013,Alabama, Liver, Female,2487659,81
+1449,2013,Alabama, Liver, Male,2342422,253
+1450,2013,Alabama, Myeloma, Female,2487659,100
+1451,2013,Alabama, Myeloma, Male,2342422,129
+1452,2013,Alaska, Breast, Female,351436,61
+1453,2013,Alaska, Breast, Male,385632,0
+1454,2013,Alaska, Larynx, Female,351436,0
+1455,2013,Alaska, Liver, Male,385632,30
+1456,2013,Arizona, Breast, Female,3336179,839
+1457,2013,Arizona, Larynx, Female,3336179,0
+1458,2013,Arizona, Larynx, Male,3296585,41
+1459,2013,Arizona, Liver, Female,3336179,136
+1460,2013,Arizona, Liver, Male,3296585,302
+1461,2013,Arizona, Myeloma, Female,3336179,114
+1462,2013,Arizona, Myeloma, Male,3296585,120
+1463,2013,Arkansas, Breast, Female,1506029,400
+1464,2013,Arkansas, Larynx, Male,1453371,26
+1465,2013,Arkansas, Liver, Female,1506029,60
+1466,2013,Arkansas, Liver, Male,1453371,138
+1467,2013,Arkansas, Myeloma, Female,1506029,56
+1468,2013,Arkansas, Myeloma, Male,1453371,62
+1469,2013,California, Breast, Female,19261489,4371
+1470,2013,California, Breast, Male,18999298,47
+1471,2013,California, Larynx, Female,19261489,53
+1472,2013,California, Larynx, Male,18999298,230
+1473,2013,California, Liver, Female,19261489,685
+1474,2013,California, Liver, Male,18999298,1820
+1475,2013,California, Myeloma, Female,19261489,489
+1476,2013,California, Myeloma, Male,18999298,663
+1477,2013,Colorado, Breast, Female,2626304,531
+1478,2013,Colorado, Larynx, Male,2642731,23
+1479,2013,Colorado, Liver, Female,2626304,72
+1480,2013,Colorado, Liver, Male,2642731,170
+1481,2013,Colorado, Myeloma, Female,2626304,71
+1482,2013,Colorado, Myeloma, Male,2642731,104
+1483,2013,Connecticut, Breast, Female,1842664,454
+1484,2013,Connecticut, Larynx, Male,1752177,30
+1485,2013,Connecticut, Liver, Female,1842664,46
+1486,2013,Connecticut, Liver, Male,1752177,112
+1487,2013,Connecticut, Myeloma, Female,1842664,71
+1488,2013,Connecticut, Myeloma, Male,1752177,69
+1489,2013,Delaware, Breast, Female,476558,131
+1490,2013,Delaware, Breast, Male,447018,0
+1491,2013,Delaware, Liver, Female,476558,25
+1492,2013,Delaware, Liver, Male,447018,44
+1493,2013,Delaware, Myeloma, Female,476558,16
+1494,2013,Delaware, Myeloma, Male,447018,21
+1495,2013,Florida, Breast, Female,9988487,2778
+1496,2013,Florida, Breast, Male,9557134,41
+1497,2013,Florida, Larynx, Female,9988487,46
+1498,2013,Florida, Larynx, Male,9557134,251
+1499,2013,Florida, Liver, Female,9988487,387
+1500,2013,Florida, Liver, Male,9557134,959
+1501,2013,Florida, Myeloma, Female,9988487,356
+1502,2013,Florida, Myeloma, Male,9557134,471
+1503,2013,Georgia, Breast, Female,5107959,1245
+1504,2013,Georgia, Breast, Male,4864520,0
+1505,2013,Georgia, Larynx, Female,5107959,17
+1506,2013,Georgia, Larynx, Male,4864520,78
+1507,2013,Georgia, Liver, Female,5107959,154
+1508,2013,Georgia, Liver, Male,4864520,374
+1509,2013,Georgia, Myeloma, Female,5107959,179
+1510,2013,Georgia, Myeloma, Male,4864520,195
+1511,2013,Hawaii, Breast, Female,701305,138
+1512,2013,Hawaii, Breast, Male,706938,0
+1513,2013,Hawaii, Larynx, Female,701305,0
+1514,2013,Hawaii, Larynx, Male,706938,20
+1515,2013,Hawaii, Liver, Female,701305,22
+1516,2013,Hawaii, Liver, Male,706938,85
+1517,2013,Hawaii, Myeloma, Female,701305,16
+1518,2013,Hawaii, Myeloma, Male,706938,27
+1519,2013,Idaho, Breast, Female,804232,205
+1520,2013,Idaho, Breast, Male,806974,0
+1521,2013,Idaho, Larynx, Female,804232,0
+1522,2013,Idaho, Larynx, Male,806974,0
+1523,2013,Idaho, Liver, Female,804232,21
+1524,2013,Idaho, Liver, Male,806974,44
+1525,2013,Idaho, Myeloma, Female,804232,26
+1526,2013,Idaho, Myeloma, Male,806974,35
+1527,2013,Illinois, Breast, Female,6566046,1761
+1528,2013,Illinois, Breast, Male,6329083,22
+1529,2013,Illinois, Larynx, Female,6566046,23
+1530,2013,Illinois, Larynx, Male,6329083,158
+1531,2013,Illinois, Liver, Female,6566046,205
+1532,2013,Illinois, Liver, Male,6329083,473
+1533,2013,Illinois, Myeloma, Female,6566046,221
+1534,2013,Illinois, Myeloma, Male,6329083,248
+1535,2013,Indiana, Breast, Female,3333504,887
+1536,2013,Indiana, Breast, Male,3235209,0
+1537,2013,Indiana, Larynx, Female,3333504,0
+1538,2013,Indiana, Larynx, Male,3235209,65
+1539,2013,Indiana, Liver, Female,3333504,98
+1540,2013,Indiana, Liver, Male,3235209,249
+1541,2013,Indiana, Myeloma, Female,3333504,126
+1542,2013,Indiana, Myeloma, Male,3235209,150
+1543,2013,Iowa, Breast, Female,1558112,385
+1544,2013,Iowa, Larynx, Male,1534885,32
+1545,2013,Iowa, Liver, Female,1558112,27
+1546,2013,Iowa, Liver, Male,1534885,105
+1547,2013,Iowa, Myeloma, Female,1558112,58
+1548,2013,Iowa, Myeloma, Male,1534885,69
+1549,2013,Kansas, Breast, Female,1453878,334
+1550,2013,Kansas, Larynx, Male,1439334,24
+1551,2013,Kansas, Liver, Female,1453878,51
+1552,2013,Kansas, Liver, Male,1439334,103
+1553,2013,Kansas, Myeloma, Female,1453878,50
+1554,2013,Kansas, Myeloma, Male,1439334,70
+1555,2013,Kentucky, Breast, Female,2234775,585
+1556,2013,Kentucky, Larynx, Female,2234775,0
+1557,2013,Kentucky, Larynx, Male,2169884,65
+1558,2013,Kentucky, Liver, Female,2234775,70
+1559,2013,Kentucky, Liver, Male,2169884,174
+1560,2013,Kentucky, Myeloma, Female,2234775,69
+1561,2013,Kentucky, Myeloma, Male,2169884,91
+1562,2013,Louisiana, Breast, Female,2361437,652
+1563,2013,Louisiana, Larynx, Female,2361437,0
+1564,2013,Louisiana, Larynx, Male,2263090,61
+1565,2013,Louisiana, Liver, Female,2361437,119
+1566,2013,Louisiana, Liver, Male,2263090,276
+1567,2013,Louisiana, Myeloma, Female,2361437,94
+1568,2013,Louisiana, Myeloma, Male,2263090,108
+1569,2013,Maine, Breast, Female,677301,186
+1570,2013,Maine, Larynx, Male,650708,22
+1571,2013,Maine, Liver, Female,677301,0
+1572,2013,Maine, Liver, Male,650708,50
+1573,2013,Maine, Myeloma, Female,677301,25
+1574,2013,Maine, Myeloma, Male,650708,25
+1575,2013,Maryland, Breast, Female,3053281,783
+1576,2013,Maryland, Breast, Male,2869907,0
+1577,2013,Maryland, Larynx, Female,3053281,19
+1578,2013,Maryland, Larynx, Male,2869907,50
+1579,2013,Maryland, Liver, Female,3053281,104
+1580,2013,Maryland, Liver, Male,2869907,258
+1581,2013,Maryland, Myeloma, Female,3053281,125
+1582,2013,Maryland, Myeloma, Male,2869907,106
+1583,2013,Massachusetts, Breast, Female,3459975,832
+1584,2013,Massachusetts, Breast, Male,3253340,0
+1585,2013,Massachusetts, Larynx, Female,3459975,18
+1586,2013,Massachusetts, Larynx, Male,3253340,52
+1587,2013,Massachusetts, Liver, Female,3459975,102
+1588,2013,Massachusetts, Liver, Male,3253340,317
+1589,2013,Massachusetts, Myeloma, Female,3459975,128
+1590,2013,Massachusetts, Myeloma, Male,3253340,117
+1591,2013,Michigan, Breast, Female,5044150,1382
+1592,2013,Michigan, Breast, Male,4868915,0
+1593,2013,Michigan, Larynx, Female,5044150,38
+1594,2013,Michigan, Larynx, Male,4868915,120
+1595,2013,Michigan, Liver, Female,5044150,160
+1596,2013,Michigan, Liver, Male,4868915,406
+1597,2013,Michigan, Myeloma, Female,5044150,156
+1598,2013,Michigan, Myeloma, Male,4868915,232
+1599,2013,Minnesota, Breast, Female,2723613,665
+1600,2013,Minnesota, Larynx, Female,2723613,0
+1601,2013,Minnesota, Larynx, Male,2689866,26
+1602,2013,Minnesota, Liver, Female,2723613,42
+1603,2013,Minnesota, Liver, Male,2689866,157
+1604,2013,Minnesota, Myeloma, Female,2723613,89
+1605,2013,Minnesota, Myeloma, Male,2689866,109
+1606,2013,Mississippi, Breast, Female,1536257,418
+1607,2013,Mississippi, Larynx, Male,1452454,30
+1608,2013,Mississippi, Liver, Female,1536257,67
+1609,2013,Mississippi, Liver, Male,1452454,157
+1610,2013,Mississippi, Myeloma, Female,1536257,68
+1611,2013,Mississippi, Myeloma, Male,1452454,77
+1612,2013,Missouri, Breast, Female,3078127,858
+1613,2013,Missouri, Larynx, Female,3078127,20
+1614,2013,Missouri, Larynx, Male,2962588,65
+1615,2013,Missouri, Liver, Female,3078127,95
+1616,2013,Missouri, Liver, Male,2962588,268
+1617,2013,Missouri, Myeloma, Female,3078127,121
+1618,2013,Missouri, Myeloma, Male,2962588,125
+1619,2013,Montana, Breast, Female,504215,137
+1620,2013,Montana, Breast, Male,509354,0
+1621,2013,Montana, Larynx, Female,504215,0
+1622,2013,Montana, Liver, Female,504215,0
+1623,2013,Montana, Liver, Male,509354,36
+1624,2013,Montana, Myeloma, Female,504215,22
+1625,2013,Montana, Myeloma, Male,509354,32
+1626,2013,Nebraska, Breast, Female,937248,245
+1627,2013,Nebraska, Larynx, Male,928031,23
+1628,2013,Nebraska, Liver, Female,937248,17
+1629,2013,Nebraska, Liver, Male,928031,56
+1630,2013,Nebraska, Myeloma, Female,937248,31
+1631,2013,Nebraska, Myeloma, Male,928031,39
+1632,2013,Nevada, Breast, Female,1378565,352
+1633,2013,Nevada, Larynx, Female,1378565,0
+1634,2013,Nevada, Larynx, Male,1397405,0
+1635,2013,Nevada, Liver, Female,1378565,51
+1636,2013,Nevada, Liver, Male,1397405,107
+1637,2013,Nevada, Myeloma, Female,1378565,36
+1638,2013,Nevada, Myeloma, Male,1397405,44
+1639,2013,New Hampshire, Breast, Female,671490,176
+1640,2013,New Hampshire, Breast, Male,655132,0
+1641,2013,New Hampshire, Larynx, Female,671490,0
+1642,2013,New Hampshire, Larynx, Male,655132,0
+1643,2013,New Hampshire, Liver, Female,671490,0
+1644,2013,New Hampshire, Liver, Male,655132,55
+1645,2013,New Hampshire, Myeloma, Female,671490,23
+1646,2013,New Hampshire, Myeloma, Male,655132,27
+1647,2013,New Jersey, Breast, Female,4538032,1356
+1648,2013,New Jersey, Breast, Male,4318940,0
+1649,2013,New Jersey, Larynx, Female,4538032,26
+1650,2013,New Jersey, Larynx, Male,4318940,104
+1651,2013,New Jersey, Liver, Female,4538032,134
+1652,2013,New Jersey, Liver, Male,4318940,300
+1653,2013,New Jersey, Myeloma, Female,4538032,143
+1654,2013,New Jersey, Myeloma, Male,4318940,177
+1655,2013,New Mexico, Breast, Female,1056491,224
+1656,2013,New Mexico, Breast, Male,1035782,0
+1657,2013,New Mexico, Larynx, Male,1035782,0
+1658,2013,New Mexico, Liver, Female,1056491,42
+1659,2013,New Mexico, Liver, Male,1035782,128
+1660,2013,New Mexico, Myeloma, Female,1056491,27
+1661,2013,New Mexico, Myeloma, Male,1035782,39
+1662,2013,New York, Breast, Female,10109800,2632
+1663,2013,New York, Breast, Male,9514647,32
+1664,2013,New York, Larynx, Female,10109800,51
+1665,2013,New York, Larynx, Male,9514647,223
+1666,2013,New York, Liver, Female,10109800,286
+1667,2013,New York, Liver, Male,9514647,807
+1668,2013,New York, Myeloma, Female,10109800,312
+1669,2013,New York, Myeloma, Male,9514647,369
+1670,2013,North Carolina, Breast, Female,5049000,1254
+1671,2013,North Carolina, Breast, Male,4794336,0
+1672,2013,North Carolina, Larynx, Female,5049000,28
+1673,2013,North Carolina, Larynx, Male,4794336,103
+1674,2013,North Carolina, Liver, Female,5049000,127
+1675,2013,North Carolina, Liver, Male,4794336,445
+1676,2013,North Carolina, Myeloma, Female,5049000,208
+1677,2013,North Carolina, Myeloma, Male,4794336,181
+1678,2013,North Dakota, Breast, Female,353454,79
+1679,2013,North Dakota, Breast, Male,368582,0
+1680,2013,North Dakota, Larynx, Female,353454,0
+1681,2013,North Dakota, Liver, Male,368582,0
+1682,2013,North Dakota, Myeloma, Female,353454,16
+1683,2013,North Dakota, Myeloma, Male,368582,18
+1684,2013,Ohio, Breast, Female,5913087,1780
+1685,2013,Ohio, Breast, Male,5663597,16
+1686,2013,Ohio, Larynx, Female,5913087,46
+1687,2013,Ohio, Larynx, Male,5663597,123
+1688,2013,Ohio, Liver, Female,5913087,162
+1689,2013,Ohio, Liver, Male,5663597,437
+1690,2013,Ohio, Myeloma, Female,5913087,243
+1691,2013,Ohio, Myeloma, Male,5663597,271
+1692,2013,Oklahoma, Breast, Female,1944300,542
+1693,2013,Oklahoma, Larynx, Female,1944300,0
+1694,2013,Oklahoma, Larynx, Male,1908914,31
+1695,2013,Oklahoma, Liver, Female,1944300,63
+1696,2013,Oklahoma, Liver, Male,1908914,186
+1697,2013,Oklahoma, Myeloma, Female,1944300,58
+1698,2013,Oklahoma, Myeloma, Male,1908914,76
+1699,2013,Oregon, Breast, Female,1981177,519
+1700,2013,Oregon, Breast, Male,1941291,0
+1701,2013,Oregon, Larynx, Male,1941291,31
+1702,2013,Oregon, Liver, Female,1981177,75
+1703,2013,Oregon, Liver, Male,1941291,185
+1704,2013,Oregon, Myeloma, Female,1981177,73
+1705,2013,Oregon, Myeloma, Male,1941291,105
+1706,2013,Pennsylvania, Breast, Female,6531172,2001
+1707,2013,Pennsylvania, Breast, Male,6245137,19
+1708,2013,Pennsylvania, Larynx, Female,6531172,46
+1709,2013,Pennsylvania, Larynx, Male,6245137,148
+1710,2013,Pennsylvania, Liver, Female,6531172,192
+1711,2013,Pennsylvania, Liver, Male,6245137,534
+1712,2013,Pennsylvania, Myeloma, Female,6531172,263
+1713,2013,Pennsylvania, Myeloma, Male,6245137,294
+1714,2013,Puerto Rico, Breast, Female,1872797,416
+1715,2013,Puerto Rico, Larynx, Male,1720280,30
+1716,2013,Puerto Rico, Liver, Female,1872797,91
+1717,2013,Puerto Rico, Liver, Male,1720280,180
+1718,2013,Puerto Rico, Myeloma, Female,1872797,51
+1719,2013,Puerto Rico, Myeloma, Male,1720280,75
+1720,2013,Rhode Island, Breast, Female,543860,143
+1721,2013,Rhode Island, Larynx, Female,543860,0
+1722,2013,Rhode Island, Larynx, Male,511221,0
+1723,2013,Rhode Island, Liver, Female,543860,0
+1724,2013,Rhode Island, Liver, Male,511221,47
+1725,2013,Rhode Island, Myeloma, Female,543860,17
+1726,2013,Rhode Island, Myeloma, Male,511221,20
+1727,2013,South Carolina, Breast, Female,2449165,638
+1728,2013,South Carolina, Larynx, Female,2449165,0
+1729,2013,South Carolina, Larynx, Male,2314915,71
+1730,2013,South Carolina, Liver, Female,2449165,57
+1731,2013,South Carolina, Liver, Male,2314915,187
+1732,2013,South Carolina, Myeloma, Female,2449165,112
+1733,2013,South Carolina, Myeloma, Male,2314915,128
+1734,2013,South Dakota, Breast, Female,418565,110
+1735,2013,South Dakota, Breast, Male,423751,0
+1736,2013,South Dakota, Larynx, Female,418565,0
+1737,2013,South Dakota, Liver, Male,423751,19
+1738,2013,South Dakota, Myeloma, Female,418565,0
+1739,2013,South Dakota, Myeloma, Male,423751,21
+1740,2013,Tennessee, Breast, Female,3327690,928
+1741,2013,Tennessee, Breast, Male,3166650,0
+1742,2013,Tennessee, Larynx, Female,3327690,24
+1743,2013,Tennessee, Larynx, Male,3166650,86
+1744,2013,Tennessee, Liver, Female,3327690,110
+1745,2013,Tennessee, Liver, Male,3166650,288
+1746,2013,Tennessee, Myeloma, Female,3327690,150
+1747,2013,Tennessee, Myeloma, Male,3166650,135
+1748,2013,Texas, Breast, Female,13337624,2746
+1749,2013,Texas, Breast, Male,13142642,27
+1750,2013,Texas, Larynx, Female,13337624,48
+1751,2013,Texas, Larynx, Male,13142642,230
+1752,2013,Texas, Liver, Female,13337624,448
+1753,2013,Texas, Liver, Male,13142642,1246
+1754,2013,Texas, Myeloma, Female,13337624,366
+1755,2013,Texas, Myeloma, Male,13142642,427
+1756,2013,Utah, Breast, Female,1440531,255
+1757,2013,Utah, Liver, Female,1440531,34
+1758,2013,Utah, Liver, Male,1457109,57
+1759,2013,Utah, Myeloma, Female,1440531,37
+1760,2013,Utah, Myeloma, Male,1457109,49
+1761,2013,Vermont, Breast, Female,317221,79
+1762,2013,Vermont, Breast, Male,308989,0
+1763,2013,Vermont, Larynx, Female,317221,0
+1764,2013,Vermont, Liver, Male,308989,0
+1765,2013,Vermont, Myeloma, Female,317221,0
+1766,2013,Vermont, Myeloma, Male,308989,24
+1767,2013,Virginia, Breast, Female,4195922,1049
+1768,2013,Virginia, Breast, Male,4056505,19
+1769,2013,Virginia, Larynx, Female,4195922,18
+1770,2013,Virginia, Larynx, Male,4056505,70
+1771,2013,Virginia, Liver, Female,4195922,93
+1772,2013,Virginia, Liver, Male,4056505,307
+1773,2013,Virginia, Myeloma, Female,4195922,141
+1774,2013,Virginia, Myeloma, Male,4056505,164
+1775,2013,Washington DC, Breast, Female,341982,108
+1776,2013,Washington DC, Breast, Male,308599,0
+1777,2013,Washington DC, Liver, Female,341982,21
+1778,2013,Washington DC, Liver, Male,308599,36
+1779,2013,Washington DC, Myeloma, Female,341982,0
+1780,2013,Washington DC, Myeloma, Male,308599,0
+1781,2013,Washington, Breast, Female,3489819,854
+1782,2013,Washington, Larynx, Female,3489819,0
+1783,2013,Washington, Larynx, Male,3474166,54
+1784,2013,Washington, Liver, Female,3489819,110
+1785,2013,Washington, Liver, Male,3474166,289
+1786,2013,Washington, Myeloma, Female,3489819,111
+1787,2013,Washington, Myeloma, Male,3474166,117
+1788,2013,West Virginia, Breast, Female,937907,277
+1789,2013,West Virginia, Larynx, Male,916007,33
+1790,2013,West Virginia, Liver, Female,937907,19
+1791,2013,West Virginia, Liver, Male,916007,69
+1792,2013,West Virginia, Myeloma, Female,937907,44
+1793,2013,West Virginia, Myeloma, Male,916007,57
+1794,2013,Wisconsin, Breast, Female,2887824,762
+1795,2013,Wisconsin, Larynx, Female,2887824,0
+1796,2013,Wisconsin, Larynx, Male,2848930,36
+1797,2013,Wisconsin, Liver, Female,2887824,67
+1798,2013,Wisconsin, Liver, Male,2848930,177
+1799,2013,Wisconsin, Myeloma, Female,2887824,93
+1800,2013,Wisconsin, Myeloma, Male,2848930,136
+1801,2013,Wyoming, Breast, Female,284891,72
+1802,2013,Wyoming, Breast, Male,297231,0
+1803,2013,Wyoming, Larynx, Female,284891,0
+1804,2013,Wyoming, Liver, Male,297231,20
+1805,2013,Wyoming, Myeloma, Female,284891,0
+1806,2014,Alabama, Breast, Female,2494707,666
+1807,2014,Alabama, Larynx, Female,2494707,0
+1808,2014,Alabama, Larynx, Male,2347092,54
+1809,2014,Alabama, Liver, Female,2494707,116
+1810,2014,Alabama, Liver, Male,2347092,250
+1811,2014,Alabama, Myeloma, Female,2494707,85
+1812,2014,Alabama, Myeloma, Male,2347092,119
+1813,2014,Alaska, Breast, Female,350706,74
+1814,2014,Alaska, Breast, Male,385577,0
+1815,2014,Alaska, Larynx, Female,350706,0
+1816,2014,Alaska, Liver, Male,385577,37
+1817,2014,Arizona, Breast, Female,3384328,793
+1818,2014,Arizona, Larynx, Female,3384328,0
+1819,2014,Arizona, Larynx, Male,3346085,49
+1820,2014,Arizona, Liver, Female,3384328,128
+1821,2014,Arizona, Liver, Male,3346085,319
+1822,2014,Arizona, Myeloma, Female,3384328,95
+1823,2014,Arizona, Myeloma, Male,3346085,140
+1824,2014,Arkansas, Breast, Female,1510126,424
+1825,2014,Arkansas, Larynx, Male,1457266,28
+1826,2014,Arkansas, Liver, Female,1510126,65
+1827,2014,Arkansas, Liver, Male,1457266,139
+1828,2014,Arkansas, Myeloma, Female,1510126,63
+1829,2014,Arkansas, Myeloma, Male,1457266,81
+1830,2014,California, Breast, Female,19427895,4451
+1831,2014,California, Breast, Male,19169077,33
+1832,2014,California, Larynx, Female,19427895,51
+1833,2014,California, Larynx, Male,19169077,216
+1834,2014,California, Liver, Female,19427895,746
+1835,2014,California, Liver, Male,19169077,1713
+1836,2014,California, Myeloma, Female,19427895,542
+1837,2014,California, Myeloma, Male,19169077,648
+1838,2014,Colorado, Breast, Female,2663961,554
+1839,2014,Colorado, Larynx, Male,2686140,31
+1840,2014,Colorado, Liver, Female,2663961,58
+1841,2014,Colorado, Liver, Male,2686140,154
+1842,2014,Colorado, Myeloma, Female,2663961,69
+1843,2014,Colorado, Myeloma, Male,2686140,77
+1844,2014,Connecticut, Breast, Female,1841622,439
+1845,2014,Connecticut, Larynx, Male,1752902,24
+1846,2014,Connecticut, Liver, Female,1841622,44
+1847,2014,Connecticut, Liver, Male,1752902,126
+1848,2014,Connecticut, Myeloma, Female,1841622,78
+1849,2014,Connecticut, Myeloma, Male,1752902,71
+1850,2014,Delaware, Breast, Female,481109,134
+1851,2014,Delaware, Breast, Male,451378,0
+1852,2014,Delaware, Liver, Female,481109,16
+1853,2014,Delaware, Liver, Male,451378,46
+1854,2014,Delaware, Myeloma, Female,481109,19
+1855,2014,Delaware, Myeloma, Male,451378,24
+1856,2014,Florida, Breast, Female,10142110,2904
+1857,2014,Florida, Breast, Male,9703801,27
+1858,2014,Florida, Larynx, Female,10142110,49
+1859,2014,Florida, Larynx, Male,9703801,291
+1860,2014,Florida, Liver, Female,10142110,394
+1861,2014,Florida, Liver, Male,9703801,986
+1862,2014,Florida, Myeloma, Female,10142110,380
+1863,2014,Florida, Myeloma, Male,9703801,455
+1864,2014,Georgia, Breast, Female,5160061,1286
+1865,2014,Georgia, Breast, Male,4907217,0
+1866,2014,Georgia, Larynx, Female,5160061,19
+1867,2014,Georgia, Larynx, Male,4907217,83
+1868,2014,Georgia, Liver, Female,5160061,156
+1869,2014,Georgia, Liver, Male,4907217,407
+1870,2014,Georgia, Myeloma, Female,5160061,179
+1871,2014,Georgia, Myeloma, Male,4907217,193
+1872,2014,Hawaii, Breast, Female,703896,158
+1873,2014,Hawaii, Breast, Male,710642,0
+1874,2014,Hawaii, Larynx, Female,703896,0
+1875,2014,Hawaii, Larynx, Male,710642,0
+1876,2014,Hawaii, Liver, Female,703896,39
+1877,2014,Hawaii, Liver, Male,710642,91
+1878,2014,Hawaii, Myeloma, Female,703896,22
+1879,2014,Hawaii, Myeloma, Male,710642,31
+1880,2014,Idaho, Breast, Female,813917,191
+1881,2014,Idaho, Breast, Male,817195,0
+1882,2014,Idaho, Larynx, Female,813917,0
+1883,2014,Idaho, Larynx, Male,817195,0
+1884,2014,Idaho, Liver, Female,813917,17
+1885,2014,Idaho, Liver, Male,817195,58
+1886,2014,Idaho, Myeloma, Female,813917,22
+1887,2014,Idaho, Myeloma, Male,817195,28
+1888,2014,Illinois, Breast, Female,6560021,1756
+1889,2014,Illinois, Breast, Male,6324472,0
+1890,2014,Illinois, Larynx, Female,6560021,40
+1891,2014,Illinois, Larynx, Male,6324472,132
+1892,2014,Illinois, Liver, Female,6560021,201
+1893,2014,Illinois, Liver, Male,6324472,485
+1894,2014,Illinois, Myeloma, Female,6560021,214
+1895,2014,Illinois, Myeloma, Male,6324472,268
+1896,2014,Indiana, Breast, Female,3345386,863
+1897,2014,Indiana, Breast, Male,3248258,0
+1898,2014,Indiana, Larynx, Female,3345386,0
+1899,2014,Indiana, Larynx, Male,3248258,61
+1900,2014,Indiana, Liver, Female,3345386,95
+1901,2014,Indiana, Liver, Male,3248258,266
+1902,2014,Indiana, Myeloma, Female,3345386,111
+1903,2014,Indiana, Myeloma, Male,3248258,140
+1904,2014,Iowa, Breast, Female,1565285,398
+1905,2014,Iowa, Larynx, Male,1544065,37
+1906,2014,Iowa, Liver, Female,1565285,34
+1907,2014,Iowa, Liver, Male,1544065,107
+1908,2014,Iowa, Myeloma, Female,1565285,68
+1909,2014,Iowa, Myeloma, Male,1544065,71
+1910,2014,Kansas, Breast, Female,1456109,357
+1911,2014,Kansas, Larynx, Male,1444366,25
+1912,2014,Kansas, Liver, Female,1456109,35
+1913,2014,Kansas, Liver, Male,1444366,100
+1914,2014,Kansas, Myeloma, Female,1456109,64
+1915,2014,Kansas, Myeloma, Male,1444366,60
+1916,2014,Kentucky, Breast, Female,2240117,579
+1917,2014,Kentucky, Larynx, Female,2240117,21
+1918,2014,Kentucky, Larynx, Male,2174232,68
+1919,2014,Kentucky, Liver, Female,2240117,86
+1920,2014,Kentucky, Liver, Male,2174232,179
+1921,2014,Kentucky, Myeloma, Female,2240117,74
+1922,2014,Kentucky, Myeloma, Male,2174232,107
+1923,2014,Louisiana, Breast, Female,2371298,671
+1924,2014,Louisiana, Larynx, Female,2371298,0
+1925,2014,Louisiana, Larynx, Male,2272715,70
+1926,2014,Louisiana, Liver, Female,2371298,118
+1927,2014,Louisiana, Liver, Male,2272715,324
+1928,2014,Louisiana, Myeloma, Female,2371298,86
+1929,2014,Louisiana, Myeloma, Male,2272715,97
+1930,2014,Maine, Breast, Female,678869,173
+1931,2014,Maine, Larynx, Male,651644,17
+1932,2014,Maine, Liver, Female,678869,0
+1933,2014,Maine, Liver, Male,651644,50
+1934,2014,Maine, Myeloma, Female,678869,24
+1935,2014,Maine, Myeloma, Male,651644,36
+1936,2014,Maryland, Breast, Female,3071041,862
+1937,2014,Maryland, Breast, Male,2886242,0
+1938,2014,Maryland, Larynx, Female,3071041,17
+1939,2014,Maryland, Larynx, Male,2886242,57
+1940,2014,Maryland, Liver, Female,3071041,97
+1941,2014,Maryland, Liver, Male,2886242,265
+1942,2014,Maryland, Myeloma, Female,3071041,122
+1943,2014,Maryland, Myeloma, Male,2886242,155
+1944,2014,Massachusetts, Breast, Female,3483743,818
+1945,2014,Massachusetts, Breast, Male,3278853,0
+1946,2014,Massachusetts, Larynx, Female,3483743,0
+1947,2014,Massachusetts, Larynx, Male,3278853,55
+1948,2014,Massachusetts, Liver, Female,3483743,93
+1949,2014,Massachusetts, Liver, Male,3278853,286
+1950,2014,Massachusetts, Myeloma, Female,3483743,126
+1951,2014,Massachusetts, Myeloma, Male,3278853,144
+1952,2014,Michigan, Breast, Female,5049815,1470
+1953,2014,Michigan, Breast, Male,4880033,22
+1954,2014,Michigan, Larynx, Female,5049815,32
+1955,2014,Michigan, Larynx, Male,4880033,111
+1956,2014,Michigan, Liver, Female,5049815,191
+1957,2014,Michigan, Liver, Male,4880033,419
+1958,2014,Michigan, Myeloma, Female,5049815,217
+1959,2014,Michigan, Myeloma, Male,4880033,244
+1960,2014,Minnesota, Breast, Female,2741311,592
+1961,2014,Minnesota, Larynx, Female,2741311,0
+1962,2014,Minnesota, Larynx, Male,2709768,42
+1963,2014,Minnesota, Liver, Female,2741311,55
+1964,2014,Minnesota, Liver, Male,2709768,154
+1965,2014,Minnesota, Myeloma, Female,2741311,117
+1966,2014,Minnesota, Myeloma, Male,2709768,108
+1967,2014,Mississippi, Breast, Female,1538146,439
+1968,2014,Mississippi, Larynx, Male,1452322,37
+1969,2014,Mississippi, Liver, Female,1538146,80
+1970,2014,Mississippi, Liver, Male,1452322,151
+1971,2014,Mississippi, Myeloma, Female,1538146,61
+1972,2014,Mississippi, Myeloma, Male,1452322,69
+1973,2014,Missouri, Breast, Female,3085275,882
+1974,2014,Missouri, Larynx, Female,3085275,0
+1975,2014,Missouri, Larynx, Male,2970927,83
+1976,2014,Missouri, Liver, Female,3085275,92
+1977,2014,Missouri, Liver, Male,2970927,261
+1978,2014,Missouri, Myeloma, Female,3085275,108
+1979,2014,Missouri, Myeloma, Male,2970927,139
+1980,2014,Montana, Breast, Female,507979,134
+1981,2014,Montana, Breast, Male,513890,0
+1982,2014,Montana, Larynx, Female,507979,0
+1983,2014,Montana, Liver, Female,507979,16
+1984,2014,Montana, Liver, Male,513890,35
+1985,2014,Montana, Myeloma, Female,507979,21
+1986,2014,Montana, Myeloma, Male,513890,17
+1987,2014,Nebraska, Breast, Female,943439,251
+1988,2014,Nebraska, Larynx, Male,935882,27
+1989,2014,Nebraska, Liver, Female,943439,17
+1990,2014,Nebraska, Liver, Male,935882,50
+1991,2014,Nebraska, Myeloma, Female,943439,22
+1992,2014,Nebraska, Myeloma, Male,935882,45
+1993,2014,Nevada, Breast, Female,1400648,351
+1994,2014,Nevada, Larynx, Female,1400648,0
+1995,2014,Nevada, Larynx, Male,1416980,21
+1996,2014,Nevada, Liver, Female,1400648,55
+1997,2014,Nevada, Liver, Male,1416980,106
+1998,2014,Nevada, Myeloma, Female,1400648,31
+1999,2014,Nevada, Myeloma, Male,1416980,64
+2000,2014,New Hampshire, Breast, Female,674107,194
+2001,2014,New Hampshire, Breast, Male,659234,0
+2002,2014,New Hampshire, Larynx, Female,674107,0
+2003,2014,New Hampshire, Larynx, Male,659234,0
+2004,2014,New Hampshire, Liver, Female,674107,0
+2005,2014,New Hampshire, Liver, Male,659234,37
+2006,2014,New Hampshire, Myeloma, Female,674107,21
+2007,2014,New Hampshire, Myeloma, Male,659234,25
+2008,2014,New Jersey, Breast, Female,4540537,1280
+2009,2014,New Jersey, Breast, Male,4323988,17
+2010,2014,New Jersey, Larynx, Female,4540537,0
+2011,2014,New Jersey, Larynx, Male,4323988,77
+2012,2014,New Jersey, Liver, Female,4540537,129
+2013,2014,New Jersey, Liver, Male,4323988,357
+2014,2014,New Jersey, Myeloma, Female,4540537,148
+2015,2014,New Jersey, Myeloma, Male,4323988,175
+2016,2014,New Mexico, Breast, Female,1054773,246
+2017,2014,New Mexico, Breast, Male,1034795,0
+2018,2014,New Mexico, Larynx, Male,1034795,17
+2019,2014,New Mexico, Liver, Female,1054773,42
+2020,2014,New Mexico, Liver, Male,1034795,119
+2021,2014,New Mexico, Myeloma, Female,1054773,31
+2022,2014,New Mexico, Myeloma, Male,1034795,42
+2023,2014,New York, Breast, Female,10121339,2500
+2024,2014,New York, Breast, Male,9529710,38
+2025,2014,New York, Larynx, Female,10121339,47
+2026,2014,New York, Larynx, Male,9529710,204
+2027,2014,New York, Liver, Female,10121339,288
+2028,2014,New York, Liver, Male,9529710,763
+2029,2014,New York, Myeloma, Female,10121339,344
+2030,2014,New York, Myeloma, Male,9529710,381
+2031,2014,North Carolina, Breast, Female,5097253,1311
+2032,2014,North Carolina, Breast, Male,4835634,23
+2033,2014,North Carolina, Larynx, Female,5097253,47
+2034,2014,North Carolina, Larynx, Male,4835634,92
+2035,2014,North Carolina, Liver, Female,5097253,139
+2036,2014,North Carolina, Liver, Male,4835634,445
+2037,2014,North Carolina, Myeloma, Female,5097253,226
+2038,2014,North Carolina, Myeloma, Male,4835634,236
+2039,2014,North Dakota, Breast, Female,359667,66
+2040,2014,North Dakota, Breast, Male,377734,0
+2041,2014,North Dakota, Larynx, Female,359667,0
+2042,2014,North Dakota, Liver, Male,377734,16
+2043,2014,North Dakota, Myeloma, Female,359667,0
+2044,2014,North Dakota, Myeloma, Male,377734,22
+2045,2014,Ohio, Breast, Female,5923806,1756
+2046,2014,Ohio, Breast, Male,5678894,17
+2047,2014,Ohio, Larynx, Female,5923806,41
+2048,2014,Ohio, Larynx, Male,5678894,156
+2049,2014,Ohio, Liver, Female,5923806,177
+2050,2014,Ohio, Liver, Male,5678894,417
+2051,2014,Ohio, Myeloma, Female,5923806,249
+2052,2014,Ohio, Myeloma, Male,5678894,284
+2053,2014,Oklahoma, Breast, Female,1956564,520
+2054,2014,Oklahoma, Larynx, Female,1956564,0
+2055,2014,Oklahoma, Larynx, Male,1921623,35
+2056,2014,Oklahoma, Liver, Female,1956564,85
+2057,2014,Oklahoma, Liver, Male,1921623,183
+2058,2014,Oklahoma, Myeloma, Female,1956564,63
+2059,2014,Oklahoma, Myeloma, Male,1921623,83
+2060,2014,Oregon, Breast, Female,2001253,539
+2061,2014,Oregon, Breast, Male,1961991,0
+2062,2014,Oregon, Larynx, Male,1961991,29
+2063,2014,Oregon, Liver, Female,2001253,58
+2064,2014,Oregon, Liver, Male,1961991,181
+2065,2014,Oregon, Myeloma, Female,2001253,79
+2066,2014,Oregon, Myeloma, Male,1961991,94
+2067,2014,Pennsylvania, Breast, Female,6534709,1931
+2068,2014,Pennsylvania, Breast, Male,6253604,20
+2069,2014,Pennsylvania, Larynx, Female,6534709,32
+2070,2014,Pennsylvania, Larynx, Male,6253604,153
+2071,2014,Pennsylvania, Liver, Female,6534709,201
+2072,2014,Pennsylvania, Liver, Male,6253604,590
+2073,2014,Pennsylvania, Myeloma, Female,6534709,238
+2074,2014,Pennsylvania, Myeloma, Male,6253604,295
+2075,2014,Puerto Rico, Breast, Female,1845988,458
+2076,2014,Puerto Rico, Larynx, Male,1688886,39
+2077,2014,Puerto Rico, Liver, Female,1845988,95
+2078,2014,Puerto Rico, Liver, Male,1688886,172
+2079,2014,Puerto Rico, Myeloma, Female,1845988,77
+2080,2014,Puerto Rico, Myeloma, Male,1688886,69
+2081,2014,Rhode Island, Breast, Female,543737,132
+2082,2014,Rhode Island, Larynx, Female,543737,0
+2083,2014,Rhode Island, Larynx, Male,512199,17
+2084,2014,Rhode Island, Liver, Female,543737,0
+2085,2014,Rhode Island, Liver, Male,512199,53
+2086,2014,Rhode Island, Myeloma, Female,543737,22
+2087,2014,Rhode Island, Myeloma, Male,512199,17
+2088,2014,South Carolina, Breast, Female,2480693,725
+2089,2014,South Carolina, Larynx, Female,2480693,0
+2090,2014,South Carolina, Larynx, Male,2342924,58
+2091,2014,South Carolina, Liver, Female,2480693,79
+2092,2014,South Carolina, Liver, Male,2342924,233
+2093,2014,South Carolina, Myeloma, Female,2480693,130
+2094,2014,South Carolina, Myeloma, Male,2342924,125
+2095,2014,South Dakota, Breast, Female,421650,102
+2096,2014,South Dakota, Breast, Male,427479,0
+2097,2014,South Dakota, Larynx, Female,421650,0
+2098,2014,South Dakota, Liver, Male,427479,31
+2099,2014,South Dakota, Myeloma, Female,421650,0
+2100,2014,South Dakota, Myeloma, Male,427479,18
+2101,2014,Tennessee, Breast, Female,3350727,909
+2102,2014,Tennessee, Breast, Male,3190496,18
+2103,2014,Tennessee, Larynx, Female,3350727,17
+2104,2014,Tennessee, Larynx, Male,3190496,82
+2105,2014,Tennessee, Liver, Female,3350727,114
+2106,2014,Tennessee, Liver, Male,3190496,326
+2107,2014,Tennessee, Myeloma, Female,3350727,117
+2108,2014,Tennessee, Myeloma, Male,3190496,163
+2109,2014,Texas, Breast, Female,13577460,2783
+2110,2014,Texas, Breast, Male,13386873,31
+2111,2014,Texas, Larynx, Female,13577460,39
+2112,2014,Texas, Larynx, Male,13386873,192
+2113,2014,Texas, Liver, Female,13577460,480
+2114,2014,Texas, Liver, Male,13386873,1307
+2115,2014,Texas, Myeloma, Female,13577460,369
+2116,2014,Texas, Myeloma, Male,13386873,411
+2117,2014,Utah, Breast, Female,1459866,263
+2118,2014,Utah, Liver, Female,1459866,20
+2119,2014,Utah, Liver, Male,1477013,60
+2120,2014,Utah, Myeloma, Female,1459866,24
+2121,2014,Utah, Myeloma, Male,1477013,37
+2122,2014,Vermont, Breast, Female,316692,79
+2123,2014,Vermont, Breast, Male,308522,0
+2124,2014,Vermont, Larynx, Female,316692,0
+2125,2014,Vermont, Liver, Male,308522,0
+2126,2014,Vermont, Myeloma, Female,316692,0
+2127,2014,Vermont, Myeloma, Male,308522,16
+2128,2014,Virginia, Breast, Female,4224001,1145
+2129,2014,Virginia, Breast, Male,4086992,0
+2130,2014,Virginia, Larynx, Female,4224001,0
+2131,2014,Virginia, Larynx, Male,4086992,84
+2132,2014,Virginia, Liver, Female,4224001,99
+2133,2014,Virginia, Liver, Male,4086992,293
+2134,2014,Virginia, Myeloma, Female,4224001,144
+2135,2014,Virginia, Myeloma, Male,4086992,176
+2136,2014,Washington DC, Breast, Female,347795,103
+2137,2014,Washington DC, Breast, Male,314533,0
+2138,2014,Washington DC, Liver, Female,347795,0
+2139,2014,Washington DC, Liver, Male,314533,30
+2140,2014,Washington DC, Myeloma, Female,347795,0
+2141,2014,Washington DC, Myeloma, Male,314533,0
+2142,2014,Washington, Breast, Female,3531851,866
+2143,2014,Washington, Larynx, Female,3531851,0
+2144,2014,Washington, Larynx, Male,3522804,56
+2145,2014,Washington, Liver, Female,3531851,103
+2146,2014,Washington, Liver, Male,3522804,304
+2147,2014,Washington, Myeloma, Female,3531851,99
+2148,2014,Washington, Myeloma, Male,3522804,133
+2149,2014,West Virginia, Breast, Female,935760,300
+2150,2014,West Virginia, Larynx, Male,913729,28
+2151,2014,West Virginia, Liver, Female,935760,37
+2152,2014,West Virginia, Liver, Male,913729,93
+2153,2014,West Virginia, Myeloma, Female,935760,41
+2154,2014,West Virginia, Myeloma, Male,913729,50
+2155,2014,Wisconsin, Breast, Female,2894283,739
+2156,2014,Wisconsin, Larynx, Female,2894283,0
+2157,2014,Wisconsin, Larynx, Male,2857242,67
+2158,2014,Wisconsin, Liver, Female,2894283,77
+2159,2014,Wisconsin, Liver, Male,2857242,208
+2160,2014,Wisconsin, Myeloma, Female,2894283,113
+2161,2014,Wisconsin, Myeloma, Male,2857242,141
+2162,2014,Wyoming, Breast, Female,285141,52
+2163,2014,Wyoming, Breast, Male,297390,0
+2164,2014,Wyoming, Larynx, Female,285141,0
+2165,2014,Wyoming, Liver, Male,297390,19
+2166,2014,Wyoming, Myeloma, Female,285141,0
+2167,2015,Alabama, Breast, Female,2500713,729
+2168,2015,Alabama, Larynx, Female,2500713,0
+2169,2015,Alabama, Larynx, Male,2351634,56
+2170,2015,Alabama, Liver, Female,2500713,100
+2171,2015,Alabama, Liver, Male,2351634,256
+2172,2015,Alabama, Myeloma, Female,2500713,84
+2173,2015,Alabama, Myeloma, Male,2351634,113
+2174,2015,Alaska, Breast, Female,351258,60
+2175,2015,Alaska, Breast, Male,386240,0
+2176,2015,Alaska, Larynx, Female,351258,0
+2177,2015,Alaska, Liver, Male,386240,19
+2178,2015,Arizona, Breast, Female,3433862,823
+2179,2015,Arizona, Larynx, Female,3433862,0
+2180,2015,Arizona, Larynx, Male,3395814,51
+2181,2015,Arizona, Liver, Female,3433862,139
+2182,2015,Arizona, Liver, Male,3395814,306
+2183,2015,Arizona, Myeloma, Female,3433862,98
+2184,2015,Arizona, Myeloma, Male,3395814,131
+2185,2015,Arkansas, Breast, Female,1514980,394
+2186,2015,Arkansas, Larynx, Male,1463068,33
+2187,2015,Arkansas, Liver, Female,1514980,69
+2188,2015,Arkansas, Liver, Male,1463068,148
+2189,2015,Arkansas, Myeloma, Female,1514980,52
+2190,2015,Arkansas, Myeloma, Male,1463068,62
+2191,2015,California, Breast, Female,19583596,4472
+2192,2015,California, Breast, Male,19334449,43
+2193,2015,California, Larynx, Female,19583596,55
+2194,2015,California, Larynx, Male,19334449,220
+2195,2015,California, Liver, Female,19583596,740
+2196,2015,California, Liver, Male,19334449,1860
+2197,2015,California, Myeloma, Female,19583596,546
+2198,2015,California, Myeloma, Male,19334449,725
+2199,2015,Colorado, Breast, Female,2710859,582
+2200,2015,Colorado, Larynx, Male,2739764,31
+2201,2015,Colorado, Liver, Female,2710859,59
+2202,2015,Colorado, Liver, Male,2739764,185
+2203,2015,Colorado, Myeloma, Female,2710859,69
+2204,2015,Colorado, Myeloma, Male,2739764,97
+2205,2015,Connecticut, Breast, Female,1837444,432
+2206,2015,Connecticut, Larynx, Male,1749678,24
+2207,2015,Connecticut, Liver, Female,1837444,35
+2208,2015,Connecticut, Liver, Male,1749678,144
+2209,2015,Connecticut, Myeloma, Female,1837444,61
+2210,2015,Connecticut, Myeloma, Male,1749678,69
+2211,2015,Delaware, Breast, Female,485613,143
+2212,2015,Delaware, Breast, Male,455639,0
+2213,2015,Delaware, Liver, Female,485613,0
+2214,2015,Delaware, Liver, Male,455639,49
+2215,2015,Delaware, Myeloma, Female,485613,27
+2216,2015,Delaware, Myeloma, Male,455639,27
+2217,2015,Florida, Breast, Female,10325729,2856
+2218,2015,Florida, Breast, Male,9883313,34
+2219,2015,Florida, Larynx, Female,10325729,52
+2220,2015,Florida, Larynx, Male,9883313,279
+2221,2015,Florida, Liver, Female,10325729,429
+2222,2015,Florida, Liver, Male,9883313,1127
+2223,2015,Florida, Myeloma, Female,10325729,401
+2224,2015,Florida, Myeloma, Male,9883313,489
+2225,2015,Georgia, Breast, Female,5220214,1241
+2226,2015,Georgia, Breast, Male,4958233,0
+2227,2015,Georgia, Larynx, Female,5220214,18
+2228,2015,Georgia, Larynx, Male,4958233,77
+2229,2015,Georgia, Liver, Female,5220214,151
+2230,2015,Georgia, Liver, Male,4958233,407
+2231,2015,Georgia, Myeloma, Female,5220214,160
+2232,2015,Georgia, Myeloma, Male,4958233,207
+2233,2015,Hawaii, Breast, Female,707353,180
+2234,2015,Hawaii, Breast, Male,714699,0
+2235,2015,Hawaii, Larynx, Female,707353,0
+2236,2015,Hawaii, Larynx, Male,714699,0
+2237,2015,Hawaii, Liver, Female,707353,34
+2238,2015,Hawaii, Liver, Male,714699,75
+2239,2015,Hawaii, Myeloma, Female,707353,19
+2240,2015,Hawaii, Myeloma, Male,714699,32
+2241,2015,Idaho, Breast, Female,823954,208
+2242,2015,Idaho, Breast, Male,827105,0
+2243,2015,Idaho, Larynx, Female,823954,0
+2244,2015,Idaho, Larynx, Male,827105,0
+2245,2015,Idaho, Liver, Female,823954,19
+2246,2015,Idaho, Liver, Male,827105,54
+2247,2015,Idaho, Myeloma, Female,823954,26
+2248,2015,Idaho, Myeloma, Male,827105,34
+2249,2015,Illinois, Breast, Female,6544981,1781
+2250,2015,Illinois, Breast, Male,6313932,25
+2251,2015,Illinois, Larynx, Female,6544981,37
+2252,2015,Illinois, Larynx, Male,6313932,124
+2253,2015,Illinois, Liver, Female,6544981,213
+2254,2015,Illinois, Liver, Male,6313932,494
+2255,2015,Illinois, Myeloma, Female,6544981,225
+2256,2015,Illinois, Myeloma, Male,6313932,251
+2257,2015,Indiana, Breast, Female,3351657,856
+2258,2015,Indiana, Breast, Male,3256765,0
+2259,2015,Indiana, Larynx, Female,3351657,18
+2260,2015,Indiana, Larynx, Male,3256765,65
+2261,2015,Indiana, Liver, Female,3351657,93
+2262,2015,Indiana, Liver, Male,3256765,244
+2263,2015,Indiana, Myeloma, Female,3351657,107
+2264,2015,Indiana, Myeloma, Male,3256765,144
+2265,2015,Iowa, Breast, Female,1569733,388
+2266,2015,Iowa, Larynx, Male,1551227,33
+2267,2015,Iowa, Liver, Female,1569733,41
+2268,2015,Iowa, Liver, Male,1551227,118
+2269,2015,Iowa, Myeloma, Female,1569733,65
+2270,2015,Iowa, Myeloma, Male,1551227,74
+2271,2015,Kansas, Breast, Female,1459640,366
+2272,2015,Kansas, Larynx, Male,1449371,29
+2273,2015,Kansas, Liver, Female,1459640,44
+2274,2015,Kansas, Liver, Male,1449371,103
+2275,2015,Kansas, Myeloma, Female,1459640,61
+2276,2015,Kansas, Myeloma, Male,1449371,72
+2277,2015,Kentucky, Breast, Female,2245336,593
+2278,2015,Kentucky, Larynx, Female,2245336,27
+2279,2015,Kentucky, Larynx, Male,2180640,53
+2280,2015,Kentucky, Liver, Female,2245336,77
+2281,2015,Kentucky, Liver, Male,2180640,215
+2282,2015,Kentucky, Myeloma, Female,2245336,71
+2283,2015,Kentucky, Myeloma, Male,2180640,108
+2284,2015,Louisiana, Breast, Female,2381885,615
+2285,2015,Louisiana, Larynx, Female,2381885,0
+2286,2015,Louisiana, Larynx, Male,2282743,61
+2287,2015,Louisiana, Liver, Female,2381885,95
+2288,2015,Louisiana, Liver, Male,2282743,315
+2289,2015,Louisiana, Myeloma, Female,2381885,90
+2290,2015,Louisiana, Myeloma, Male,2282743,105
+2291,2015,Maine, Breast, Female,677876,210
+2292,2015,Maine, Larynx, Male,650386,19
+2293,2015,Maine, Liver, Female,677876,0
+2294,2015,Maine, Liver, Male,650386,52
+2295,2015,Maine, Myeloma, Female,677876,40
+2296,2015,Maine, Myeloma, Male,650386,32
+2297,2015,Maryland, Breast, Female,3085046,825
+2298,2015,Maryland, Breast, Male,2900516,0
+2299,2015,Maryland, Larynx, Female,3085046,16
+2300,2015,Maryland, Larynx, Male,2900516,70
+2301,2015,Maryland, Liver, Female,3085046,92
+2302,2015,Maryland, Liver, Male,2900516,253
+2303,2015,Maryland, Myeloma, Female,3085046,131
+2304,2015,Maryland, Myeloma, Male,2900516,116
+2305,2015,Massachusetts, Breast, Female,3499425,818
+2306,2015,Massachusetts, Breast, Male,3294803,0
+2307,2015,Massachusetts, Larynx, Female,3499425,21
+2308,2015,Massachusetts, Larynx, Male,3294803,48
+2309,2015,Massachusetts, Liver, Female,3499425,80
+2310,2015,Massachusetts, Liver, Male,3294803,272
+2311,2015,Massachusetts, Myeloma, Female,3499425,112
+2312,2015,Massachusetts, Myeloma, Male,3294803,134
+2313,2015,Michigan, Breast, Female,5047312,1378
+2314,2015,Michigan, Breast, Male,4884403,20
+2315,2015,Michigan, Larynx, Female,5047312,39
+2316,2015,Michigan, Larynx, Male,4884403,108
+2317,2015,Michigan, Liver, Female,5047312,169
+2318,2015,Michigan, Liver, Male,4884403,376
+2319,2015,Michigan, Myeloma, Female,5047312,204
+2320,2015,Michigan, Myeloma, Male,4884403,256
+2321,2015,Minnesota, Breast, Female,2754922,680
+2322,2015,Minnesota, Larynx, Female,2754922,0
+2323,2015,Minnesota, Larynx, Male,2727110,41
+2324,2015,Minnesota, Liver, Female,2754922,46
+2325,2015,Minnesota, Liver, Male,2727110,194
+2326,2015,Minnesota, Myeloma, Female,2754922,88
+2327,2015,Minnesota, Myeloma, Male,2727110,128
+2328,2015,Mississippi, Breast, Female,1538655,424
+2329,2015,Mississippi, Larynx, Male,1449816,32
+2330,2015,Mississippi, Liver, Female,1538655,73
+2331,2015,Mississippi, Liver, Male,1449816,182
+2332,2015,Mississippi, Myeloma, Female,1538655,60
+2333,2015,Mississippi, Myeloma, Male,1449816,78
+2334,2015,Missouri, Breast, Female,3092211,867
+2335,2015,Missouri, Larynx, Female,3092211,26
+2336,2015,Missouri, Larynx, Male,2979521,68
+2337,2015,Missouri, Liver, Female,3092211,97
+2338,2015,Missouri, Liver, Male,2979521,276
+2339,2015,Missouri, Myeloma, Female,3092211,109
+2340,2015,Missouri, Myeloma, Male,2979521,146
+2341,2015,Montana, Breast, Female,511809,146
+2342,2015,Montana, Breast, Male,518666,0
+2343,2015,Montana, Larynx, Female,511809,0
+2344,2015,Montana, Liver, Female,511809,0
+2345,2015,Montana, Liver, Male,518666,44
+2346,2015,Montana, Myeloma, Female,511809,0
+2347,2015,Montana, Myeloma, Male,518666,29
+2348,2015,Nebraska, Breast, Female,948617,233
+2349,2015,Nebraska, Larynx, Male,942660,20
+2350,2015,Nebraska, Liver, Female,948617,16
+2351,2015,Nebraska, Liver, Male,942660,43
+2352,2015,Nebraska, Myeloma, Female,948617,34
+2353,2015,Nebraska, Myeloma, Male,942660,43
+2354,2015,Nevada, Breast, Female,1426670,358
+2355,2015,Nevada, Larynx, Female,1426670,0
+2356,2015,Nevada, Larynx, Male,1440269,23
+2357,2015,Nevada, Liver, Female,1426670,54
+2358,2015,Nevada, Liver, Male,1440269,131
+2359,2015,Nevada, Myeloma, Female,1426670,43
+2360,2015,Nevada, Myeloma, Male,1440269,58
+2361,2015,New Hampshire, Breast, Female,674895,173
+2362,2015,New Hampshire, Breast, Male,661455,0
+2363,2015,New Hampshire, Larynx, Female,674895,0
+2364,2015,New Hampshire, Larynx, Male,661455,0
+2365,2015,New Hampshire, Liver, Female,674895,0
+2366,2015,New Hampshire, Liver, Male,661455,50
+2367,2015,New Hampshire, Myeloma, Female,674895,25
+2368,2015,New Hampshire, Myeloma, Male,661455,36
+2369,2015,New Jersey, Breast, Female,4541567,1272
+2370,2015,New Jersey, Breast, Male,4326382,18
+2371,2015,New Jersey, Larynx, Female,4541567,28
+2372,2015,New Jersey, Larynx, Male,4326382,75
+2373,2015,New Jersey, Liver, Female,4541567,114
+2374,2015,New Jersey, Liver, Male,4326382,339
+2375,2015,New Jersey, Myeloma, Female,4541567,143
+2376,2015,New Jersey, Myeloma, Male,4326382,167
+2377,2015,New Mexico, Breast, Female,1054900,264
+2378,2015,New Mexico, Breast, Male,1034391,0
+2379,2015,New Mexico, Larynx, Male,1034391,19
+2380,2015,New Mexico, Liver, Female,1054900,46
+2381,2015,New Mexico, Liver, Male,1034391,137
+2382,2015,New Mexico, Myeloma, Female,1054900,31
+2383,2015,New Mexico, Myeloma, Male,1034391,38
+2384,2015,New York, Breast, Female,10119712,2524
+2385,2015,New York, Breast, Male,9534954,34
+2386,2015,New York, Larynx, Female,10119712,51
+2387,2015,New York, Larynx, Male,9534954,164
+2388,2015,New York, Liver, Female,10119712,284
+2389,2015,New York, Liver, Male,9534954,777
+2390,2015,New York, Myeloma, Female,10119712,344
+2391,2015,New York, Myeloma, Male,9534954,405
+2392,2015,North Carolina, Breast, Female,5147022,1397
+2393,2015,North Carolina, Breast, Male,4884624,0
+2394,2015,North Carolina, Larynx, Female,5147022,26
+2395,2015,North Carolina, Larynx, Male,4884624,123
+2396,2015,North Carolina, Liver, Female,5147022,159
+2397,2015,North Carolina, Liver, Male,4884624,480
+2398,2015,North Carolina, Myeloma, Female,5147022,223
+2399,2015,North Carolina, Myeloma, Male,4884624,227
+2400,2015,North Dakota, Breast, Female,366865,91
+2401,2015,North Dakota, Breast, Male,387201,0
+2402,2015,North Dakota, Larynx, Female,366865,0
+2403,2015,North Dakota, Liver, Male,387201,17
+2404,2015,North Dakota, Myeloma, Female,366865,0
+2405,2015,North Dakota, Myeloma, Male,387201,0
+2406,2015,Ohio, Breast, Female,5928741,1803
+2407,2015,Ohio, Breast, Male,5688786,0
+2408,2015,Ohio, Larynx, Female,5928741,46
+2409,2015,Ohio, Larynx, Male,5688786,136
+2410,2015,Ohio, Liver, Female,5928741,166
+2411,2015,Ohio, Liver, Male,5688786,480
+2412,2015,Ohio, Myeloma, Female,5928741,234
+2413,2015,Ohio, Myeloma, Male,5688786,278
+2414,2015,Oklahoma, Breast, Female,1972097,540
+2415,2015,Oklahoma, Larynx, Female,1972097,0
+2416,2015,Oklahoma, Larynx, Male,1937403,51
+2417,2015,Oklahoma, Liver, Female,1972097,91
+2418,2015,Oklahoma, Liver, Male,1937403,213
+2419,2015,Oklahoma, Myeloma, Female,1972097,71
+2420,2015,Oklahoma, Myeloma, Male,1937403,66
+2421,2015,Oregon, Breast, Female,2026844,550
+2422,2015,Oregon, Breast, Male,1988948,0
+2423,2015,Oregon, Larynx, Male,1988948,19
+2424,2015,Oregon, Liver, Female,2026844,65
+2425,2015,Oregon, Liver, Male,1988948,213
+2426,2015,Oregon, Myeloma, Female,2026844,77
+2427,2015,Oregon, Myeloma, Male,1988948,94
+2428,2015,Pennsylvania, Breast, Female,6528476,2036
+2429,2015,Pennsylvania, Breast, Male,6256350,27
+2430,2015,Pennsylvania, Larynx, Female,6528476,35
+2431,2015,Pennsylvania, Larynx, Male,6256350,149
+2432,2015,Pennsylvania, Liver, Female,6528476,182
+2433,2015,Pennsylvania, Liver, Male,6256350,585
+2434,2015,Pennsylvania, Myeloma, Female,6528476,271
+2435,2015,Pennsylvania, Myeloma, Male,6256350,339
+2436,2015,Puerto Rico, Breast, Female,1816871,434
+2437,2015,Puerto Rico, Larynx, Male,1656361,48
+2438,2015,Puerto Rico, Liver, Female,1816871,103
+2439,2015,Puerto Rico, Liver, Male,1656361,217
+2440,2015,Puerto Rico, Myeloma, Female,1816871,64
+2441,2015,Puerto Rico, Myeloma, Male,1656361,58
+2442,2015,Rhode Island, Breast, Female,543187,137
+2443,2015,Rhode Island, Larynx, Female,543187,0
+2444,2015,Rhode Island, Larynx, Male,512878,0
+2445,2015,Rhode Island, Liver, Female,543187,0
+2446,2015,Rhode Island, Liver, Male,512878,53
+2447,2015,Rhode Island, Myeloma, Female,543187,21
+2448,2015,Rhode Island, Myeloma, Male,512878,0
+2449,2015,South Carolina, Breast, Female,2516137,654
+2450,2015,South Carolina, Larynx, Female,2516137,0
+2451,2015,South Carolina, Larynx, Male,2375801,59
+2452,2015,South Carolina, Liver, Female,2516137,81
+2453,2015,South Carolina, Liver, Male,2375801,239
+2454,2015,South Carolina, Myeloma, Female,2516137,107
+2455,2015,South Carolina, Myeloma, Male,2375801,134
+2456,2015,South Dakota, Breast, Female,423733,104
+2457,2015,South Dakota, Breast, Male,430255,0
+2458,2015,South Dakota, Larynx, Female,423733,0
+2459,2015,South Dakota, Liver, Male,430255,26
+2460,2015,South Dakota, Myeloma, Female,423733,0
+2461,2015,South Dakota, Myeloma, Male,430255,21
+2462,2015,Tennessee, Breast, Female,3376207,941
+2463,2015,Tennessee, Breast, Male,3214963,0
+2464,2015,Tennessee, Larynx, Female,3376207,24
+2465,2015,Tennessee, Larynx, Male,3214963,79
+2466,2015,Tennessee, Liver, Female,3376207,116
+2467,2015,Tennessee, Liver, Male,3214963,357
+2468,2015,Tennessee, Myeloma, Female,3376207,126
+2469,2015,Tennessee, Myeloma, Male,3214963,178
+2470,2015,Texas, Breast, Female,13826281,2857
+2471,2015,Texas, Breast, Male,13643775,32
+2472,2015,Texas, Larynx, Female,13826281,42
+2473,2015,Texas, Larynx, Male,13643775,215
+2474,2015,Texas, Liver, Female,13826281,512
+2475,2015,Texas, Liver, Male,13643775,1294
+2476,2015,Texas, Myeloma, Female,13826281,345
+2477,2015,Texas, Myeloma, Male,13643775,401
+2478,2015,Utah, Breast, Female,1481544,268
+2479,2015,Utah, Liver, Female,1481544,20
+2480,2015,Utah, Liver, Male,1500291,65
+2481,2015,Utah, Myeloma, Female,1481544,46
+2482,2015,Utah, Myeloma, Male,1500291,38
+2483,2015,Vermont, Breast, Female,316535,96
+2484,2015,Vermont, Breast, Male,308681,0
+2485,2015,Vermont, Larynx, Female,316535,0
+2486,2015,Vermont, Liver, Male,308681,29
+2487,2015,Vermont, Myeloma, Female,316535,17
+2488,2015,Vermont, Myeloma, Male,308681,0
+2489,2015,Virginia, Breast, Female,4247863,1117
+2490,2015,Virginia, Breast, Male,4113945,0
+2491,2015,Virginia, Larynx, Female,4247863,19
+2492,2015,Virginia, Larynx, Male,4113945,85
+2493,2015,Virginia, Liver, Female,4247863,113
+2494,2015,Virginia, Liver, Male,4113945,346
+2495,2015,Virginia, Myeloma, Female,4247863,130
+2496,2015,Virginia, Myeloma, Male,4113945,172
+2497,2015,Washington DC, Breast, Female,355098,102
+2498,2015,Washington DC, Breast, Male,320302,0
+2499,2015,Washington DC, Liver, Female,355098,0
+2500,2015,Washington DC, Liver, Male,320302,31
+2501,2015,Washington DC, Myeloma, Female,355098,0
+2502,2015,Washington DC, Myeloma, Male,320302,0
+2503,2015,Washington, Breast, Female,3584698,873
+2504,2015,Washington, Larynx, Female,3584698,0
+2505,2015,Washington, Larynx, Male,3578959,42
+2506,2015,Washington, Liver, Female,3584698,110
+2507,2015,Washington, Liver, Male,3578959,322
+2508,2015,Washington, Myeloma, Female,3584698,119
+2509,2015,Washington, Myeloma, Male,3578959,136
+2510,2015,West Virginia, Breast, Female,931209,279
+2511,2015,West Virginia, Larynx, Male,910841,44
+2512,2015,West Virginia, Liver, Female,931209,42
+2513,2015,West Virginia, Liver, Male,910841,93
+2514,2015,West Virginia, Myeloma, Female,931209,37
+2515,2015,West Virginia, Myeloma, Male,910841,51
+2516,2015,Wisconsin, Breast, Female,2897441,717
+2517,2015,Wisconsin, Larynx, Female,2897441,16
+2518,2015,Wisconsin, Larynx, Male,2863499,57
+2519,2015,Wisconsin, Liver, Female,2897441,61
+2520,2015,Wisconsin, Liver, Male,2863499,182
+2521,2015,Wisconsin, Myeloma, Female,2897441,101
+2522,2015,Wisconsin, Myeloma, Male,2863499,110
+2523,2015,Wyoming, Breast, Female,286367,70
+2524,2015,Wyoming, Breast, Male,299246,0
+2525,2015,Wyoming, Larynx, Female,286367,0
+2526,2015,Wyoming, Liver, Male,299246,26
+2527,2015,Wyoming, Myeloma, Female,286367,0
+2528,2016,Alabama, Breast, Female,2507926,678
+2529,2016,Alabama, Larynx, Female,2507926,0
+2530,2016,Alabama, Larynx, Male,2355599,63
+2531,2016,Alabama, Liver, Female,2507926,108
+2532,2016,Alabama, Liver, Male,2355599,260
+2533,2016,Alabama, Myeloma, Female,2507926,105
+2534,2016,Alabama, Myeloma, Male,2355599,105
+2535,2016,Alaska, Breast, Female,353421,68
+2536,2016,Alaska, Breast, Male,388035,0
+2537,2016,Alaska, Larynx, Female,353421,0
+2538,2016,Alaska, Liver, Male,388035,25
+2539,2016,Arizona, Breast, Female,3490712,850
+2540,2016,Arizona, Larynx, Female,3490712,0
+2541,2016,Arizona, Larynx, Male,3450360,62
+2542,2016,Arizona, Liver, Female,3490712,126
+2543,2016,Arizona, Liver, Male,3450360,318
+2544,2016,Arizona, Myeloma, Female,3490712,91
+2545,2016,Arizona, Myeloma, Male,3450360,145
+2546,2016,Arkansas, Breast, Female,1520965,400
+2547,2016,Arkansas, Larynx, Male,1468953,36
+2548,2016,Arkansas, Liver, Female,1520965,59
+2549,2016,Arkansas, Liver, Male,1468953,160
+2550,2016,Arkansas, Myeloma, Female,1520965,41
+2551,2016,Arkansas, Myeloma, Male,1468953,63
+2552,2016,California, Breast, Female,19705795,4308
+2553,2016,California, Breast, Male,19461322,43
+2554,2016,California, Larynx, Female,19705795,60
+2555,2016,California, Larynx, Male,19461322,192
+2556,2016,California, Liver, Female,19705795,768
+2557,2016,California, Liver, Male,19461322,1864
+2558,2016,California, Myeloma, Female,19705795,499
+2559,2016,California, Myeloma, Male,19461322,727
+2560,2016,Colorado, Breast, Female,2752430,613
+2561,2016,Colorado, Larynx, Male,2786785,28
+2562,2016,Colorado, Liver, Female,2752430,48
+2563,2016,Colorado, Liver, Male,2786785,188
+2564,2016,Colorado, Myeloma, Female,2752430,82
+2565,2016,Colorado, Myeloma, Male,2786785,110
+2566,2016,Connecticut, Breast, Female,1832910,465
+2567,2016,Connecticut, Larynx, Male,1745231,33
+2568,2016,Connecticut, Liver, Female,1832910,34
+2569,2016,Connecticut, Liver, Male,1745231,115
+2570,2016,Connecticut, Myeloma, Female,1832910,74
+2571,2016,Connecticut, Myeloma, Male,1745231,76
+2572,2016,Delaware, Breast, Female,489981,142
+2573,2016,Delaware, Breast, Male,458940,0
+2574,2016,Delaware, Liver, Female,489981,16
+2575,2016,Delaware, Liver, Male,458940,49
+2576,2016,Delaware, Myeloma, Female,489981,20
+2577,2016,Delaware, Myeloma, Male,458940,30
+2578,2016,Florida, Breast, Female,10533219,2908
+2579,2016,Florida, Breast, Male,10080258,28
+2580,2016,Florida, Larynx, Female,10533219,57
+2581,2016,Florida, Larynx, Male,10080258,287
+2582,2016,Florida, Liver, Female,10533219,432
+2583,2016,Florida, Liver, Male,10080258,1089
+2584,2016,Florida, Myeloma, Female,10533219,368
+2585,2016,Florida, Myeloma, Male,10080258,513
+2586,2016,Georgia, Breast, Female,5286933,1273
+2587,2016,Georgia, Breast, Male,5014957,0
+2588,2016,Georgia, Larynx, Female,5286933,20
+2589,2016,Georgia, Larynx, Male,5014957,106
+2590,2016,Georgia, Liver, Female,5286933,172
+2591,2016,Georgia, Liver, Male,5014957,417
+2592,2016,Georgia, Myeloma, Female,5286933,189
+2593,2016,Georgia, Myeloma, Male,5014957,189
+2594,2016,Hawaii, Breast, Female,710243,141
+2595,2016,Hawaii, Breast, Male,717316,0
+2596,2016,Hawaii, Larynx, Female,710243,0
+2597,2016,Hawaii, Larynx, Male,717316,0
+2598,2016,Hawaii, Liver, Female,710243,36
+2599,2016,Hawaii, Liver, Male,717316,78
+2600,2016,Hawaii, Myeloma, Female,710243,17
+2601,2016,Hawaii, Myeloma, Male,717316,17
+2602,2016,Idaho, Breast, Female,839684,215
+2603,2016,Idaho, Breast, Male,842696,0
+2604,2016,Idaho, Larynx, Female,839684,0
+2605,2016,Idaho, Larynx, Male,842696,0
+2606,2016,Idaho, Liver, Female,839684,21
+2607,2016,Idaho, Liver, Male,842696,70
+2608,2016,Idaho, Myeloma, Female,839684,32
+2609,2016,Idaho, Myeloma, Male,842696,41
+2610,2016,Illinois, Breast, Female,6523208,1700
+2611,2016,Illinois, Breast, Male,6297319,0
+2612,2016,Illinois, Larynx, Female,6523208,40
+2613,2016,Illinois, Larynx, Male,6297319,121
+2614,2016,Illinois, Liver, Female,6523208,206
+2615,2016,Illinois, Liver, Male,6297319,489
+2616,2016,Illinois, Myeloma, Female,6523208,225
+2617,2016,Illinois, Myeloma, Male,6297319,230
+2618,2016,Indiana, Breast, Female,3364178,874
+2619,2016,Indiana, Breast, Male,3270126,18
+2620,2016,Indiana, Larynx, Female,3364178,19
+2621,2016,Indiana, Larynx, Male,3270126,81
+2622,2016,Indiana, Liver, Female,3364178,91
+2623,2016,Indiana, Liver, Male,3270126,265
+2624,2016,Indiana, Myeloma, Female,3364178,117
+2625,2016,Indiana, Myeloma, Male,3270126,143
+2626,2016,Iowa, Breast, Female,1574212,414
+2627,2016,Iowa, Larynx, Male,1557159,33
+2628,2016,Iowa, Liver, Female,1574212,36
+2629,2016,Iowa, Liver, Male,1557159,99
+2630,2016,Iowa, Myeloma, Female,1574212,62
+2631,2016,Iowa, Myeloma, Male,1557159,72
+2632,2016,Kansas, Breast, Female,1460597,401
+2633,2016,Kansas, Larynx, Male,1450247,24
+2634,2016,Kansas, Liver, Female,1460597,48
+2635,2016,Kansas, Liver, Male,1450247,126
+2636,2016,Kansas, Myeloma, Female,1460597,51
+2637,2016,Kansas, Myeloma, Male,1450247,65
+2638,2016,Kentucky, Breast, Female,2252014,623
+2639,2016,Kentucky, Larynx, Female,2252014,27
+2640,2016,Kentucky, Larynx, Male,2186168,70
+2641,2016,Kentucky, Liver, Female,2252014,75
+2642,2016,Kentucky, Liver, Male,2186168,188
+2643,2016,Kentucky, Myeloma, Female,2252014,71
+2644,2016,Kentucky, Myeloma, Male,2186168,92
+2645,2016,Louisiana, Breast, Female,2390252,636
+2646,2016,Louisiana, Larynx, Female,2390252,0
+2647,2016,Louisiana, Larynx, Male,2287883,55
+2648,2016,Louisiana, Liver, Female,2390252,116
+2649,2016,Louisiana, Liver, Male,2287883,327
+2650,2016,Louisiana, Myeloma, Female,2390252,80
+2651,2016,Louisiana, Myeloma, Male,2287883,99
+2652,2016,Maine, Breast, Female,679432,198
+2653,2016,Maine, Larynx, Male,651885,24
+2654,2016,Maine, Liver, Female,679432,0
+2655,2016,Maine, Liver, Male,651885,48
+2656,2016,Maine, Myeloma, Female,679432,30
+2657,2016,Maine, Myeloma, Male,651885,28
+2658,2016,Maryland, Breast, Female,3093438,829
+2659,2016,Maryland, Breast, Male,2909885,0
+2660,2016,Maryland, Larynx, Female,3093438,17
+2661,2016,Maryland, Larynx, Male,2909885,57
+2662,2016,Maryland, Liver, Female,3093438,83
+2663,2016,Maryland, Liver, Male,2909885,262
+2664,2016,Maryland, Myeloma, Female,3093438,135
+2665,2016,Maryland, Myeloma, Male,2909885,169
+2666,2016,Massachusetts, Breast, Female,3513095,777
+2667,2016,Massachusetts, Breast, Male,3310513,0
+2668,2016,Massachusetts, Larynx, Female,3513095,18
+2669,2016,Massachusetts, Larynx, Male,3310513,45
+2670,2016,Massachusetts, Liver, Female,3513095,85
+2671,2016,Massachusetts, Liver, Male,3310513,298
+2672,2016,Massachusetts, Myeloma, Female,3513095,117
+2673,2016,Massachusetts, Myeloma, Male,3310513,146
+2674,2016,Michigan, Breast, Female,5053958,1383
+2675,2016,Michigan, Breast, Male,4896613,22
+2676,2016,Michigan, Larynx, Female,5053958,42
+2677,2016,Michigan, Larynx, Male,4896613,124
+2678,2016,Michigan, Liver, Female,5053958,194
+2679,2016,Michigan, Liver, Male,4896613,398
+2680,2016,Michigan, Myeloma, Female,5053958,210
+2681,2016,Michigan, Myeloma, Male,4896613,250
+2682,2016,Minnesota, Breast, Female,2773883,599
+2683,2016,Minnesota, Larynx, Female,2773883,0
+2684,2016,Minnesota, Larynx, Male,2748861,44
+2685,2016,Minnesota, Liver, Female,2773883,64
+2686,2016,Minnesota, Liver, Male,2748861,196
+2687,2016,Minnesota, Myeloma, Female,2773883,97
+2688,2016,Minnesota, Myeloma, Male,2748861,117
+2689,2016,Mississippi, Breast, Female,1538688,440
+2690,2016,Mississippi, Larynx, Male,1449250,30
+2691,2016,Mississippi, Liver, Female,1538688,79
+2692,2016,Mississippi, Liver, Male,1449250,183
+2693,2016,Mississippi, Myeloma, Female,1538688,55
+2694,2016,Mississippi, Myeloma, Male,1449250,71
+2695,2016,Missouri, Breast, Female,3099395,871
+2696,2016,Missouri, Larynx, Female,3099395,19
+2697,2016,Missouri, Larynx, Male,2987740,65
+2698,2016,Missouri, Liver, Female,3099395,108
+2699,2016,Missouri, Liver, Male,2987740,241
+2700,2016,Missouri, Myeloma, Female,3099395,98
+2701,2016,Missouri, Myeloma, Male,2987740,141
+2702,2016,Montana, Breast, Female,516874,137
+2703,2016,Montana, Breast, Male,523985,0
+2704,2016,Montana, Larynx, Female,516874,0
+2705,2016,Montana, Liver, Female,516874,0
+2706,2016,Montana, Liver, Male,523985,36
+2707,2016,Montana, Myeloma, Female,516874,0
+2708,2016,Montana, Myeloma, Male,523985,25
+2709,2016,Nebraska, Breast, Female,955058,244
+2710,2016,Nebraska, Larynx, Male,950558,0
+2711,2016,Nebraska, Liver, Female,955058,27
+2712,2016,Nebraska, Liver, Male,950558,65
+2713,2016,Nebraska, Myeloma, Female,955058,22
+2714,2016,Nebraska, Myeloma, Male,950558,48
+2715,2016,Nevada, Breast, Female,1452754,369
+2716,2016,Nevada, Larynx, Female,1452754,0
+2717,2016,Nevada, Larynx, Male,1464809,19
+2718,2016,Nevada, Liver, Female,1452754,52
+2719,2016,Nevada, Liver, Male,1464809,131
+2720,2016,Nevada, Myeloma, Female,1452754,35
+2721,2016,Nevada, Myeloma, Male,1464809,49
+2722,2016,New Hampshire, Breast, Female,677657,177
+2723,2016,New Hampshire, Breast, Male,664650,0
+2724,2016,New Hampshire, Larynx, Female,677657,0
+2725,2016,New Hampshire, Larynx, Male,664650,0
+2726,2016,New Hampshire, Liver, Female,677657,0
+2727,2016,New Hampshire, Liver, Male,664650,76
+2728,2016,New Hampshire, Myeloma, Female,677657,17
+2729,2016,New Hampshire, Myeloma, Male,664650,22
+2730,2016,New Jersey, Breast, Female,4540927,1289
+2731,2016,New Jersey, Breast, Male,4329900,23
+2732,2016,New Jersey, Larynx, Female,4540927,23
+2733,2016,New Jersey, Larynx, Male,4329900,78
+2734,2016,New Jersey, Liver, Female,4540927,136
+2735,2016,New Jersey, Liver, Male,4329900,328
+2736,2016,New Jersey, Myeloma, Female,4540927,189
+2737,2016,New Jersey, Myeloma, Male,4329900,198
+2738,2016,New Mexico, Breast, Female,1056015,278
+2739,2016,New Mexico, Breast, Male,1035615,0
+2740,2016,New Mexico, Larynx, Male,1035615,0
+2741,2016,New Mexico, Liver, Female,1056015,45
+2742,2016,New Mexico, Liver, Male,1035615,127
+2743,2016,New Mexico, Myeloma, Female,1056015,36
+2744,2016,New Mexico, Myeloma, Male,1035615,26
+2745,2016,New York, Breast, Female,10103366,2622
+2746,2016,New York, Breast, Male,9530062,24
+2747,2016,New York, Larynx, Female,10103366,46
+2748,2016,New York, Larynx, Male,9530062,196
+2749,2016,New York, Liver, Female,10103366,279
+2750,2016,New York, Liver, Male,9530062,832
+2751,2016,New York, Myeloma, Female,10103366,376
+2752,2016,New York, Myeloma, Male,9530062,369
+2753,2016,North Carolina, Breast, Female,5211076,1317
+2754,2016,North Carolina, Breast, Male,4943712,0
+2755,2016,North Carolina, Larynx, Female,5211076,30
+2756,2016,North Carolina, Larynx, Male,4943712,100
+2757,2016,North Carolina, Liver, Female,5211076,147
+2758,2016,North Carolina, Liver, Male,4943712,463
+2759,2016,North Carolina, Myeloma, Female,5211076,205
+2760,2016,North Carolina, Myeloma, Male,4943712,245
+2761,2016,North Dakota, Breast, Female,367423,83
+2762,2016,North Dakota, Breast, Male,387011,0
+2763,2016,North Dakota, Larynx, Female,367423,0
+2764,2016,North Dakota, Liver, Male,387011,23
+2765,2016,North Dakota, Myeloma, Female,367423,16
+2766,2016,North Dakota, Myeloma, Male,387011,16
+2767,2016,Ohio, Breast, Female,5934732,1711
+2768,2016,Ohio, Breast, Male,5699638,18
+2769,2016,Ohio, Larynx, Female,5934732,49
+2770,2016,Ohio, Larynx, Male,5699638,141
+2771,2016,Ohio, Liver, Female,5934732,183
+2772,2016,Ohio, Liver, Male,5699638,483
+2773,2016,Ohio, Myeloma, Female,5934732,218
+2774,2016,Ohio, Myeloma, Male,5699638,265
+2775,2016,Oklahoma, Breast, Female,1980769,531
+2776,2016,Oklahoma, Larynx, Female,1980769,18
+2777,2016,Oklahoma, Larynx, Male,1945562,42
+2778,2016,Oklahoma, Liver, Female,1980769,86
+2779,2016,Oklahoma, Liver, Male,1945562,188
+2780,2016,Oklahoma, Myeloma, Female,1980769,71
+2781,2016,Oklahoma, Myeloma, Male,1945562,81
+2782,2016,Oregon, Breast, Female,2063350,585
+2783,2016,Oregon, Breast, Male,2026626,0
+2784,2016,Oregon, Larynx, Male,2026626,44
+2785,2016,Oregon, Liver, Female,2063350,75
+2786,2016,Oregon, Liver, Male,2026626,216
+2787,2016,Oregon, Myeloma, Female,2063350,69
+2788,2016,Oregon, Myeloma, Male,2026626,91
+2789,2016,Pennsylvania, Breast, Female,6523967,1985
+2790,2016,Pennsylvania, Breast, Male,6258308,22
+2791,2016,Pennsylvania, Larynx, Female,6523967,41
+2792,2016,Pennsylvania, Larynx, Male,6258308,134
+2793,2016,Pennsylvania, Liver, Female,6523967,205
+2794,2016,Pennsylvania, Liver, Male,6258308,628
+2795,2016,Pennsylvania, Myeloma, Female,6523967,281
+2796,2016,Pennsylvania, Myeloma, Male,6258308,297
+2797,2016,Puerto Rico, Breast, Female,1786406,439
+2798,2016,Puerto Rico, Larynx, Male,1620266,41
+2799,2016,Puerto Rico, Liver, Female,1786406,94
+2800,2016,Puerto Rico, Liver, Male,1620266,201
+2801,2016,Puerto Rico, Myeloma, Female,1786406,62
+2802,2016,Puerto Rico, Myeloma, Male,1620266,78
+2803,2016,Rhode Island, Breast, Female,543087,137
+2804,2016,Rhode Island, Larynx, Female,543087,0
+2805,2016,Rhode Island, Larynx, Male,513683,0
+2806,2016,Rhode Island, Liver, Female,543087,17
+2807,2016,Rhode Island, Liver, Male,513683,47
+2808,2016,Rhode Island, Myeloma, Female,543087,19
+2809,2016,Rhode Island, Myeloma, Male,513683,18
+2810,2016,South Carolina, Breast, Female,2551324,742
+2811,2016,South Carolina, Larynx, Female,2551324,16
+2812,2016,South Carolina, Larynx, Male,2406644,69
+2813,2016,South Carolina, Liver, Female,2551324,85
+2814,2016,South Carolina, Liver, Male,2406644,261
+2815,2016,South Carolina, Myeloma, Female,2551324,121
+2816,2016,South Carolina, Myeloma, Male,2406644,123
+2817,2016,South Dakota, Breast, Female,427777,112
+2818,2016,South Dakota, Breast, Male,435219,0
+2819,2016,South Dakota, Larynx, Female,427777,0
+2820,2016,South Dakota, Liver, Male,435219,34
+2821,2016,South Dakota, Myeloma, Female,427777,22
+2822,2016,South Dakota, Myeloma, Male,435219,29
+2823,2016,Tennessee, Breast, Female,3404105,958
+2824,2016,Tennessee, Breast, Male,3241905,0
+2825,2016,Tennessee, Larynx, Female,3404105,23
+2826,2016,Tennessee, Larynx, Male,3241905,99
+2827,2016,Tennessee, Liver, Female,3404105,116
+2828,2016,Tennessee, Liver, Male,3241905,335
+2829,2016,Tennessee, Myeloma, Female,3404105,138
+2830,2016,Tennessee, Myeloma, Male,3241905,160
+2831,2016,Texas, Breast, Female,14048899,2918
+2832,2016,Texas, Breast, Male,13865511,26
+2833,2016,Texas, Larynx, Female,14048899,45
+2834,2016,Texas, Larynx, Male,13865511,217
+2835,2016,Texas, Liver, Female,14048899,493
+2836,2016,Texas, Liver, Male,13865511,1343
+2837,2016,Texas, Myeloma, Female,14048899,346
+2838,2016,Texas, Myeloma, Male,13865511,473
+2839,2016,Utah, Breast, Female,1510737,260
+2840,2016,Utah, Liver, Female,1510737,27
+2841,2016,Utah, Liver, Male,1531131,68
+2842,2016,Utah, Myeloma, Female,1510737,31
+2843,2016,Utah, Myeloma, Male,1531131,48
+2844,2016,Vermont, Breast, Female,315605,62
+2845,2016,Vermont, Breast, Male,308052,0
+2846,2016,Vermont, Larynx, Female,315605,0
+2847,2016,Vermont, Liver, Male,308052,20
+2848,2016,Vermont, Myeloma, Female,315605,0
+2849,2016,Vermont, Myeloma, Male,308052,18
+2850,2016,Virginia, Breast, Female,4272260,1110
+2851,2016,Virginia, Breast, Male,4137846,0
+2852,2016,Virginia, Larynx, Female,4272260,19
+2853,2016,Virginia, Larynx, Male,4137846,72
+2854,2016,Virginia, Liver, Female,4272260,130
+2855,2016,Virginia, Liver, Male,4137846,333
+2856,2016,Virginia, Myeloma, Female,4272260,142
+2857,2016,Virginia, Myeloma, Male,4137846,169
+2858,2016,Washington DC, Breast, Female,360350,89
+2859,2016,Washington DC, Breast, Male,325465,0
+2860,2016,Washington DC, Liver, Female,360350,20
+2861,2016,Washington DC, Liver, Male,325465,45
+2862,2016,Washington DC, Myeloma, Female,360350,0
+2863,2016,Washington DC, Myeloma, Male,325465,0
+2864,2016,Washington, Breast, Female,3647256,870
+2865,2016,Washington, Larynx, Female,3647256,0
+2866,2016,Washington, Larynx, Male,3647515,53
+2867,2016,Washington, Liver, Female,3647256,98
+2868,2016,Washington, Liver, Male,3647515,309
+2869,2016,Washington, Myeloma, Female,3647256,104
+2870,2016,Washington, Myeloma, Male,3647515,143
+2871,2016,West Virginia, Breast, Female,925409,290
+2872,2016,West Virginia, Larynx, Male,905614,32
+2873,2016,West Virginia, Liver, Female,925409,30
+2874,2016,West Virginia, Liver, Male,905614,82
+2875,2016,West Virginia, Myeloma, Female,925409,45
+2876,2016,West Virginia, Myeloma, Male,905614,37
+2877,2016,Wisconsin, Breast, Female,2902362,735
+2878,2016,Wisconsin, Larynx, Female,2902362,0
+2879,2016,Wisconsin, Larynx, Male,2870266,53
+2880,2016,Wisconsin, Liver, Female,2902362,71
+2881,2016,Wisconsin, Liver, Male,2870266,204
+2882,2016,Wisconsin, Myeloma, Female,2902362,112
+2883,2016,Wisconsin, Myeloma, Male,2870266,110
+2884,2016,Wyoming, Breast, Female,285818,70
+2885,2016,Wyoming, Breast, Male,298397,0
+2886,2016,Wyoming, Larynx, Female,285818,0
+2887,2016,Wyoming, Liver, Male,298397,28
+2888,2016,Wyoming, Myeloma, Female,285818,0
+2889,2017,Alabama, Breast, Female,2515803,695
+2890,2017,Alabama, Larynx, Female,2515803,19
+2891,2017,Alabama, Larynx, Male,2358683,56
+2892,2017,Alabama, Liver, Female,2515803,96
+2893,2017,Alabama, Liver, Male,2358683,259
+2894,2017,Alabama, Myeloma, Female,2515803,102
+2895,2017,Alabama, Myeloma, Male,2358683,106
+2896,2017,Alaska, Breast, Female,353421,60
+2897,2017,Alaska, Breast, Male,386279,0
+2898,2017,Alaska, Larynx, Female,353421,0
+2899,2017,Alaska, Liver, Male,386279,19
+2900,2017,Arizona, Breast, Female,3543134,830
+2901,2017,Arizona, Larynx, Female,3543134,0
+2902,2017,Arizona, Larynx, Male,3500874,57
+2903,2017,Arizona, Liver, Female,3543134,121
+2904,2017,Arizona, Liver, Male,3500874,337
+2905,2017,Arizona, Myeloma, Female,3543134,103
+2906,2017,Arizona, Myeloma, Male,3500874,157
+2907,2017,Arkansas, Breast, Female,1526706,414
+2908,2017,Arkansas, Larynx, Male,1474639,41
+2909,2017,Arkansas, Liver, Female,1526706,57
+2910,2017,Arkansas, Liver, Male,1474639,161
+2911,2017,Arkansas, Myeloma, Female,1526706,49
+2912,2017,Arkansas, Myeloma, Male,1474639,71
+2913,2017,California, Breast, Female,19795325,4588
+2914,2017,California, Breast, Male,19563172,37
+2915,2017,California, Larynx, Female,19795325,52
+2916,2017,California, Larynx, Male,19563172,197
+2917,2017,California, Liver, Female,19795325,794
+2918,2017,California, Liver, Male,19563172,1863
+2919,2017,California, Myeloma, Female,19795325,525
+2920,2017,California, Myeloma, Male,19563172,687
+2921,2017,Colorado, Breast, Female,2786640,629
+2922,2017,Colorado, Larynx, Male,2825245,26
+2923,2017,Colorado, Liver, Female,2786640,70
+2924,2017,Colorado, Liver, Male,2825245,182
+2925,2017,Colorado, Myeloma, Female,2786640,66
+2926,2017,Colorado, Myeloma, Male,2825245,112
+2927,2017,Connecticut, Breast, Female,1830239,466
+2928,2017,Connecticut, Larynx, Male,1743058,32
+2929,2017,Connecticut, Liver, Female,1830239,37
+2930,2017,Connecticut, Liver, Male,1743058,146
+2931,2017,Connecticut, Myeloma, Female,1830239,46
+2932,2017,Connecticut, Myeloma, Male,1743058,74
+2933,2017,Delaware, Breast, Female,494234,150
+2934,2017,Delaware, Breast, Male,462589,0
+2935,2017,Delaware, Liver, Female,494234,23
+2936,2017,Delaware, Liver, Male,462589,59
+2937,2017,Delaware, Myeloma, Female,494234,26
+2938,2017,Delaware, Myeloma, Male,462589,20
+2939,2017,Florida, Breast, Female,10713773,2952
+2940,2017,Florida, Breast, Male,10249840,41
+2941,2017,Florida, Larynx, Female,10713773,54
+2942,2017,Florida, Larynx, Male,10249840,301
+2943,2017,Florida, Liver, Female,10713773,387
+2944,2017,Florida, Liver, Male,10249840,1104
+2945,2017,Florida, Myeloma, Female,10713773,405
+2946,2017,Florida, Myeloma, Male,10249840,474
+2947,2017,Georgia, Breast, Female,5345253,1334
+2948,2017,Georgia, Breast, Male,5065077,24
+2949,2017,Georgia, Larynx, Female,5345253,27
+2950,2017,Georgia, Larynx, Male,5065077,95
+2951,2017,Georgia, Liver, Female,5345253,185
+2952,2017,Georgia, Liver, Male,5065077,414
+2953,2017,Georgia, Myeloma, Female,5345253,166
+2954,2017,Georgia, Myeloma, Male,5065077,217
+2955,2017,Hawaii, Breast, Female,710028,155
+2956,2017,Hawaii, Breast, Male,714365,0
+2957,2017,Hawaii, Larynx, Female,710028,0
+2958,2017,Hawaii, Larynx, Male,714365,0
+2959,2017,Hawaii, Liver, Female,710028,26
+2960,2017,Hawaii, Liver, Male,714365,88
+2961,2017,Hawaii, Myeloma, Female,710028,18
+2962,2017,Hawaii, Myeloma, Male,714365,28
+2963,2017,Idaho, Breast, Female,857273,222
+2964,2017,Idaho, Breast, Male,860442,0
+2965,2017,Idaho, Larynx, Female,857273,0
+2966,2017,Idaho, Larynx, Male,860442,0
+2967,2017,Idaho, Liver, Female,857273,19
+2968,2017,Idaho, Liver, Male,860442,65
+2969,2017,Idaho, Myeloma, Female,857273,30
+2970,2017,Idaho, Myeloma, Male,860442,48
+2971,2017,Illinois, Breast, Female,6500602,1708
+2972,2017,Illinois, Breast, Male,6278226,22
+2973,2017,Illinois, Larynx, Female,6500602,34
+2974,2017,Illinois, Larynx, Male,6278226,118
+2975,2017,Illinois, Liver, Female,6500602,198
+2976,2017,Illinois, Liver, Male,6278226,450
+2977,2017,Illinois, Myeloma, Female,6500602,224
+2978,2017,Illinois, Myeloma, Male,6278226,255
+2979,2017,Indiana, Breast, Female,3376298,902
+2980,2017,Indiana, Breast, Male,3281780,0
+2981,2017,Indiana, Larynx, Female,3376298,0
+2982,2017,Indiana, Larynx, Male,3281780,64
+2983,2017,Indiana, Liver, Female,3376298,92
+2984,2017,Indiana, Liver, Male,3281780,268
+2985,2017,Indiana, Myeloma, Female,3376298,103
+2986,2017,Indiana, Myeloma, Male,3281780,156
+2987,2017,Iowa, Breast, Female,1578614,390
+2988,2017,Iowa, Larynx, Male,1562936,36
+2989,2017,Iowa, Liver, Female,1578614,35
+2990,2017,Iowa, Liver, Male,1562936,102
+2991,2017,Iowa, Myeloma, Female,1578614,84
+2992,2017,Iowa, Myeloma, Male,1562936,79
+2993,2017,Kansas, Breast, Female,1459511,345
+2994,2017,Kansas, Larynx, Male,1449207,19
+2995,2017,Kansas, Liver, Female,1459511,29
+2996,2017,Kansas, Liver, Male,1449207,110
+2997,2017,Kansas, Myeloma, Female,1459511,41
+2998,2017,Kansas, Myeloma, Male,1449207,61
+2999,2017,Kentucky, Breast, Female,2258827,633
+3000,2017,Kentucky, Larynx, Female,2258827,20
+3001,2017,Kentucky, Larynx, Male,2193441,61
+3002,2017,Kentucky, Liver, Female,2258827,57
+3003,2017,Kentucky, Liver, Male,2193441,207
+3004,2017,Kentucky, Myeloma, Female,2258827,74
+3005,2017,Kentucky, Myeloma, Male,2193441,101
+3006,2017,Louisiana, Breast, Female,2388906,692
+3007,2017,Louisiana, Larynx, Female,2388906,0
+3008,2017,Louisiana, Larynx, Male,2281654,54
+3009,2017,Louisiana, Liver, Female,2388906,131
+3010,2017,Louisiana, Liver, Male,2281654,344
+3011,2017,Louisiana, Myeloma, Female,2388906,94
+3012,2017,Louisiana, Myeloma, Male,2281654,108
+3013,2017,Maine, Breast, Female,680954,186
+3014,2017,Maine, Larynx, Male,653658,20
+3015,2017,Maine, Liver, Female,680954,16
+3016,2017,Maine, Liver, Male,653658,56
+3017,2017,Maine, Myeloma, Female,680954,25
+3018,2017,Maine, Myeloma, Male,653658,43
+3019,2017,Maryland, Breast, Female,3104243,857
+3020,2017,Maryland, Breast, Male,2919625,0
+3021,2017,Maryland, Larynx, Female,3104243,0
+3022,2017,Maryland, Larynx, Male,2919625,43
+3023,2017,Maryland, Liver, Female,3104243,78
+3024,2017,Maryland, Liver, Male,2919625,292
+3025,2017,Maryland, Myeloma, Female,3104243,120
+3026,2017,Maryland, Myeloma, Male,2919625,138
+3027,2017,Massachusetts, Breast, Female,3530794,893
+3028,2017,Massachusetts, Breast, Male,3328995,0
+3029,2017,Massachusetts, Larynx, Female,3530794,0
+3030,2017,Massachusetts, Larynx, Male,3328995,59
+3031,2017,Massachusetts, Liver, Female,3530794,76
+3032,2017,Massachusetts, Liver, Male,3328995,279
+3033,2017,Massachusetts, Myeloma, Female,3530794,121
+3034,2017,Massachusetts, Myeloma, Male,3328995,129
+3035,2017,Michigan, Breast, Female,5063133,1311
+3036,2017,Michigan, Breast, Male,4909981,23
+3037,2017,Michigan, Larynx, Female,5063133,31
+3038,2017,Michigan, Larynx, Male,4909981,128
+3039,2017,Michigan, Liver, Female,5063133,169
+3040,2017,Michigan, Liver, Male,4909981,443
+3041,2017,Michigan, Myeloma, Female,5063133,227
+3042,2017,Michigan, Myeloma, Male,4909981,240
+3043,2017,Minnesota, Breast, Female,2794686,612
+3044,2017,Minnesota, Larynx, Female,2794686,0
+3045,2017,Minnesota, Larynx, Male,2771544,30
+3046,2017,Minnesota, Liver, Female,2794686,67
+3047,2017,Minnesota, Liver, Male,2771544,175
+3048,2017,Minnesota, Myeloma, Female,2794686,88
+3049,2017,Minnesota, Myeloma, Male,2771544,101
+3050,2017,Mississippi, Breast, Female,1538712,489
+3051,2017,Mississippi, Larynx, Male,1449798,38
+3052,2017,Mississippi, Liver, Female,1538712,77
+3053,2017,Mississippi, Liver, Male,1449798,184
+3054,2017,Mississippi, Myeloma, Female,1538712,61
+3055,2017,Mississippi, Myeloma, Male,1449798,84
+3056,2017,Missouri, Breast, Female,3109111,867
+3057,2017,Missouri, Larynx, Female,3109111,17
+3058,2017,Missouri, Larynx, Male,2997559,72
+3059,2017,Missouri, Liver, Female,3109111,107
+3060,2017,Missouri, Liver, Male,2997559,280
+3061,2017,Missouri, Myeloma, Female,3109111,111
+3062,2017,Missouri, Myeloma, Male,2997559,129
+3063,2017,Montana, Breast, Female,522725,130
+3064,2017,Montana, Breast, Male,529757,0
+3065,2017,Montana, Larynx, Female,522725,0
+3066,2017,Montana, Liver, Female,522725,0
+3067,2017,Montana, Liver, Male,529757,49
+3068,2017,Montana, Myeloma, Female,522725,23
+3069,2017,Montana, Myeloma, Male,529757,21
+3070,2017,Nebraska, Breast, Female,959582,243
+3071,2017,Nebraska, Larynx, Male,956365,20
+3072,2017,Nebraska, Liver, Female,959582,18
+3073,2017,Nebraska, Liver, Male,956365,49
+3074,2017,Nebraska, Myeloma, Female,959582,31
+3075,2017,Nebraska, Myeloma, Male,956365,38
+3076,2017,Nevada, Breast, Female,1479646,368
+3077,2017,Nevada, Larynx, Female,1479646,0
+3078,2017,Nevada, Larynx, Male,1490259,16
+3079,2017,Nevada, Liver, Female,1479646,45
+3080,2017,Nevada, Liver, Male,1490259,137
+3081,2017,Nevada, Myeloma, Female,1479646,28
+3082,2017,Nevada, Myeloma, Male,1490259,50
+3083,2017,New Hampshire, Breast, Female,681006,160
+3084,2017,New Hampshire, Breast, Male,667781,0
+3085,2017,New Hampshire, Larynx, Female,681006,0
+3086,2017,New Hampshire, Larynx, Male,667781,0
+3087,2017,New Hampshire, Liver, Female,681006,0
+3088,2017,New Hampshire, Liver, Male,667781,53
+3089,2017,New Hampshire, Myeloma, Female,681006,22
+3090,2017,New Hampshire, Myeloma, Male,667781,32
+3091,2017,New Jersey, Breast, Female,4546951,1239
+3092,2017,New Jersey, Breast, Male,4338574,0
+3093,2017,New Jersey, Larynx, Female,4546951,23
+3094,2017,New Jersey, Larynx, Male,4338574,65
+3095,2017,New Jersey, Liver, Female,4546951,128
+3096,2017,New Jersey, Liver, Male,4338574,355
+3097,2017,New Jersey, Myeloma, Female,4546951,158
+3098,2017,New Jersey, Myeloma, Male,4338574,166
+3099,2017,New Mexico, Breast, Female,1056390,281
+3100,2017,New Mexico, Breast, Male,1035394,0
+3101,2017,New Mexico, Larynx, Male,1035394,18
+3102,2017,New Mexico, Liver, Female,1056390,62
+3103,2017,New Mexico, Liver, Male,1035394,120
+3104,2017,New Mexico, Myeloma, Female,1056390,29
+3105,2017,New Mexico, Myeloma, Male,1035394,49
+3106,2017,New York, Breast, Female,10078028,2457
+3107,2017,New York, Breast, Male,9511544,22
+3108,2017,New York, Larynx, Female,10078028,46
+3109,2017,New York, Larynx, Male,9511544,158
+3110,2017,New York, Liver, Female,10078028,245
+3111,2017,New York, Liver, Male,9511544,773
+3112,2017,New York, Myeloma, Female,10078028,350
+3113,2017,New York, Myeloma, Male,9511544,378
+3114,2017,North Carolina, Breast, Female,5271031,1451
+3115,2017,North Carolina, Breast, Male,4997202,0
+3116,2017,North Carolina, Larynx, Female,5271031,26
+3117,2017,North Carolina, Larynx, Male,4997202,111
+3118,2017,North Carolina, Liver, Female,5271031,157
+3119,2017,North Carolina, Liver, Male,4997202,424
+3120,2017,North Carolina, Myeloma, Female,5271031,200
+3121,2017,North Carolina, Myeloma, Male,4997202,231
+3122,2017,North Dakota, Breast, Female,368252,95
+3123,2017,North Dakota, Breast, Male,386690,0
+3124,2017,North Dakota, Larynx, Female,368252,0
+3125,2017,North Dakota, Liver, Male,386690,25
+3126,2017,North Dakota, Myeloma, Female,368252,0
+3127,2017,North Dakota, Myeloma, Male,386690,0
+3128,2017,Ohio, Breast, Female,5946130,1758
+3129,2017,Ohio, Breast, Male,5713520,22
+3130,2017,Ohio, Larynx, Female,5946130,52
+3131,2017,Ohio, Larynx, Male,5713520,135
+3132,2017,Ohio, Liver, Female,5946130,205
+3133,2017,Ohio, Liver, Male,5713520,513
+3134,2017,Ohio, Myeloma, Female,5946130,208
+3135,2017,Ohio, Myeloma, Male,5713520,325
+3136,2017,Oklahoma, Breast, Female,1983305,556
+3137,2017,Oklahoma, Larynx, Female,1983305,0
+3138,2017,Oklahoma, Larynx, Male,1948011,38
+3139,2017,Oklahoma, Liver, Female,1983305,86
+3140,2017,Oklahoma, Liver, Male,1948011,230
+3141,2017,Oklahoma, Myeloma, Female,1983305,72
+3142,2017,Oklahoma, Myeloma, Male,1948011,70
+3143,2017,Oregon, Breast, Female,2089732,506
+3144,2017,Oregon, Breast, Male,2053893,0
+3145,2017,Oregon, Larynx, Male,2053893,24
+3146,2017,Oregon, Liver, Female,2089732,70
+3147,2017,Oregon, Liver, Male,2053893,213
+3148,2017,Oregon, Myeloma, Female,2089732,71
+3149,2017,Oregon, Myeloma, Male,2053893,96
+3150,2017,Pennsylvania, Breast, Female,6525683,1984
+3151,2017,Pennsylvania, Breast, Male,6261958,28
+3152,2017,Pennsylvania, Larynx, Female,6525683,41
+3153,2017,Pennsylvania, Larynx, Male,6261958,142
+3154,2017,Pennsylvania, Liver, Female,6525683,216
+3155,2017,Pennsylvania, Liver, Male,6261958,621
+3156,2017,Pennsylvania, Myeloma, Female,6525683,262
+3157,2017,Pennsylvania, Myeloma, Male,6261958,305
+3158,2017,Puerto Rico, Breast, Female,872257,455
+3159,2017,Puerto Rico, Larynx, Male,790397,47
+3160,2017,Puerto Rico, Liver, Female,872257,78
+3161,2017,Puerto Rico, Liver, Male,790397,197
+3162,2017,Puerto Rico, Myeloma, Female,872257,62
+3163,2017,Puerto Rico, Myeloma, Male,790397,62
+3164,2017,Rhode Island, Breast, Female,542442,125
+3165,2017,Rhode Island, Larynx, Female,542442,0
+3166,2017,Rhode Island, Larynx, Male,513231,0
+3167,2017,Rhode Island, Liver, Female,542442,25
+3168,2017,Rhode Island, Liver, Male,513231,54
+3169,2017,Rhode Island, Myeloma, Female,542442,19
+3170,2017,Rhode Island, Myeloma, Male,513231,21
+3171,2017,South Carolina, Breast, Female,2585466,695
+3172,2017,South Carolina, Larynx, Female,2585466,17
+3173,2017,South Carolina, Larynx, Male,2435802,78
+3174,2017,South Carolina, Liver, Female,2585466,84
+3175,2017,South Carolina, Liver, Male,2435802,248
+3176,2017,South Carolina, Myeloma, Female,2585466,119
+3177,2017,South Carolina, Myeloma, Male,2435802,134
+3178,2017,South Dakota, Breast, Female,432221,102
+3179,2017,South Dakota, Breast, Male,440647,0
+3180,2017,South Dakota, Larynx, Female,432221,0
+3181,2017,South Dakota, Liver, Male,440647,28
+3182,2017,South Dakota, Myeloma, Female,432221,19
+3183,2017,South Dakota, Myeloma, Male,440647,24
+3184,2017,Tennessee, Breast, Female,3434796,934
+3185,2017,Tennessee, Breast, Male,3274003,0
+3186,2017,Tennessee, Larynx, Female,3434796,21
+3187,2017,Tennessee, Larynx, Male,3274003,85
+3188,2017,Tennessee, Liver, Female,3434796,118
+3189,2017,Tennessee, Liver, Male,3274003,384
+3190,2017,Tennessee, Myeloma, Female,3434796,105
+3191,2017,Tennessee, Myeloma, Male,3274003,168
+3192,2017,Texas, Breast, Female,14239529,2984
+3193,2017,Texas, Breast, Male,14055744,33
+3194,2017,Texas, Larynx, Female,14239529,47
+3195,2017,Texas, Larynx, Male,14055744,190
+3196,2017,Texas, Liver, Female,14239529,518
+3197,2017,Texas, Liver, Male,14055744,1443
+3198,2017,Texas, Myeloma, Female,14239529,379
+3199,2017,Texas, Myeloma, Male,14055744,536
+3200,2017,Utah, Breast, Female,1539246,280
+3201,2017,Utah, Liver, Female,1539246,32
+3202,2017,Utah, Liver, Male,1561796,64
+3203,2017,Utah, Myeloma, Female,1539246,30
+3204,2017,Utah, Myeloma, Male,1561796,45
+3205,2017,Vermont, Breast, Female,316036,80
+3206,2017,Vermont, Breast, Male,308308,0
+3207,2017,Vermont, Larynx, Female,316036,0
+3208,2017,Vermont, Liver, Male,308308,26
+3209,2017,Vermont, Myeloma, Female,316036,0
+3210,2017,Vermont, Myeloma, Male,308308,0
+3211,2017,Virginia, Breast, Female,4298132,1175
+3212,2017,Virginia, Breast, Male,4165455,0
+3213,2017,Virginia, Larynx, Female,4298132,0
+3214,2017,Virginia, Larynx, Male,4165455,86
+3215,2017,Virginia, Liver, Female,4298132,132
+3216,2017,Virginia, Liver, Male,4165455,345
+3217,2017,Virginia, Myeloma, Female,4298132,150
+3218,2017,Virginia, Myeloma, Male,4165455,178
+3219,2017,Washington DC, Breast, Female,365307,92
+3220,2017,Washington DC, Breast, Male,329599,0
+3221,2017,Washington DC, Liver, Female,365307,0
+3222,2017,Washington DC, Liver, Male,329599,31
+3223,2017,Washington DC, Myeloma, Female,365307,0
+3224,2017,Washington DC, Myeloma, Male,329599,18
+3225,2017,Washington, Breast, Female,3709864,888
+3226,2017,Washington, Larynx, Female,3709864,0
+3227,2017,Washington, Larynx, Male,3713498,50
+3228,2017,Washington, Liver, Female,3709864,106
+3229,2017,Washington, Liver, Male,3713498,323
+3230,2017,Washington, Myeloma, Female,3709864,113
+3231,2017,Washington, Myeloma, Male,3713498,131
+3232,2017,West Virginia, Breast, Female,917557,300
+3233,2017,West Virginia, Larynx, Male,899447,42
+3234,2017,West Virginia, Liver, Female,917557,38
+3235,2017,West Virginia, Liver, Male,899447,104
+3236,2017,West Virginia, Myeloma, Female,917557,34
+3237,2017,West Virginia, Myeloma, Male,899447,47
+3238,2017,Wisconsin, Breast, Female,2910676,679
+3239,2017,Wisconsin, Larynx, Female,2910676,0
+3240,2017,Wisconsin, Larynx, Male,2879510,63
+3241,2017,Wisconsin, Liver, Female,2910676,63
+3242,2017,Wisconsin, Liver, Male,2879510,193
+3243,2017,Wisconsin, Myeloma, Female,2910676,94
+3244,2017,Wisconsin, Myeloma, Male,2879510,129
+3245,2017,Wyoming, Breast, Female,283666,58
+3246,2017,Wyoming, Breast, Male,295265,0
+3247,2017,Wyoming, Larynx, Female,283666,0
+3248,2017,Wyoming, Liver, Male,295265,29
+3249,2017,Wyoming, Myeloma, Female,283666,0
+3250,2018,Alabama, Breast, Female,2524361,731
+3251,2018,Alabama, Larynx, Female,2524361,0
+3252,2018,Alabama, Larynx, Male,2363320,66
+3253,2018,Alabama, Liver, Female,2524361,108
+3254,2018,Alabama, Liver, Male,2363320,261
+3255,2018,Alabama, Myeloma, Female,2524361,96
+3256,2018,Alabama, Myeloma, Male,2363320,114
+3257,2018,Alaska, Breast, Female,351692,58
+3258,2018,Alaska, Breast, Male,383447,0
+3259,2018,Alaska, Larynx, Female,351692,0
+3260,2018,Alaska, Liver, Male,383447,22
+3261,2018,Arizona, Breast, Female,3600640,805
+3262,2018,Arizona, Larynx, Female,3600640,16
+3263,2018,Arizona, Larynx, Male,3557384,48
+3264,2018,Arizona, Liver, Female,3600640,127
+3265,2018,Arizona, Liver, Male,3557384,319
+3266,2018,Arizona, Myeloma, Female,3600640,110
+3267,2018,Arizona, Myeloma, Male,3557384,173
+3268,2018,Arkansas, Breast, Female,1531624,368
+3269,2018,Arkansas, Larynx, Male,1478109,37
+3270,2018,Arkansas, Liver, Female,1531624,61
+3271,2018,Arkansas, Liver, Male,1478109,158
+3272,2018,Arkansas, Myeloma, Female,1531624,57
+3273,2018,Arkansas, Myeloma, Male,1478109,57
+3274,2018,California, Breast, Female,19843136,4572
+3275,2018,California, Breast, Male,19618452,36
+3276,2018,California, Larynx, Female,19843136,53
+3277,2018,California, Larynx, Male,19618452,229
+3278,2018,California, Liver, Female,19843136,788
+3279,2018,California, Liver, Male,19618452,1869
+3280,2018,California, Myeloma, Female,19843136,499
+3281,2018,California, Myeloma, Male,19618452,710
+3282,2018,Colorado, Breast, Female,2825526,599
+3283,2018,Colorado, Larynx, Male,2865761,28
+3284,2018,Colorado, Liver, Female,2825526,76
+3285,2018,Colorado, Liver, Male,2865761,202
+3286,2018,Colorado, Myeloma, Female,2825526,88
+3287,2018,Colorado, Myeloma, Male,2865761,121
+3288,2018,Connecticut, Breast, Female,1829397,430
+3289,2018,Connecticut, Larynx, Male,1742123,31
+3290,2018,Connecticut, Liver, Female,1829397,26
+3291,2018,Connecticut, Liver, Male,1742123,120
+3292,2018,Connecticut, Myeloma, Female,1829397,50
+3293,2018,Connecticut, Myeloma, Male,1742123,72
+3294,2018,Delaware, Breast, Female,498641,149
+3295,2018,Delaware, Breast, Male,466838,0
+3296,2018,Delaware, Liver, Female,498641,0
+3297,2018,Delaware, Liver, Male,466838,53
+3298,2018,Delaware, Myeloma, Female,498641,24
+3299,2018,Delaware, Myeloma, Male,466838,27
+3300,2018,Florida, Breast, Female,10858944,2962
+3301,2018,Florida, Breast, Male,10385373,42
+3302,2018,Florida, Larynx, Female,10858944,63
+3303,2018,Florida, Larynx, Male,10385373,256
+3304,2018,Florida, Liver, Female,10858944,395
+3305,2018,Florida, Liver, Male,10385373,1149
+3306,2018,Florida, Myeloma, Female,10858944,406
+3307,2018,Florida, Myeloma, Male,10385373,486
+3308,2018,Georgia, Breast, Female,5399300,1293
+3309,2018,Georgia, Breast, Male,5111831,22
+3310,2018,Georgia, Larynx, Female,5399300,22
+3311,2018,Georgia, Larynx, Male,5111831,98
+3312,2018,Georgia, Liver, Female,5399300,185
+3313,2018,Georgia, Liver, Male,5111831,454
+3314,2018,Georgia, Myeloma, Female,5399300,177
+3315,2018,Georgia, Myeloma, Male,5111831,167
+3316,2018,Hawaii, Breast, Female,709302,153
+3317,2018,Hawaii, Breast, Male,711291,0
+3318,2018,Hawaii, Larynx, Female,709302,0
+3319,2018,Hawaii, Larynx, Male,711291,0
+3320,2018,Hawaii, Liver, Female,709302,28
+3321,2018,Hawaii, Liver, Male,711291,78
+3322,2018,Hawaii, Myeloma, Female,709302,26
+3323,2018,Hawaii, Myeloma, Male,711291,25
+3324,2018,Idaho, Breast, Female,873205,239
+3325,2018,Idaho, Breast, Male,877331,0
+3326,2018,Idaho, Larynx, Female,873205,0
+3327,2018,Idaho, Larynx, Male,877331,16
+3328,2018,Idaho, Liver, Female,873205,18
+3329,2018,Idaho, Liver, Male,877331,57
+3330,2018,Idaho, Myeloma, Female,873205,28
+3331,2018,Idaho, Myeloma, Male,877331,44
+3332,2018,Illinois, Breast, Female,6471727,1754
+3333,2018,Illinois, Breast, Male,6251344,22
+3334,2018,Illinois, Larynx, Female,6471727,35
+3335,2018,Illinois, Larynx, Male,6251344,126
+3336,2018,Illinois, Liver, Female,6471727,234
+3337,2018,Illinois, Liver, Male,6251344,448
+3338,2018,Illinois, Myeloma, Female,6471727,220
+3339,2018,Illinois, Myeloma, Male,6251344,232
+3340,2018,Indiana, Breast, Female,3394211,914
+3341,2018,Indiana, Breast, Male,3301286,0
+3342,2018,Indiana, Larynx, Female,3394211,19
+3343,2018,Indiana, Larynx, Male,3301286,84
+3344,2018,Indiana, Liver, Female,3394211,100
+3345,2018,Indiana, Liver, Male,3301286,311
+3346,2018,Indiana, Myeloma, Female,3394211,114
+3347,2018,Indiana, Myeloma, Male,3301286,161
+3348,2018,Iowa, Breast, Female,1581655,394
+3349,2018,Iowa, Larynx, Male,1566963,35
+3350,2018,Iowa, Liver, Female,1581655,37
+3351,2018,Iowa, Liver, Male,1566963,105
+3352,2018,Iowa, Myeloma, Female,1581655,62
+3353,2018,Iowa, Myeloma, Male,1566963,75
+3354,2018,Kansas, Breast, Female,1460588,381
+3355,2018,Kansas, Larynx, Male,1450771,30
+3356,2018,Kansas, Liver, Female,1460588,30
+3357,2018,Kansas, Liver, Male,1450771,120
+3358,2018,Kansas, Myeloma, Female,1460588,55
+3359,2018,Kansas, Myeloma, Male,1450771,56
+3360,2018,Kentucky, Breast, Female,2263603,592
+3361,2018,Kentucky, Larynx, Female,2263603,0
+3362,2018,Kentucky, Larynx, Male,2197550,70
+3363,2018,Kentucky, Liver, Female,2263603,79
+3364,2018,Kentucky, Liver, Male,2197550,202
+3365,2018,Kentucky, Myeloma, Female,2263603,89
+3366,2018,Kentucky, Myeloma, Male,2197550,111
+3367,2018,Louisiana, Breast, Female,2385448,677
+3368,2018,Louisiana, Larynx, Female,2385448,0
+3369,2018,Louisiana, Larynx, Male,2274242,74
+3370,2018,Louisiana, Liver, Female,2385448,118
+3371,2018,Louisiana, Liver, Male,2274242,319
+3372,2018,Louisiana, Myeloma, Female,2385448,96
+3373,2018,Louisiana, Myeloma, Male,2274242,100
+3374,2018,Maine, Breast, Female,683374,177
+3375,2018,Maine, Larynx, Male,655683,0
+3376,2018,Maine, Liver, Female,683374,17
+3377,2018,Maine, Liver, Male,655683,66
+3378,2018,Maine, Myeloma, Female,683374,30
+3379,2018,Maine, Myeloma, Male,655683,33
+3380,2018,Maryland, Breast, Female,3111203,838
+3381,2018,Maryland, Breast, Male,2924599,0
+3382,2018,Maryland, Larynx, Female,3111203,0
+3383,2018,Maryland, Larynx, Male,2924599,53
+3384,2018,Maryland, Liver, Female,3111203,102
+3385,2018,Maryland, Liver, Male,2924599,254
+3386,2018,Maryland, Myeloma, Female,3111203,128
+3387,2018,Maryland, Myeloma, Male,2924599,147
+3388,2018,Massachusetts, Breast, Female,3542925,773
+3389,2018,Massachusetts, Breast, Male,3339710,0
+3390,2018,Massachusetts, Larynx, Female,3542925,20
+3391,2018,Massachusetts, Larynx, Male,3339710,63
+3392,2018,Massachusetts, Liver, Female,3542925,78
+3393,2018,Massachusetts, Liver, Male,3339710,287
+3394,2018,Massachusetts, Myeloma, Female,3542925,110
+3395,2018,Massachusetts, Myeloma, Male,3339710,148
+3396,2018,Michigan, Breast, Female,5067862,1490
+3397,2018,Michigan, Breast, Male,4916210,20
+3398,2018,Michigan, Larynx, Female,5067862,48
+3399,2018,Michigan, Larynx, Male,4916210,119
+3400,2018,Michigan, Liver, Female,5067862,158
+3401,2018,Michigan, Liver, Male,4916210,407
+3402,2018,Michigan, Myeloma, Female,5067862,178
+3403,2018,Michigan, Myeloma, Male,4916210,245
+3404,2018,Minnesota, Breast, Female,2813822,670
+3405,2018,Minnesota, Larynx, Female,2813822,16
+3406,2018,Minnesota, Larynx, Male,2792427,45
+3407,2018,Minnesota, Liver, Female,2813822,82
+3408,2018,Minnesota, Liver, Male,2792427,178
+3409,2018,Minnesota, Myeloma, Female,2813822,114
+3410,2018,Minnesota, Myeloma, Male,2792427,140
+3411,2018,Mississippi, Breast, Female,1535497,413
+3412,2018,Mississippi, Larynx, Male,1445523,30
+3413,2018,Mississippi, Liver, Female,1535497,94
+3414,2018,Mississippi, Liver, Male,1445523,192
+3415,2018,Mississippi, Myeloma, Female,1535497,67
+3416,2018,Mississippi, Myeloma, Male,1445523,57
+3417,2018,Missouri, Breast, Female,3116702,814
+3418,2018,Missouri, Larynx, Female,3116702,0
+3419,2018,Missouri, Larynx, Male,3004921,76
+3420,2018,Missouri, Liver, Female,3116702,111
+3421,2018,Missouri, Liver, Male,3004921,322
+3422,2018,Missouri, Myeloma, Female,3116702,116
+3423,2018,Missouri, Myeloma, Male,3004921,147
+3424,2018,Montana, Breast, Female,526813,126
+3425,2018,Montana, Breast, Male,533852,0
+3426,2018,Montana, Larynx, Female,526813,0
+3427,2018,Montana, Liver, Female,526813,0
+3428,2018,Montana, Liver, Male,533852,45
+3429,2018,Montana, Myeloma, Female,526813,19
+3430,2018,Montana, Myeloma, Male,533852,33
+3431,2018,Nebraska, Breast, Female,964240,222
+3432,2018,Nebraska, Larynx, Male,961374,0
+3433,2018,Nebraska, Liver, Female,964240,18
+3434,2018,Nebraska, Liver, Male,961374,47
+3435,2018,Nebraska, Myeloma, Female,964240,33
+3436,2018,Nebraska, Myeloma, Male,961374,34
+3437,2018,Nevada, Breast, Female,NA,381
+3438,2018,Nevada, Larynx, Female,NA,0
+3439,2018,Nevada, Larynx, Male,NA,24
+3440,2018,Nevada, Liver, Female,NA,72
+3441,2018,Nevada, Liver, Male,NA,142
+3442,2018,Nevada, Myeloma, Female,NA,35
+3443,2018,Nevada, Myeloma, Male,NA,48
+3444,2018,New Hampshire, Breast, Female,682692,171
+3445,2018,New Hampshire, Breast, Male,670773,0
+3446,2018,New Hampshire, Larynx, Female,682692,0
+3447,2018,New Hampshire, Larynx, Male,670773,0
+3448,2018,New Hampshire, Liver, Female,682692,19
+3449,2018,New Hampshire, Liver, Male,670773,42
+3450,2018,New Hampshire, Myeloma, Female,682692,16
+3451,2018,New Hampshire, Myeloma, Male,670773,31
+3452,2018,New Jersey, Breast, Female,4545338,1290
+3453,2018,New Jersey, Breast, Male,4340687,18
+3454,2018,New Jersey, Larynx, Female,4545338,20
+3455,2018,New Jersey, Larynx, Male,4340687,71
+3456,2018,New Jersey, Liver, Female,4545338,129
+3457,2018,New Jersey, Liver, Male,4340687,363
+3458,2018,New Jersey, Myeloma, Female,4545338,157
+3459,2018,New Jersey, Myeloma, Male,4340687,153
+3460,2018,New Mexico, Breast, Female,1057201,275
+3461,2018,New Mexico, Breast, Male,1035540,0
+3462,2018,New Mexico, Larynx, Male,1035540,20
+3463,2018,New Mexico, Liver, Female,1057201,61
+3464,2018,New Mexico, Liver, Male,1035540,145
+3465,2018,New Mexico, Myeloma, Female,1057201,31
+3466,2018,New Mexico, Myeloma, Male,1035540,60
+3467,2018,New York, Breast, Female,10046133,2639
+3468,2018,New York, Breast, Male,9484218,27
+3469,2018,New York, Larynx, Female,10046133,50
+3470,2018,New York, Larynx, Male,9484218,162
+3471,2018,New York, Liver, Female,10046133,250
+3472,2018,New York, Liver, Male,9484218,710
+3473,2018,New York, Myeloma, Female,10046133,330
+3474,2018,New York, Myeloma, Male,9484218,349
+3475,2018,North Carolina, Breast, Female,5331288,1405
+3476,2018,North Carolina, Breast, Male,5050327,17
+3477,2018,North Carolina, Larynx, Female,5331288,35
+3478,2018,North Carolina, Larynx, Male,5050327,83
+3479,2018,North Carolina, Liver, Female,5331288,165
+3480,2018,North Carolina, Liver, Male,5050327,476
+3481,2018,North Carolina, Myeloma, Female,5331288,192
+3482,2018,North Carolina, Myeloma, Male,5050327,212
+3483,2018,North Dakota, Breast, Female,370046,77
+3484,2018,North Dakota, Breast, Male,388034,0
+3485,2018,North Dakota, Larynx, Female,370046,0
+3486,2018,North Dakota, Liver, Male,388034,0
+3487,2018,North Dakota, Myeloma, Female,370046,22
+3488,2018,North Dakota, Myeloma, Male,388034,18
+3489,2018,Ohio, Breast, Female,5953904,1700
+3490,2018,Ohio, Breast, Male,5722437,24
+3491,2018,Ohio, Larynx, Female,5953904,33
+3492,2018,Ohio, Larynx, Male,5722437,133
+3493,2018,Ohio, Liver, Female,5953904,164
+3494,2018,Ohio, Liver, Male,5722437,487
+3495,2018,Ohio, Myeloma, Female,5953904,238
+3496,2018,Ohio, Myeloma, Male,5722437,289
+3497,2018,Oklahoma, Breast, Female,1987969,610
+3498,2018,Oklahoma, Larynx, Female,1987969,0
+3499,2018,Oklahoma, Larynx, Male,1952266,37
+3500,2018,Oklahoma, Liver, Female,1987969,86
+3501,2018,Oklahoma, Liver, Male,1952266,207
+3502,2018,Oklahoma, Myeloma, Female,1987969,71
+3503,2018,Oklahoma, Myeloma, Male,1952266,89
+3504,2018,Oregon, Breast, Female,2108799,525
+3505,2018,Oregon, Breast, Male,2073087,0
+3506,2018,Oregon, Larynx, Male,2073087,33
+3507,2018,Oregon, Liver, Female,2108799,76
+3508,2018,Oregon, Liver, Male,2073087,233
+3509,2018,Oregon, Myeloma, Female,2108799,77
+3510,2018,Oregon, Myeloma, Male,2073087,103
+3511,2018,Pennsylvania, Breast, Female,6529381,1963
+3512,2018,Pennsylvania, Breast, Male,6271541,22
+3513,2018,Pennsylvania, Larynx, Female,6529381,42
+3514,2018,Pennsylvania, Larynx, Male,6271541,128
+3515,2018,Pennsylvania, Liver, Female,6529381,217
+3516,2018,Pennsylvania, Liver, Male,6271541,568
+3517,2018,Pennsylvania, Myeloma, Female,6529381,244
+3518,2018,Pennsylvania, Myeloma, Male,6271541,290
+3519,2018,Puerto Rico, Breast, Female,1676342,419
+3520,2018,Puerto Rico, Larynx, Male,1517012,38
+3521,2018,Puerto Rico, Liver, Female,1676342,89
+3522,2018,Puerto Rico, Liver, Male,1517012,197
+3523,2018,Puerto Rico, Myeloma, Female,1676342,64
+3524,2018,Puerto Rico, Myeloma, Male,1517012,68
+3525,2018,Rhode Island, Breast, Female,543427,135
+3526,2018,Rhode Island, Larynx, Female,543427,0
+3527,2018,Rhode Island, Larynx, Male,514860,0
+3528,2018,Rhode Island, Liver, Female,543427,18
+3529,2018,Rhode Island, Liver, Male,514860,53
+3530,2018,Rhode Island, Myeloma, Female,543427,17
+3531,2018,Rhode Island, Myeloma, Male,514860,23
+3532,2018,South Carolina, Breast, Female,2620391,758
+3533,2018,South Carolina, Larynx, Female,2620391,0
+3534,2018,South Carolina, Larynx, Male,2463765,80
+3535,2018,South Carolina, Liver, Female,2620391,84
+3536,2018,South Carolina, Liver, Male,2463765,264
+3537,2018,South Carolina, Myeloma, Female,2620391,101
+3538,2018,South Carolina, Myeloma, Male,2463765,111
+3539,2018,South Dakota, Breast, Female,435205,112
+3540,2018,South Dakota, Breast, Male,443493,0
+3541,2018,South Dakota, Larynx, Female,435205,0
+3542,2018,South Dakota, Liver, Male,443493,37
+3543,2018,South Dakota, Myeloma, Female,435205,16
+3544,2018,South Dakota, Myeloma, Male,443493,23
+3545,2018,Tennessee, Breast, Female,3466921,1034
+3546,2018,Tennessee, Breast, Male,3304710,0
+3547,2018,Tennessee, Larynx, Female,3466921,16
+3548,2018,Tennessee, Larynx, Male,3304710,95
+3549,2018,Tennessee, Liver, Female,3466921,119
+3550,2018,Tennessee, Liver, Male,3304710,315
+3551,2018,Tennessee, Myeloma, Female,3466921,134
+3552,2018,Tennessee, Myeloma, Male,3304710,155
+3553,2018,Texas, Breast, Female,14409351,3117
+3554,2018,Texas, Breast, Male,14219315,25
+3555,2018,Texas, Larynx, Female,14409351,49
+3556,2018,Texas, Larynx, Male,14219315,220
+3557,2018,Texas, Liver, Female,14409351,511
+3558,2018,Texas, Liver, Male,14219315,1450
+3559,2018,Texas, Myeloma, Female,14409351,410
+3560,2018,Texas, Myeloma, Male,14219315,475
+3561,2018,Utah, Breast, Female,1565310,287
+3562,2018,Utah, Liver, Female,1565310,26
+3563,2018,Utah, Liver, Male,1588240,81
+3564,2018,Utah, Myeloma, Female,1565310,33
+3565,2018,Utah, Myeloma, Male,1588240,42
+3566,2018,Vermont, Breast, Female,316079,97
+3567,2018,Vermont, Breast, Male,308279,0
+3568,2018,Vermont, Larynx, Female,316079,0
+3569,2018,Vermont, Liver, Male,308279,28
+3570,2018,Vermont, Myeloma, Female,316079,0
+3571,2018,Vermont, Myeloma, Male,308279,0
+3572,2018,Virginia, Breast, Female,4318025,1132
+3573,2018,Virginia, Breast, Male,4183261,16
+3574,2018,Virginia, Larynx, Female,4318025,19
+3575,2018,Virginia, Larynx, Male,4183261,62
+3576,2018,Virginia, Liver, Female,4318025,121
+3577,2018,Virginia, Liver, Male,4183261,370
+3578,2018,Virginia, Myeloma, Female,4318025,135
+3579,2018,Virginia, Myeloma, Male,4183261,197
+3580,2018,Washington DC, Breast, Female,368643,106
+3581,2018,Washington DC, Breast, Male,332904,0
+3582,2018,Washington DC, Liver, Female,368643,0
+3583,2018,Washington DC, Liver, Male,332904,36
+3584,2018,Washington DC, Myeloma, Female,368643,0
+3585,2018,Washington DC, Myeloma, Male,332904,18
+3586,2018,Washington, Breast, Female,3758918,913
+3587,2018,Washington, Larynx, Female,3758918,0
+3588,2018,Washington, Larynx, Male,3764951,52
+3589,2018,Washington, Liver, Female,3758918,124
+3590,2018,Washington, Liver, Male,3764951,337
+3591,2018,Washington, Myeloma, Female,3758918,116
+3592,2018,Washington, Myeloma, Male,3764951,162
+3593,2018,West Virginia, Breast, Female,910982,298
+3594,2018,West Virginia, Larynx, Male,893309,38
+3595,2018,West Virginia, Liver, Female,910982,42
+3596,2018,West Virginia, Liver, Male,893309,91
+3597,2018,West Virginia, Myeloma, Female,910982,39
+3598,2018,West Virginia, Myeloma, Male,893309,46
+3599,2018,Wisconsin, Breast, Female,2918181,775
+3600,2018,Wisconsin, Larynx, Female,2918181,0
+3601,2018,Wisconsin, Larynx, Male,2889225,54
+3602,2018,Wisconsin, Liver, Female,2918181,70
+3603,2018,Wisconsin, Liver, Male,2889225,213
+3604,2018,Wisconsin, Myeloma, Female,2918181,119
+3605,2018,Wisconsin, Myeloma, Male,2889225,125
+3606,2018,Wyoming, Breast, Female,283325,71
+3607,2018,Wyoming, Breast, Male,294276,0
+3608,2018,Wyoming, Larynx, Female,283325,0
+3609,2018,Wyoming, Liver, Male,294276,29
+3610,2018,Wyoming, Myeloma, Female,283325,0
